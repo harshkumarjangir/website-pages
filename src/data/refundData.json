@@ -1,0 +1,112 @@
+{
+    "banner": {
+        "title": "Refund Policy",
+        "description": "This Refund Policy outlines the terms and conditions regarding project cancellations, payments, support, and delivery for projects developed by the Company.",
+        "buttonText": "Contact Us",
+        "buttonLink": "#",
+        "image": "/refund-policy/refund-policy.png"
+    },
+    "aboutCompany": {
+        "title": "About MetaBlock Technologies LLP",
+        "content": "MetaBlock Technologies LLP is a leading software development company specializing in creating innovative and customized solutions for clients worldwide. With a team of experienced professionals, we are committed to delivering high-quality products that meet the unique needs of each client. Our expertise spans various industries, including gaming, finance, healthcare, and e-commerce. We pride ourselves on our customer-centric approach, ensuring that we work closely with our clients to understand their goals and deliver solutions that drive success. At MetaBlock Technologies LLP, we believe in leveraging the latest technologies and best practices to create scalable and efficient software that empowers businesses to thrive in the digital age."
+    },
+    "sections": [
+        {
+            "id": "project-canceled-by-customer",
+            "heading": "If Project Canceled by the Customer",
+            "content": [
+                "Advance Payment: Any advance payment made by the Client to the Company is non-refundable under any circumstances. It is considered a commitment towards development work.",
+                "Custom Project: If the Client cancels a custom project, the Client must pay a portion of the project amount proportional to the work completed.",
+                "Ready-to-Use Project: For ready-to-use projects, cancellation is not valid. The Client must pay the full project amount.",
+                "Hybrid Project: For hybrid projects, the Client must pay 100% for the ready-to-use portion and a proportional amount for the custom portion completed. For example, if the hybrid project is ₹2 lakh (80% ready-to-use, 20% custom), the Client pays ₹1.6 lakh for the ready portion and for the custom portion only for work completed."
+            ]
+        },
+        {
+            "id": "project-canceled-by-company",
+            "heading": "If Project Canceled by the Company",
+            "content": [
+                "If the project is 100% incomplete, the Company will refund the full payment including the advance.",
+                "If the Company cannot complete the project due to government guidelines, legal issues, or resource unavailability, the refund will be proportional to the incomplete portion.",
+                "The Company will provide the Customer with the source code for the completed portion so the project can be completed by another developer.",
+                "Refunds will be processed within 45-60 days of the decision to cancel."
+            ]
+        },
+        {
+            "id": "effective-date",
+            "heading": "Effective Date",
+            "content": [
+                "This Agreement is effective upon execution by both parties.",
+                "The Company’s obligations are fulfilled upon delivery of the website as per the Client’s specifications.",
+                "Early termination: The Client remains responsible for payment for services rendered up to termination. Both parties must settle any outstanding obligations as per the Agreement."
+            ]
+        },
+        {
+            "id": "project-related",
+            "heading": "Project Related",
+            "content": [
+                "The Company agrees to develop and deliver a software project based on the demo link shared and finalized by the Client.",
+                "The final project reflects the exact features and functionality shown in the demo. Any functionality not in the demo will not be included unless specifically agreed upon in writing.",
+                "Custom development requested by the Client may require additional time, which will be communicated in advance."
+            ]
+        },
+        {
+            "id": "post-delivery-support",
+            "heading": "Post-Delivery Support",
+            "content": [
+                "Bug fixes and error resolution will be provided for the committed post-delivery period.",
+                "Additional services or feature requests will incur extra charges."
+            ]
+        },
+        {
+            "id": "support-services",
+            "heading": "Support Services",
+            "content": [
+                "Support for bug fixes and error resolution is available during official business hours: Monday to Friday 10:30 AM to 6:00 PM, Saturday 10:30 AM to 2:00 PM.",
+                "No support will be provided outside these hours or on government holidays. Requests made after hours will be addressed in the next official business period."
+            ]
+        },
+        {
+            "id": "final-delivery",
+            "heading": "Final Delivery",
+            "content": [
+                "Upon completion, the Company will deliver the final product to the Client.",
+                "The Company’s obligations end with delivery unless a separate agreement for additional services is made."
+            ]
+        },
+        {
+            "id": "custom-development",
+            "heading": "Custom Development",
+            "content": [
+                "If additional custom development is requested, the Company may develop it themselves or provide the Client the ability to do it themselves.",
+                "Custom development incurs extra charges and may extend the timeline, as agreed by both parties."
+            ]
+        },
+        {
+            "id": "data-backup-policy",
+            "heading": "Data Backup Policy",
+            "content": [
+                "Data backup is provided according to the hosting plan purchased by the Client.",
+                "The Company is not responsible for maintaining backups beyond the plan duration.",
+                "In case of accidental data loss, the backup will restore data only within the plan limits."
+            ]
+        },
+        {
+            "id": "exclusions",
+            "heading": "Exclusions",
+            "content": [
+                "Ongoing maintenance beyond the support period is not included.",
+                "Legal compliance verification and promotional activities are not included."
+            ]
+        },
+        {
+            "id": "client-responsibilities",
+            "heading": "Client Responsibilities",
+            "content": [
+                "The Client is responsible for ensuring the legality of using the developed software.",
+                "Licensing for entertainment or real-money activities must be obtained by the Client according to applicable laws.",
+                "The Client acknowledges that any disputes, claims, or legal actions from the operation of the website are solely their responsibility.",
+                "The Company is not involved in operations or management post-delivery beyond development services."
+            ]
+        }
+    ]
+}

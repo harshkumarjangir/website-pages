@@ -1,0 +1,121 @@
+{
+    "banner": {
+        "title": "Privacy Policy",
+        "description": "This Privacy Policy explains how MetaBlock Technologies collects, uses, discloses, and protects your information when you visit our website or use our services.",
+        "buttonText": "Contact Us",
+        "buttonLink": "#",
+        "image": "/privacy-policy/privacy-policy.webp"
+    },
+    "aboutCompany": {
+        "title": "About MetaBlock Technologies LLP",
+        "content": "MetaBlock Technologies LLP is a leading software development company specializing in creating innovative and customized solutions for clients worldwide. With a team of experienced professionals, we are committed to delivering high-quality products that meet the unique needs of each client. Our expertise spans various industries, including gaming, finance, healthcare, and e-commerce. We pride ourselves on our customer-centric approach, ensuring that we work closely with our clients to understand their goals and deliver solutions that drive success. At MetaBlock Technologies LLP, we believe in leveraging the latest technologies and best practices to create scalable and efficient software that empowers businesses to thrive in the digital age."
+    },
+    "sections": [
+        {
+            "id": "information-collection",
+            "heading": "Information Collection and Use",
+            "content": [
+                "We collect several different types of information for various purposes to provide and improve our Service to you."
+            ]
+        },
+        {
+            "id": "types-of-data-collected",
+            "heading": "Types of Data Collected",
+            "content": [
+                "Personal Data: While using our Service, we may ask you to provide certain personally identifiable information such as Email address, Github username, and Github avatar.",
+                "Usage Data: We may also collect information on how the Service is accessed and used, including browser type, browser version, pages visited, visit times and dates, time spent on pages, unique device identifiers, and other diagnostic data. IP addresses are anonymized.",
+                "Tracking & Cookies Data: We use anonymous cookies to make some parts of the website work, such as remembering temporary progress in a course until it gets saved. We do not use cookies for tracking. Examples of cookies we use include Session Cookies (to operate our Service), Preference Cookies (to remember preferences and settings), and Security Cookies (for security purposes like Cloudflare and Stripe).",
+                "You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, some portions of the Service may not function if cookies are not accepted."
+            ]
+        },
+        {
+            "id": "use-of-data",
+            "heading": "Use of Data",
+            "content": [
+                "Jad Joubran B.V. uses the collected data for various purposes:",
+                "To provide and maintain the Service",
+                "To notify you about changes to our Service",
+                "To allow you to participate in interactive features of our Service when you choose to do so",
+                "To provide customer care and support",
+                "To provide analysis or valuable information so that we can improve the Service",
+                "To monitor the usage of the Service",
+                "To detect, prevent and address technical issues"
+            ]
+        },
+        {
+            "id": "transfer-of-data",
+            "heading": "Transfer of Data",
+            "content": [
+                "Your information, including Personal Data, may be transferred to and maintained on computers located outside your state, province, country or other governmental jurisdiction where data protection laws may differ.",
+                "If you are located outside Netherlands and provide information to us, please note that we transfer and process data in the Netherlands.",
+                "Your consent to this Privacy Policy followed by submission of such information represents your agreement to that transfer.",
+                "Jad Joubran B.V. will take all steps reasonably necessary to ensure your data is treated securely and transferred only with adequate protections in place."
+            ]
+        },
+        {
+            "id": "disclosure-of-data",
+            "heading": "Disclosure of Data",
+            "content": [
+                "Jad Joubran B.V. may disclose your Personal Data in good faith when necessary to:",
+                "Comply with a legal obligation",
+                "Protect and defend the rights or property of Jad Joubran B.V.",
+                "Prevent or investigate possible wrongdoing in connection with the Service",
+                "Protect the personal safety of users or the public",
+                "Protect against legal liability"
+            ]
+        },
+        {
+            "id": "security-of-data",
+            "heading": "Security of Data",
+            "content": [
+                "The security of your data is important to us. While we strive to use commercially acceptable means to protect your Personal Data, no method of transmission over the Internet or electronic storage is 100% secure, and absolute security cannot be guaranteed."
+            ]
+        },
+        {
+            "id": "service-providers",
+            "heading": "Service Providers",
+            "content": [
+                "We may employ third party companies and individuals to facilitate our Service, provide the Service on our behalf, perform Service-related services, or assist in analyzing how our Service is used.",
+                "These third parties have access to your Personal Data only to perform these tasks and are obligated not to disclose or use it for any other purpose."
+            ]
+        },
+        {
+            "id": "analytics",
+            "heading": "Analytics",
+            "content": [
+                "We use the open source Plausible Analytics to count website visits, browser vendors, device types, etc. No cookies are used and no personal data—not even IP addresses or browser user agents—is stored. Plausible is GDPR and CCPA compliant."
+            ]
+        },
+        {
+            "id": "links-to-other-sites",
+            "heading": "Links to Other Sites",
+            "content": [
+                "Our Service may contain links to other sites that are not operated by us. We are not responsible for the content, privacy policies, or practices of these sites. We strongly advise reviewing the Privacy Policy of every site you visit."
+            ]
+        },
+        {
+            "id": "childrens-privacy",
+            "heading": "Children's Privacy",
+            "content": [
+                "Our Service does not address anyone under the age of 18.",
+                "We do not knowingly collect personally identifiable information from anyone under 18. If you are a parent or guardian and are aware that your child has provided Personal Data, please contact us. If we become aware of such data collected without parental consent, we take steps to remove it from our servers."
+            ]
+        },
+        {
+            "id": "changes-to-policy",
+            "heading": "Changes to This Privacy Policy",
+            "content": [
+                "We may update our Privacy Policy from time to time. Changes will be posted on this page.",
+                "We will notify you via email and/or a prominent notice on our Service prior to changes becoming effective and update the \"effective date\" at the top of this Privacy Policy.",
+                "You are advised to review this Privacy Policy periodically. Changes are effective when posted on this page."
+            ]
+        },
+        {
+            "id": "contact-us",
+            "heading": "Contact Us",
+            "content": [
+                "If you have any questions about this Privacy Policy, please contact us by email: [email protected]"
+            ]
+        }
+    ]
+}
