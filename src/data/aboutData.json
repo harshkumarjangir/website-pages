@@ -1,0 +1,260 @@
+{
+    "heroSection": {
+        "backgroundVideo": "/assets/about-us/heroSection/herovideo.webm",
+        "heading": "A brief introduction to our team and expertise in Web & Blockchain Development",
+        "description2": "Our Company, we specialize in IT solutions, blockchain technology, and gaming innovations. Our mission is to drive the future of digital transformation by delivering: cutting-edge solutions that empower businesses and individuals worldwide.",
+        "description": "Unlike our competitors, our services are personalized, secure, and infinitely scalable web and blockchain solutions. We combine talent with quality and achieve results that provide a positive impact on your business. Our main value is the customer focus and guarantee that every job is done with the maximum professionally.",
+        "buttonText": "Contact Us",
+        "buttonLink": "#",
+        "heroStats": [
+            {
+                "label": "Team",
+                "value": "54+"
+            },
+            {
+                "label": "Projects",
+                "value": "250+"
+            },
+            {
+                "label": "Years of Expertise",
+                "value": "4+"
+            },
+            {
+                "label": "Countries",
+                "value": "1+"
+            }
+        ]
+    },
+    "companyOverview": {
+        "title": "Company Overview",
+        "description": "Our Company, we specialize in IT solutions, blockchain technology, and gaming innovations. Our mission is to drive the future of digital transformation by delivering: cutting-edge solutions that empower businesses and individuals worldwide. Our team of experts has a wide range of experience and skills, and we’re always exploring new technologies to stay at the forefront of the industry.",
+        "linkedin": {
+            "headerText": "Let’s Connect",
+            "followers": "19.7T+",
+            "followersLabel": "followers",
+            "buttonText": "Linkedin",
+            "buttonUrl": "#",
+            "image": "/assets/about-us/companyOverview/calling.webp"
+        }
+    },
+    "whoWeAre": {
+        "title": "Who We Are",
+        "paragraphs": [
+            "The NineHertz, founded in 2008, is a leading IT consulting company known for its innovative and robust digital solutions. Our team of 350+ full-stack developers, designers and innovators have delivered different IT projects successfully. We implement your ideas into reality using the latest technologies and assisting businesses by using the unmatched expertise of our highly qualified developers.",
+            "We are believers of change! A change driven by technology and innovation. Having worked with top-fortune companies and developed numerous on-demand solutions, we have a strong portfolio showcasing our experience. Increase your brand awareness, establish communication with your clients and foster trust using our user-friendly and quality driven web and apps."
+        ],
+        "image": "/assets/about-us/whoWeAre/about-who-we-are1.webp"
+    },
+    "ourStory": {
+        "title": "The MetaBlock Story",
+        "timeline": [
+            {
+                "year": "2021",
+                "image": "/assets/about-us/ourStory/about-story-2021.webp",
+                "description": "Appinventiv commenced operations with less than 10 employees working passionately with a vision to grow. With utmost dedication, we bagged our first brand project within a month of our incorporation. We set the grounds for success and unprecedented opportunities."
+            },
+            {
+                "year": "2022",
+                "image": "/assets/about-us/ourStory/about-story-2022.webp",
+                "description": "Expanded our client base internationally and doubled our team size."
+            },
+            {
+                "year": "2023",
+                "image": "/assets/about-us/ourStory/about-story-2023.webp",
+                "description": "Recognized among top app development companies worldwide."
+            },
+            {
+                "year": "2024",
+                "image": "/assets/about-us/ourStory/about-story-2021.webp",
+                "description": "Appinventiv commenced operations with less than 10 employees working passionately with a vision to grow. With utmost dedication, we bagged our first brand project within a month of our incorporation. We set the grounds for success and unprecedented opportunities."
+            },
+            {
+                "year": "2025",
+                "image": "/assets/about-us/ourStory/about-story-2022.webp",
+                "description": "Expanded our client base internationally and doubled our team size."
+            }
+        ]
+    },
+    "latestTechnologies": {
+        "heading": "Get Solutions Built with the Latest Robust Technologies",
+        "description": "Metablock Technologies combines AI, machine learning, and other emerging technologies to craft scalable solutions, giving your business a competitive edge. Our teams' expertise covers a vast range of technologies, setting us apart from other companies.",
+        "categories": [
+            {
+                "name": "Mobile App",
+                "key": "mobile",
+                "technologies": [
+                    {
+                        "name": "iOS",
+                        "icon": "/assets/about-us/latestTechnologies/mobileApp/technologies-ic14.svg"
+                    },
+                    {
+                        "name": "Android",
+                        "icon": "/assets/about-us/latestTechnologies/mobileApp/technologies-ic15.svg"
+                    },
+                    {
+                        "name": "Ionic",
+                        "icon": "/assets/about-us/latestTechnologies/mobileApp/technologies-ic16.svg"
+                    },
+                    {
+                        "name": "Flutter",
+                        "icon": "/assets/about-us/latestTechnologies/mobileApp/technologies-ic17.svg"
+                    },
+                    {
+                        "name": "PWA",
+                        "icon": "/assets/about-us/latestTechnologies/mobileApp/pwa-icon.svg"
+                    },
+                    {
+                        "name": "React Native",
+                        "icon": "/assets/about-us/latestTechnologies/mobileApp/technologies-ic4.svg"
+                    },
+                    {
+                        "name": "Cordova",
+                        "icon": "/assets/about-us/latestTechnologies/mobileApp/technologies-ic19.svg"
+                    },
+                    {
+                        "name": "Swift",
+                        "icon": "/assets/about-us/latestTechnologies/mobileApp/technologies-ic-swift.svg"
+                    }
+                ]
+            },
+            {
+                "name": "AI",
+                "key": "ai",
+                "technologies": [
+                    {
+                        "name": "OpenAI",
+                        "icon": "/assets/about-us/latestTechnologies/ai/openai-logo.svg"
+                    },
+                    {
+                        "name": "Meta AI",
+                        "icon": "/assets/about-us/latestTechnologies/ai/meta.svg"
+                    },
+                    {
+                        "name": "Google AI",
+                        "icon": "/assets/about-us/latestTechnologies/ai/google-ai.svg"
+                    },
+                    {
+                        "name": "Grok",
+                        "icon": "/assets/about-us/latestTechnologies/ai/grok.svg"
+                    },
+                    {
+                        "name": "Scikit-learn",
+                        "icon": "/icons/scikit.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Frontend",
+                "key": "frontend",
+                "technologies": [
+                    {
+                        "name": "React",
+                        "icon": "/assets/about-us/latestTechnologies/frontend/technologies-ic4.svg"
+                    },
+                    {
+                        "name": "Next.js",
+                        "icon": "/assets/about-us/latestTechnologies/frontend/nextjs-icon.svg"
+                    },
+                    {
+                        "name": "Vue.js",
+                        "icon": "/assets/about-us/latestTechnologies/frontend/Vue.js_Logo_2.svg"
+                    },
+                    {
+                        "name": "Angular",
+                        "icon": "/assets/about-us/latestTechnologies/frontend/technologies-ic3.svg"
+                    },
+                    {
+                        "name": "Tailwind CSS",
+                        "icon": "/assets/about-us/latestTechnologies/frontend/tailwindcss-mark.d52e9897.svg"
+                    },
+                    {
+                        "name": "JavaScript",
+                        "icon": "/assets/about-us/latestTechnologies/frontend/javascript-logo.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Backend",
+                "key": "backend",
+                "technologies": [
+                    {
+                        "name": "Node.js",
+                        "icon": "/assets/about-us/latestTechnologies/backend/technologies-ic13.svg"
+                    },
+                    {
+                        "name": "Express",
+                        "icon": "/assets/about-us/latestTechnologies/backend/expressjs-icon.svg"
+                    },
+                    {
+                        "name": "Laravel",
+                        "icon": "/assets/about-us/latestTechnologies/backend/technologies-ic12.svg"
+                    },
+                    {
+                        "name": "Django",
+                        "icon": "/assets/about-us/latestTechnologies/backend/technologies-ic11.svg"
+                    },
+                    {
+                        "name": "Spring Boot",
+                        "icon": "/assets/about-us/latestTechnologies/backend/technologies-ic-java.svg"
+                    }
+                ]
+            },
+            {
+                "name": "DevOps",
+                "key": "devops",
+                "technologies": [
+                    {
+                        "name": "Docker",
+                        "icon": "/assets/about-us/latestTechnologies/devops/technologies-ic20.svg"
+                    },
+                    {
+                        "name": "Kubernetes",
+                        "icon": "/assets/about-us/latestTechnologies/devops/technologies-ic21.svg"
+                    },
+                    {
+                        "name": "Jenkins",
+                        "icon": "/assets/about-us/latestTechnologies/devops/jenkins-svgrepo-com.svg"
+                    },
+                    {
+                        "name": "GitHub Actions",
+                        "icon": "/assets/about-us/latestTechnologies/devops/GitHub Actions.svg"
+                    },
+                    {
+                        "name": "AWS",
+                        "icon": "/assets/about-us/latestTechnologies/devops/technologies-ic33.svg"
+                    },
+                    {
+                        "name": "Azure",
+                        "icon": "/assets/about-us/latestTechnologies/devops/technologies-ic34.svg"
+                    },
+                    {
+                        "name": "DigitalOcean",
+                        "icon": "/assets/about-us/latestTechnologies/devops/technologies-ic35.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Android",
+                "key": "android",
+                "technologies": [
+                    {
+                        "name": "Java",
+                        "icon": "/assets/about-us/latestTechnologies/android/technologies-ic-java.svg"
+                    },
+                    {
+                        "name": "Kotlin",
+                        "icon": "/assets/about-us/latestTechnologies/android/Kotlin_icon.svg"
+                    },
+                    {
+                        "name": "Android Studio",
+                        "icon": "/assets/about-us/latestTechnologies/android/Android_Studio.svg"
+                    },
+                    {
+                        "name": "Firebase",
+                        "icon": "/assets/about-us/latestTechnologies/android/icons8-firebase.svg"
+                    }
+                ]
+            }
+        ]
+    }
+}
