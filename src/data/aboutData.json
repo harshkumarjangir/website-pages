@@ -45,6 +45,18 @@
         ],
         "image": "/assets/about-us/whoWeAre/about-who-we-are1.webp"
     },
+    "ourVisionMission": {
+        "ourVision": {
+            "title": "Our Vision",
+            "paragraphs": "Our vision is to serve our clients by offering them cutting-edge IT products & services that help them grow and dominate their industries with the help of the latest IT technologies."
+        },
+        "ourMission": {
+            "title": "Our Mission",
+            "paragraphs": "The mission of the company is to serve the youth by empowering them with the most advanced blockchain technological training, with the vision of making them future corporate leaders."
+        },
+        "image": "/assets/about-us/whoWeAre/about-who-we-are1.webp",
+        "imageAlt": "Our Vision and Mission"
+    },
     "ourStory": {
         "title": "The MetaBlock Story",
         "timeline": [
@@ -75,6 +87,212 @@
             }
         ]
     },
+    "ourServices": [
+        {
+            "id": "blockchain",
+            "title": "Blockchain Development Services for Your Innovative Business",
+            "image": "/assets/about-us/ourServices/blockchain.png",
+            "items": [
+                "Enterprise Blockchain Solutions",
+                "Blockchain Crowdfunding Development",
+                "Smart Contract Development",
+                "Private/Public Blockchain Development",
+                "Blockchain P2P Lending Platform",
+                "Blockchain AI Development",
+                "DAO Blockchain Development",
+                "Blockchain Consulting",
+                "Enterprise Blockchain Solutions",
+                "Blockchain Crowdfunding Development",
+                "Smart Contract Development",
+                "Private/Public Blockchain Development",
+                "Blockchain P2P Lending Platform",
+                "Blockchain AI Development",
+                "DAO Blockchain Development",
+                "Blockchain Consulting"
+            ]
+        },
+        {
+            "id": "metaverse",
+            "title": "Metaverse – Enter the world beyond imagination with Metaverse",
+            "image": "/assets/about-us/ourServices/blockchain.png",
+            "items": [
+                "Metaverse Development",
+                "Metaverse Token Development",
+                "Metaverse E-Commerce Platform Development",
+                "Metaverse Solutions for Industries",
+                "Metaverse Social Media Platform Development",
+                "Metaverse 3D Spaces Development",
+                "Metaverse Game Development",
+                "Metaverse NFT Marketplace Development",
+                "Metaverse Integration Services",
+                "Metaverse Event Platform Development"
+            ]
+        },
+        {
+            "id": "nft",
+            "title": "NFT – Digitalize and own one-of-a-kind assets, forever in your secure wallet.",
+            "image": "/assets/about-us/ourServices/blockchain.png",
+            "items": [
+                "NFT Marketplace Development",
+                "NFT Gaming Platform Development",
+                "NFT Token Development",
+                "NFT Art Marketplace Development"
+            ]
+        },
+        {
+            "id": "blockchain2",
+            "title": "Blockchain Development Services for Your Innovative Business",
+            "image": "/assets/about-us/ourServices/blockchain.png",
+            "items": [
+                "Enterprise Blockchain Solutions",
+                "Blockchain Crowdfunding Development",
+                "Smart Contract Development",
+                "Private/Public Blockchain Development",
+                "Blockchain P2P Lending Platform",
+                "Blockchain AI Development",
+                "DAO Blockchain Development",
+                "Blockchain Consulting",
+                "Enterprise Blockchain Solutions",
+                "Blockchain Crowdfunding Development",
+                "Smart Contract Development",
+                "Private/Public Blockchain Development",
+                "Blockchain P2P Lending Platform",
+                "Blockchain AI Development",
+                "DAO Blockchain Development",
+                "Blockchain Consulting"
+            ]
+        },
+        {
+            "id": "metaverse2",
+            "title": "Metaverse – Enter the world beyond imagination with Metaverse",
+            "image": "/assets/about-us/ourServices/blockchain.png",
+            "items": [
+                "Metaverse Development",
+                "Metaverse Token Development",
+                "Metaverse E-Commerce Platform Development",
+                "Metaverse Solutions for Industries",
+                "Metaverse Social Media Platform Development",
+                "Metaverse 3D Spaces Development",
+                "Metaverse Game Development",
+                "Metaverse NFT Marketplace Development",
+                "Metaverse Integration Services",
+                "Metaverse Event Platform Development"
+            ]
+        },
+        {
+            "id": "nft2",
+            "title": "NFT – Digitalize and own one-of-a-kind assets, forever in your secure wallet.",
+            "image": "/assets/about-us/ourServices/blockchain.png",
+            "items": [
+                "NFT Marketplace Development",
+                "NFT Gaming Platform Development",
+                "NFT Token Development",
+                "NFT Art Marketplace Development"
+            ]
+        },
+        {
+            "id": "blockchain3",
+            "title": "Blockchain Development Services for Your Innovative Business",
+            "image": "/assets/about-us/ourServices/blockchain.png",
+            "items": [
+                "Enterprise Blockchain Solutions",
+                "Blockchain Crowdfunding Development",
+                "Smart Contract Development",
+                "Private/Public Blockchain Development",
+                "Blockchain P2P Lending Platform",
+                "Blockchain AI Development",
+                "DAO Blockchain Development",
+                "Blockchain Consulting",
+                "Enterprise Blockchain Solutions",
+                "Blockchain Crowdfunding Development",
+                "Smart Contract Development",
+                "Private/Public Blockchain Development",
+                "Blockchain P2P Lending Platform",
+                "Blockchain AI Development",
+                "DAO Blockchain Development",
+                "Blockchain Consulting"
+            ]
+        },
+        {
+            "id": "metaverse3",
+            "title": "Metaverse – Enter the world beyond imagination with Metaverse",
+            "image": "/assets/about-us/ourServices/blockchain.png",
+            "items": [
+                "Metaverse Development",
+                "Metaverse Token Development",
+                "Metaverse E-Commerce Platform Development",
+                "Metaverse Solutions for Industries",
+                "Metaverse Social Media Platform Development",
+                "Metaverse 3D Spaces Development",
+                "Metaverse Game Development",
+                "Metaverse NFT Marketplace Development",
+                "Metaverse Integration Services",
+                "Metaverse Event Platform Development"
+            ]
+        },
+        {
+            "id": "nft3",
+            "title": "NFT – Digitalize and own one-of-a-kind assets, forever in your secure wallet.",
+            "image": "/assets/about-us/ourServices/blockchain.png",
+            "items": [
+                "NFT Marketplace Development",
+                "NFT Gaming Platform Development",
+                "NFT Token Development",
+                "NFT Art Marketplace Development"
+            ]
+        },
+        {
+            "id": "blockchain4",
+            "title": "Blockchain Development Services for Your Innovative Business",
+            "image": "/assets/about-us/ourServices/blockchain.png",
+            "items": [
+                "Enterprise Blockchain Solutions",
+                "Blockchain Crowdfunding Development",
+                "Smart Contract Development",
+                "Private/Public Blockchain Development",
+                "Blockchain P2P Lending Platform",
+                "Blockchain AI Development",
+                "DAO Blockchain Development",
+                "Blockchain Consulting",
+                "Enterprise Blockchain Solutions",
+                "Blockchain Crowdfunding Development",
+                "Smart Contract Development",
+                "Private/Public Blockchain Development",
+                "Blockchain P2P Lending Platform",
+                "Blockchain AI Development",
+                "DAO Blockchain Development",
+                "Blockchain Consulting"
+            ]
+        },
+        {
+            "id": "metaverse4",
+            "title": "Metaverse – Enter the world beyond imagination with Metaverse",
+            "image": "/assets/about-us/ourServices/blockchain.png",
+            "items": [
+                "Metaverse Development",
+                "Metaverse Token Development",
+                "Metaverse E-Commerce Platform Development",
+                "Metaverse Solutions for Industries",
+                "Metaverse Social Media Platform Development",
+                "Metaverse 3D Spaces Development",
+                "Metaverse Game Development",
+                "Metaverse NFT Marketplace Development",
+                "Metaverse Integration Services",
+                "Metaverse Event Platform Development"
+            ]
+        },
+        {
+            "id": "nft4",
+            "title": "NFT – Digitalize and own one-of-a-kind assets, forever in your secure wallet.",
+            "image": "/assets/about-us/ourServices/blockchain.png",
+            "items": [
+                "NFT Marketplace Development",
+                "NFT Gaming Platform Development",
+                "NFT Token Development",
+                "NFT Art Marketplace Development"
+            ]
+        }
+    ],
     "latestTechnologies": {
         "heading": "Get Solutions Built with the Latest Robust Technologies",
         "description": "Metablock Technologies combines AI, machine learning, and other emerging technologies to craft scalable solutions, giving your business a competitive edge. Our teams' expertise covers a vast range of technologies, setting us apart from other companies.",
@@ -256,5 +474,15 @@
                 ]
             }
         ]
+    },
+    "ctaSection": {
+        "title": "Let’s Discuss Your Project",
+        "highlight": "Your Project",
+        "description": "Get a free consultation to discuss how we will transform your idea into an amazing digital product.",
+        "buttonText": "GET FREE CONSULTATION",
+        "buttonLink": "#",
+        "bgGradient": "from-[#0047FF] to-[#0B75FF]",
+        "leftImage": "/assets/about-us/ctaSection/cta-left.svg",
+        "rightImage": "/assets/about-us/ctaSection/cta-right.svg"
     }
 }

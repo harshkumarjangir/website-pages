@@ -30,6 +30,12 @@ export default function Home() {
           >
             Refund Policy
           </Link>
+          <Link
+            href="/about-us"
+            className="text-blue-600 hover:underline block"
+          >
+            About Us
+          </Link>
         </div>
       </div>
     </div>
