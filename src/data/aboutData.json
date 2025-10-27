@@ -57,6 +57,35 @@
         "image": "/assets/about-us/whoWeAre/about-who-we-are1.webp",
         "imageAlt": "Our Vision and Mission"
     },
+    "ourAchievements": {
+        "title": "Our Achievements",
+        "achievements": [
+            {
+                "count": 350,
+                "suffix": "+",
+                "label": "Experts of technology",
+                "icon": "Cpu"
+            },
+            {
+                "count": 1500,
+                "suffix": "+",
+                "label": "Websites delivered to clients",
+                "icon": "Globe"
+            },
+            {
+                "count": 500,
+                "suffix": "+",
+                "label": "Mobile Apps delivered",
+                "icon": "Smartphone"
+            },
+            {
+                "count": 2000,
+                "suffix": "+",
+                "label": "Clients worldwide",
+                "icon": "Users"
+            }
+        ]
+    },
     "ourStory": {
         "title": "The MetaBlock Story",
         "timeline": [
@@ -84,6 +113,155 @@
                 "year": "2025",
                 "image": "/assets/about-us/ourStory/about-story-2022.webp",
                 "description": "Expanded our client base internationally and doubled our team size."
+            }
+        ]
+    },
+    "ourDevelopmentProcess": {
+        "title": "Our Development Process",
+        "description": "At Meta Block Technologies, we employ a unique methodology to deliver the best result that satisfies our clients' needs and the most recent market trends. We have created a variety of software applications for companies in a variety of industries, from straightforward inventory packages to intricate ERP systems. In order to satisfy each client's unique needs, we also modify software to their specifications. When creating a Software Development Life Cycle (SDLC) at Meta Block, we adhere to the guidelines listed below. Our team comprises of proficient and enthusiastic professionals who put in a lot of effort to finish your application before the deadline. We provide customised solutions that are ideal for your company's needs.",
+        "steps": [
+            {
+                "title": "Gathering Information",
+                "description": "Our senior team gathers all the necessary data from the client regarding the goal, target audience, and purpose of the project to ensure it meets business requirements and appeals to people of all ages. We also provide helpful recommendations for best results.",
+                "icon": "FileSearch"
+            },
+            {
+                "title": "Analysis",
+                "description": "After gathering the data, our analysts assess the project complexity, financial requirements, and schedule. We create a clear document covering payment terms, timeline, technologies, and responsibilities.",
+                "icon": "ChartBar"
+            },
+            {
+                "title": "Planning",
+                "description": "Our team devises an efficient plan to design and develop the project using the agile methodology, ensuring timely, effective, and productive outcomes beyond expectations.",
+                "icon": "ClipboardList"
+            },
+            {
+                "title": "Wire-Frames",
+                "description": "We create wireframes to visualize the project structure, ensuring intuitiveness. Then we prepare a PSD and refine the design with client feedback for the best experience.",
+                "icon": "Layout"
+            },
+            {
+                "title": "Design",
+                "description": "Our design team crafts visually appealing and responsive interfaces, ensuring flawless functionality across all devices including PCs, tablets, and smartphones.",
+                "icon": "Palette"
+            },
+            {
+                "title": "Develop",
+                "description": "Our developers write optimized, scalable code to build an engaging and high-performing application or website aligned with market trends.",
+                "icon": "Code2"
+            },
+            {
+                "title": "Testing",
+                "description": "Our QA team rigorously tests the project for bugs or inconsistencies, ensuring the final product is stable, efficient, and user-ready.",
+                "icon": "Bug"
+            },
+            {
+                "title": "Deployment & Support",
+                "description": "Once the project passes testing, we deploy it live and offer post-launch support, updates, and maintenance for long-term success.",
+                "icon": "Rocket"
+            }
+        ]
+    },
+    "industriesSection": {
+        "title": "A Unified Vision That Caters To | Diverse Industry Demands",
+        "buttonText": "Explore More in Industries",
+        "buttonUrl": "#",
+        "industries": [
+            {
+                "id": 1,
+                "title": "Healthcare",
+                "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+                "icon": "HeartPulse"
+            },
+            {
+                "id": 2,
+                "title": "Finance",
+                "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+                "icon": "Wallet"
+            },
+            {
+                "id": 3,
+                "title": "Restaurant",
+                "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+                "icon": "UtensilsCrossed"
+            },
+            {
+                "id": 4,
+                "title": "eCommerce",
+                "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+                "icon": "ShoppingCart"
+            },
+            {
+                "id": 5,
+                "title": "Electric Vehicle (EV)",
+                "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+                "icon": "Car"
+            },
+            {
+                "id": 6,
+                "title": "SaaS",
+                "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+                "icon": "Cloud"
+            },
+            {
+                "id": 7,
+                "title": "Travel",
+                "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+                "icon": "Plane"
+            },
+            {
+                "id": 8,
+                "title": "Entertainment",
+                "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+                "icon": "Music"
+            },
+            {
+                "id": 9,
+                "title": "Education",
+                "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+                "icon": "BookOpen"
+            },
+            {
+                "id": 10,
+                "title": "Logistics",
+                "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+                "icon": "Truck"
+            },
+            {
+                "id": 11,
+                "title": "Agriculture",
+                "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+                "icon": "Leaf"
+            },
+            {
+                "id": 12,
+                "title": "Sports",
+                "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+                "icon": "Dumbbell"
+            },
+            {
+                "id": 13,
+                "title": "Real Estate",
+                "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+                "icon": "Building"
+            },
+            {
+                "id": 14,
+                "title": "Energy",
+                "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+                "icon": "BatteryCharging"
+            },
+            {
+                "id": 15,
+                "title": "Telecom",
+                "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+                "icon": "Signal"
+            },
+            {
+                "id": 16,
+                "title": "Retail",
+                "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+                "icon": "Store"
             }
         ]
     },
@@ -293,6 +471,264 @@
             ]
         }
     ],
+    "techCapabilities": {
+        "categories": [
+            {
+                "id": 1,
+                "name": "Artificial Intelligence",
+                "icon": "Cpu"
+            },
+            {
+                "id": 2,
+                "name": "Frontend Programming Languages",
+                "icon": "Code2"
+            },
+            {
+                "id": 3,
+                "name": "Backend Programming Languages",
+                "icon": "Server"
+            },
+            {
+                "id": 4,
+                "name": "Mobile",
+                "icon": "Smartphone"
+            },
+            {
+                "id": 5,
+                "name": "Big Data",
+                "icon": "Database"
+            },
+            {
+                "id": 6,
+                "name": "Databases / Data Storages",
+                "icon": "Database"
+            },
+            {
+                "id": 7,
+                "name": "Cloud DB, Warehouses And Storage",
+                "icon": "Cloud"
+            },
+            {
+                "id": 8,
+                "name": "DevOps & CI/CD",
+                "icon": "Server"
+            },
+            {
+                "id": 9,
+                "name": "Testing & QA Tools",
+                "icon": "Server"
+            },
+            {
+                "id": 10,
+                "name": "Blockchain",
+                "icon": "Server"
+            },
+            {
+                "id": 11,
+                "name": "IoT",
+                "icon": "Server"
+            }
+        ],
+        "companies": {
+            "Artificial Intelligence": {
+                "Models & APIs": [
+                    "Mistral AI",
+                    "OpenAI",
+                    "Meta",
+                    "Google",
+                    "Hugging Face",
+                    "Grok"
+                ],
+                "Vector Databases": [
+                    "Google AI",
+                    "Hugging Face",
+                    "AWS AI"
+                ]
+            },
+            "Frontend Programming Languages": {
+                "Frameworks": [
+                    "React",
+                    "Vue.js",
+                    "Angular",
+                    "Svelte"
+                ],
+                "Meta Frameworks": [
+                    "Next.js",
+                    "Nuxt.js"
+                ]
+            },
+            "Backend Programming Languages": {
+                "General Purpose": [
+                    "Python",
+                    "Java",
+                    "Go",
+                    "Ruby",
+                    "PHP"
+                ],
+                "JavaScript Runtime": [
+                    "Node.js",
+                    "Deno"
+                ]
+            },
+            "Mobile": {
+                "Cross Platform": [
+                    "Flutter",
+                    "React Native"
+                ],
+                "Native": [
+                    "Swift",
+                    "Kotlin",
+                    "Java (Android)"
+                ]
+            },
+            "Big Data": {
+                "Frameworks & Processing": [
+                    "Apache Hadoop",
+                    "Apache Spark",
+                    "Databricks"
+                ],
+                "Tools": [
+                    "Kafka",
+                    "Flink"
+                ]
+            },
+            "Databases / Data Storages": {
+                "Relational": [
+                    "PostgreSQL",
+                    "MySQL",
+                    "MariaDB"
+                ],
+                "NoSQL": [
+                    "MongoDB",
+                    "Cassandra",
+                    "Redis"
+                ]
+            },
+            "Cloud DB, Warehouses And Storage": {
+                "Providers": [
+                    "Amazon Redshift",
+                    "Google BigQuery",
+                    "Snowflake"
+                ],
+                "Object Storage": [
+                    "AWS S3",
+                    "Google Cloud Storage",
+                    "Azure Blob Storage"
+                ]
+            },
+            "DevOps & CI/CD": {
+                "Tools": [
+                    "Jenkins",
+                    "GitHub Actions",
+                    "GitLab CI",
+                    "CircleCI"
+                ],
+                "Containerization": [
+                    "Docker",
+                    "Kubernetes"
+                ]
+            },
+            "Testing & QA Tools": {
+                "Automation": [
+                    "Selenium",
+                    "Cypress"
+                ],
+                "Unit": [
+                    "Jest",
+                    "Mocha"
+                ]
+            },
+            "Blockchain": {
+                "Platforms": [
+                    "Ethereum",
+                    "Polygon",
+                    "Solana"
+                ],
+                "Tools": [
+                    "Hyperledger",
+                    "Metamask"
+                ]
+            },
+            "IoT": {
+                "Platforms": [
+                    "AWS IoT",
+                    "Azure IoT",
+                    "Google Cloud IoT"
+                ],
+                "Devices": [
+                    "Raspberry Pi",
+                    "Arduino"
+                ]
+            }
+        }
+    },
+    "ourExpertise": {
+        "title": "Our Area of Expertise in Development",
+        "bgTitle": "Expertise",
+        "description": "We specialise in assisting you in turning your ideas into winning plans with the aid of our incredible products.",
+        "expertises": [
+            {
+                "name": "Web3 Development",
+                "icon": "Network"
+            },
+            {
+                "name": "Metaverse Development",
+                "icon": "Globe"
+            },
+            {
+                "name": "DeFi Development",
+                "icon": "Coins"
+            },
+            {
+                "name": "Blockchain Development",
+                "icon": "Cpu"
+            },
+            {
+                "name": "Hyperledger Development",
+                "icon": "Layers"
+            },
+            {
+                "name": "Cryptocurrency Development",
+                "icon": "Bitcoin"
+            },
+            {
+                "name": "dApp Development",
+                "icon": "AppWindow"
+            },
+            {
+                "name": "On-demand App Development",
+                "icon": "Smartphone"
+            },
+            {
+                "name": "NFT Development",
+                "icon": "Image"
+            },
+            {
+                "name": "Game Development",
+                "icon": "Gamepad2"
+            },
+            {
+                "name": "ICO/STO/IDO Development",
+                "icon": "TrendingUp"
+            },
+            {
+                "name": "Mobile App Development",
+                "icon": "Smartphone"
+            },
+            {
+                "name": "Web Design Services",
+                "icon": "Monitor"
+            },
+            {
+                "name": "AI Development",
+                "icon": "Brain"
+            },
+            {
+                "name": "Enterprise Solutions",
+                "icon": "Building2"
+            }
+        ]
+    },
     "latestTechnologies": {
         "heading": "Get Solutions Built with the Latest Robust Technologies",
         "description": "Metablock Technologies combines AI, machine learning, and other emerging technologies to craft scalable solutions, giving your business a competitive edge. Our teams' expertise covers a vast range of technologies, setting us apart from other companies.",
@@ -484,5 +920,220 @@
         "bgGradient": "from-[#0047FF] to-[#0B75FF]",
         "leftImage": "/assets/about-us/ctaSection/cta-left.svg",
         "rightImage": "/assets/about-us/ctaSection/cta-right.svg"
+    },
+    "whyChooseUs": {
+        "heading": "Why choose us in software development?",
+        "description": "Partner with us for innovative software development, as we customize scalable solutions from scratch according to your needs. Through our expert team, quality work, seamless communication, and timely delivery ensure success and growth for you.",
+        "processImage": "/assets/about-us/whyChooseUs/chooseUs.png",
+        "steps": [
+            {
+                "number": "01",
+                "title": "In-House Development",
+                "description": "In-house development refers to creating software or systems using a network's internal team, ensuring full control over processes, customization, and data security."
+            },
+            {
+                "number": "02",
+                "title": "Using Latest Technologies",
+                "description": "Adopting the latest technology empowers organizations to raise productivity, optimize efficiency, and foster faster innovation."
+            },
+            {
+                "number": "03",
+                "title": "Testing Facility",
+                "description": "A testing facility is a specific environment designed for evaluating products, software, or systems to ensure they meet quality and performance standards."
+            },
+            {
+                "number": "04",
+                "title": "After-Sale Support",
+                "description": "After-sale support refers to the help offered to customers after they buy a product or service, including troubleshooting and updates."
+            },
+            {
+                "number": "05",
+                "title": "Post Payment Terms",
+                "description": "Post-payment terms refer to agreements where buyers pay for goods or services after delivery or completion, fostering trust and smoother cash flow."
+            },
+            {
+                "number": "06",
+                "title": "On-Time Project Delivery",
+                "description": "On-time project delivery ensures tasks are completed within the agreed timeframe, enhancing satisfaction and efficiency."
+            },
+            {
+                "number": "07",
+                "title": "Expert Team and Reliable Support",
+                "description": "An expert team consists of highly qualified professionals who collaborate to deliver high-quality, innovative solutions."
+            },
+            {
+                "number": "08",
+                "title": "Cost Effective Development",
+                "description": "Cost-effective development focuses on maximizing value while minimizing costs through efficient planning and agile methodologies."
+            }
+        ]
+    },
+    "partnershipSection": {
+        "title": "Our Partnerships Have Transformed How You Experience These Global Leaders",
+        "logos": [
+            {
+                "name": "IKEA",
+                "src": "/assets/about-us/partnership/ikea-logo-color.svg"
+            },
+            {
+                "name": "Google",
+                "src": "/assets/about-us/partnership/google-logo-color.svg"
+            },
+            {
+                "name": "BCG",
+                "src": "/assets/about-us/partnership/bcc-logo-color.svg"
+            },
+            {
+                "name": "KFC",
+                "src": "/assets/about-us/partnership/ikea-logo-color.svg"
+            },
+            {
+                "name": "TGI Fridays",
+                "src": "/assets/about-us/partnership/friday-logo-color.svg"
+            },
+            {
+                "name": "Moo",
+                "src": "/assets/about-us/partnership/ikea-logo-color.svg"
+            },
+            {
+                "name": "Krispy Kreme",
+                "src": "/assets/about-us/partnership/ikea-logo-color.svg"
+            },
+            {
+                "name": "Hardee's",
+                "src": "/assets/about-us/partnership/ikea-logo-color.svg"
+            },
+            {
+                "name": "Bajaj Allianz",
+                "src": "/assets/about-us/partnership/ikea-logo-color.svg"
+            },
+            {
+                "name": "Domino's",
+                "src": "/assets/about-us/partnership/domin-logo-color.svg"
+            },
+            {
+                "name": "SuperShe",
+                "src": "/assets/about-us/partnership/ikea-logo-color.svg"
+            },
+            {
+                "name": "Wimpy",
+                "src": "/assets/about-us/partnership/ikea-logo-color.svg"
+            },
+            {
+                "name": "Empire Hotels",
+                "src": "/assets/about-us/partnership/ikea-logo-color.svg"
+            },
+            {
+                "name": "JobGet",
+                "src": "/assets/about-us/partnership/ikea-logo-color.svg"
+            },
+            {
+                "name": "Asian Bank",
+                "src": "/assets/about-us/partnership/ikea-logo-color.svg"
+            }
+        ]
+    },
+    "developmentProcessSection": {
+        "heading": "Our Development Process",
+        "description": "At Meta Block Technologies, we employ a unique methodology to deliver the best result that satisfies our clients' needs and the most recent market trends. We have created a variety of software applications for companies in a variety of industries, from straightforward inventory packages to intricate ERP systems. In order to satisfy each client's unique needs, we also modify software to their specifications. When creating a Software Development Life Cycle (SDLC) at Meta Block, we adhere to the guidelines listed below. Our team comprises of proficient and enthusiastic professionals who put in a lot of effort to finish your application before the deadline. We provide customised solutions that are ideal for your company's needs.",
+        "shortDescription": "Our development process at Meta Block Technologies is designed to ensure efficient and high-quality software delivery. We follow a structured approach that includes the following key steps:",
+        "steps": [
+            {
+                "title": "Gathering Information",
+                "bgImage": "process-img1.webp",
+                "points": [
+                    "Understand project goals and purpose",
+                    "Identify target audience and expectations",
+                    "Collect functional requirements",
+                    "Suggest improvements for better outcomes"
+                ],
+                "paddingLeft": "20%",
+                "paddingTop": "0%"
+            },
+            {
+                "title": "Analysis",
+                "bgImage": "process-img2.webp",
+                "points": [
+                    "Assess project complexity and scope",
+                    "Estimate cost and timeline",
+                    "Choose suitable technologies",
+                    "Document responsibilities and workflow"
+                ],
+                "paddingLeft": "30%",
+                "paddingTop": "95%"
+            },
+            {
+                "title": "Planning",
+                "bgImage": "process-img3.webp",
+                "points": [
+                    "Create structured development roadmap",
+                    "Follow agile project methodology",
+                    "Set milestones and delivery phases",
+                    "Ensure efficient and timely execution"
+                ],
+                "paddingLeft": "30%",
+                "paddingTop": "0%"
+            },
+            {
+                "title": "Wire-Frames",
+                "bgImage": "process-img4.webp",
+                "points": [
+                    "Design initial layout structure",
+                    "Visualize user flow and interactions",
+                    "Create and refine PSD design",
+                    "Iterate based on client feedback"
+                ],
+                "paddingLeft": "28%",
+                "paddingTop": "92%"
+            },
+            {
+                "title": "Design",
+                "bgImage": "process-img5.webp",
+                "points": [
+                    "Develop modern and appealing UI/UX",
+                    "Ensure mobile and desktop responsiveness",
+                    "Optimize visual clarity and usability",
+                    "Prepare final design assets"
+                ],
+                "paddingLeft": "25%",
+                "paddingTop": "0%"
+            },
+            {
+                "title": "Develop",
+                "bgImage": "process-img6.webp",
+                "points": [
+                    "Write clean and scalable code",
+                    "Integrate necessary backend and APIs",
+                    "Ensure high performance and speed",
+                    "Follow best coding practices"
+                ],
+                "paddingLeft": "28%",
+                "paddingTop": "92%"
+            },
+            {
+                "title": "Testing",
+                "bgImage": "process-img7.webp",
+                "points": [
+                    "Perform functional and bug testing",
+                    "Check system stability and performance",
+                    "Verify user experience flow",
+                    "Ensure product readiness for launch"
+                ],
+                "paddingLeft": "25%",
+                "paddingTop": "0%"
+            },
+            {
+                "title": "Deployment & Support",
+                "bgImage": "process-img8.png",
+                "points": [
+                    "Deploy project to live environment",
+                    "Monitor initial launch performance",
+                    "Resolve post-launch issues",
+                    "Provide maintenance and feature updates"
+                ],
+                "paddingLeft": "28%",
+                "paddingTop": "92%"
+            }
+        ]
     }
 }

@@ -7,7 +7,7 @@ export default function OurVisionMission({ data }) {
 
     return (
         <section className="w-full bg-white text-gray-800 py-16">
-            <div className="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-12 items-center">
+            <div className="max-w-7xl mx-auto px-6 md:px-20 grid md:grid-cols-2 gap-12 items-center">
 
                 {/* ===== Left Image Section ===== */}
                 <div className="relative flex justify-center">
