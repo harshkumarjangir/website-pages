@@ -1,0 +1,136 @@
+{
+    "title": "Our Team",
+    "description": "Meet the passionate innovators driving MetaBlock Technologies forward — a team that blends creativity, technology, and leadership to build the future of decentralized solutions.",
+    "leaders": [
+        {
+            "name": "Lalit Gupta",
+            "designation": "Founder & CEO of MetaBlock",
+            "image": "/assets/our-team/founders/saurabh-singh-ceo.webp",
+            "bio": "My journey has been a combination of technological innovation and spiritual enlightenment, having started from modest beginnings in Hindaun City, Rajasthan. I developed a strong affinity for mathematics while growing up in a tiny town, which ultimately inspired me to pursue higher education in Jaipur. Even though I was never much of an academic, spirituality provided me with a place to quench my curiosity.",
+            "buttonText": "Read More...",
+            "buttonUrl": "#",
+            "socials": [
+                {
+                    "platform": "LinkedIn",
+                    "url": "https://www.linkedin.com/in/lalitgupta108/"
+                },
+                {
+                    "platform": "Twitter",
+                    "url": "https://twitter.com/"
+                },
+                {
+                    "platform": "Instagram",
+                    "url": "https://instagram.com/"
+                }
+            ]
+        },
+        {
+            "name": "Harsh Gupta",
+            "designation": "Co-Founder & CTO",
+            "image": "/assets/our-team/founders/saurabh-singh-ceo.webp",
+            "bio": "Blockchain Development || MERN Development || React Development || React Native Development || Website Development || Software Development",
+            "buttonText": "Read More...",
+            "buttonUrl": "#",
+            "socials": [
+                {
+                    "platform": "LinkedIn",
+                    "url": "https://www.linkedin.com/in/harsh-gupta-a9257b28b/"
+                },
+                {
+                    "platform": "Twitter",
+                    "url": "https://twitter.com/"
+                },
+                {
+                    "platform": "GitHub",
+                    "url": "https://github.com/"
+                }
+            ]
+        }
+    ],
+    "team": {
+        "title": "Meet Our Dedicated Team Members",
+        "description": "Our team is a diverse group of professionals committed to excellence and innovation in the blockchain space. Each member brings unique skills and perspectives, contributing to our collective success.",
+        "members": [
+            {
+                "name": "Akshita Agrawal",
+                "designation": "Chief Digital Marketing Officer",
+                "image": "/assets/our-team/team/Akshitamam.jpg",
+                "bio": "The Chief Digital Marketing Officer (CDMO) oversees digital marketing strategies to boost online presence and drive business growth. They focus on customer engagement and data-driven campaigns.",
+                "socials": [
+                    {
+                        "platform": "LinkedIn",
+                        "url": "https://linkedin.com/in/akshitaagrawal"
+                    },
+                    {
+                        "platform": "Twitter",
+                        "url": "https://twitter.com/ajayyogi"
+                    },
+                    {
+                        "platform": "GitHub",
+                        "url": "https://github.com/"
+                    }
+                ]
+            },
+            {
+                "name": "Ajay Yogi",
+                "designation": "Chief Marketing Officer",
+                "image": "/assets/our-team/team/ajayyogi.webp",
+                "bio": "The Chief Marketing Officer (CMO) leads marketing strategies to enhance brand presence and drive business growth. They focus on customer engagement and market innovation.",
+                "socials": [
+                    {
+                        "platform": "LinkedIn",
+                        "url": "https://linkedin.com/in/ajayyogi"
+                    },
+                    {
+                        "platform": "Twitter",
+                        "url": "https://twitter.com/ajayyogi"
+                    },
+                    {
+                        "platform": "GitHub",
+                        "url": "https://github.com/"
+                    }
+                ]
+            },
+            {
+                "name": "Nagendra",
+                "designation": "Head Of Metablock-Business Program",
+                "image": "/assets/our-team/team/nagendra.webp",
+                "bio": "Leading Metablock’s business program, building partnerships, growing projects, and driving solutions for better results.",
+                "socials": [
+                    {
+                        "platform": "LinkedIn",
+                        "url": "https://linkedin.com/in/nagendra"
+                    },
+                    {
+                        "platform": "Twitter",
+                        "url": "https://twitter.com/nagendra"
+                    },
+                    {
+                        "platform": "GitHub",
+                        "url": "https://github.com/"
+                    }
+                ]
+            },
+            {
+                "name": "Sanjay",
+                "designation": "Head Of Metablock-Partner Program",
+                "image": "/assets/our-team/team/sanjay.webp",
+                "bio": "Managing Metablock’s partner program, building strong relationships, growing partnerships, and ensuring shared success.",
+                "socials": [
+                    {
+                        "platform": "LinkedIn",
+                        "url": "https://linkedin.com/in/sanjay"
+                    },
+                    {
+                        "platform": "Twitter",
+                        "url": "https://twitter.com/sanjay"
+                    },
+                    {
+                        "platform": "GitHub",
+                        "url": "https://github.com/"
+                    }
+                ]
+            }
+        ]
+    }
+}
