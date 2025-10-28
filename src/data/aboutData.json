@@ -672,7 +672,7 @@
                 "name-prefix": "We deliver exceptional expertise in",
                 "name-suffix": "helping clients succeed with modern technology solutions.",
                 "icon": "Network",
-                "image": "/assets/about-us/ourExpertise/web3.jpg",
+                "image": "/assets/about-us/ourExpertise/expertise.png",
                 "description": "Our Web3 development services empower businesses to harness the potential of decentralized technologies. We create secure, scalable, and user-friendly blockchain applications that facilitate seamless interactions in the digital economy."
             },
             {
@@ -680,7 +680,7 @@
                 "name-prefix": "We deliver exceptional expertise in",
                 "name-suffix": "helping clients succeed with modern technology solutions.",
                 "icon": "Globe",
-                "image": "/assets/about-us/ourExpertise/metaverse-development.png",
+                "image": "/assets/about-us/ourExpertise/expertise.png",
                 "description": "We build immersive and interactive metaverse experiences that connect users, brands, and communities in virtual worlds powered by blockchain and real-time 3D technologies."
             },
             {
@@ -688,7 +688,7 @@
                 "name-prefix": "We deliver exceptional expertise in",
                 "name-suffix": "helping clients succeed with modern technology solutions.",
                 "icon": "Coins",
-                "image": "/assets/about-us/ourExpertise/defi-development.png",
+                "image": "/assets/about-us/ourExpertise/expertise.png",
                 "description": "Our DeFi solutions enable transparent and decentralized financial ecosystems. We specialize in building platforms for lending, staking, yield farming, and token exchanges."
             },
             {
@@ -696,7 +696,7 @@
                 "name-prefix": "We deliver exceptional expertise in",
                 "name-suffix": "helping clients succeed with modern technology solutions.",
                 "icon": "Cpu",
-                "image": "/assets/about-us/ourExpertise/blockchain-development.png",
+                "image": "/assets/about-us/ourExpertise/expertise.png",
                 "description": "We design and implement secure, scalable blockchain infrastructures for businesses seeking transparency, efficiency, and trustless operations."
             },
             {
@@ -704,7 +704,7 @@
                 "name-prefix": "We deliver exceptional expertise in",
                 "name-suffix": "helping clients succeed with modern technology solutions.",
                 "icon": "Layers",
-                "image": "/assets/about-us/ourExpertise/hyperledger-development.png",
+                "image": "/assets/about-us/ourExpertise/expertise.png",
                 "description": "Our Hyperledger experts build private, permissioned blockchain solutions tailored for enterprise-grade applications across industries like supply chain, finance, and healthcare."
             },
             {
@@ -712,7 +712,7 @@
                 "name-prefix": "We deliver exceptional expertise in",
                 "name-suffix": "helping clients succeed with modern technology solutions.",
                 "icon": "Bitcoin",
-                "image": "/assets/about-us/ourExpertise/cryptocurrency-development.png",
+                "image": "/assets/about-us/ourExpertise/expertise.png",
                 "description": "We develop secure and high-performance cryptocurrency platforms, from tokens and wallets to complete exchange solutions, enabling digital asset innovation."
             },
             {
@@ -720,7 +720,7 @@
                 "name-prefix": "We deliver exceptional expertise in",
                 "name-suffix": "helping clients succeed with modern technology solutions.",
                 "icon": "AppWindow",
-                "image": "/assets/about-us/ourExpertise/dapp-development.png",
+                "image": "/assets/about-us/ourExpertise/expertise.png",
                 "description": "We build decentralized applications (dApps) that provide transparency, security, and autonomy for users across multiple blockchain ecosystems."
             },
             {
@@ -728,7 +728,7 @@
                 "name-prefix": "We deliver exceptional expertise in",
                 "name-suffix": "helping clients succeed with modern technology solutions.",
                 "icon": "Smartphone",
-                "image": "/assets/about-us/ourExpertise/on-demand-app-development.png",
+                "image": "/assets/about-us/ourExpertise/expertise.png",
                 "description": "Our on-demand app solutions connect service providers with customers instantly through intuitive mobile and web applications tailored to your business model."
             },
             {
@@ -736,7 +736,7 @@
                 "name-prefix": "We deliver exceptional expertise in",
                 "name-suffix": "helping clients succeed with modern technology solutions.",
                 "icon": "Image",
-                "image": "/assets/about-us/ourExpertise/nft-development.png",
+                "image": "/assets/about-us/ourExpertise/expertise.png",
                 "description": "We help creators and businesses launch custom NFT marketplaces and collections with secure smart contracts and seamless minting experiences."
             },
             {
@@ -744,7 +744,7 @@
                 "name-prefix": "We deliver exceptional expertise in",
                 "name-suffix": "helping clients succeed with modern technology solutions.",
                 "icon": "Gamepad2",
-                "image": "/assets/about-us/ourExpertise/game-development.png",
+                "image": "/assets/about-us/ourExpertise/expertise.png",
                 "description": "We create engaging 2D, 3D, and blockchain-based games with stunning visuals, smooth gameplay, and innovative monetization systems."
             },
             {
@@ -752,7 +752,7 @@
                 "name-prefix": "We deliver exceptional expertise in",
                 "name-suffix": "helping clients succeed with modern technology solutions.",
                 "icon": "TrendingUp",
-                "image": "/assets/about-us/ourExpertise/ico-sto-ido-development.png",
+                "image": "/assets/about-us/ourExpertise/expertise.png",
                 "description": "We provide end-to-end solutions for ICO, STO, and IDO launches, from token creation to investor dashboard development and smart contract deployment."
             },
             {
@@ -760,7 +760,7 @@
                 "name-prefix": "We deliver exceptional expertise in",
                 "name-suffix": "helping clients succeed with modern technology solutions.",
                 "icon": "Smartphone",
-                "image": "/assets/about-us/ourExpertise/mobile-app-development.png",
+                "image": "/assets/about-us/ourExpertise/expertise.png",
                 "description": "Our mobile development team crafts seamless, high-performance iOS and Android apps that enhance brand engagement and user satisfaction."
             },
             {
@@ -768,7 +768,7 @@
                 "name-prefix": "We deliver exceptional expertise in",
                 "name-suffix": "helping clients succeed with modern technology solutions.",
                 "icon": "Monitor",
-                "image": "/assets/about-us/ourExpertise/web-design-services.png",
+                "image": "/assets/about-us/ourExpertise/expertise.png",
                 "description": "We design visually appealing, responsive, and user-friendly websites that communicate brand value and drive conversions effectively."
             },
             {
@@ -776,7 +776,7 @@
                 "name-prefix": "We deliver exceptional expertise in",
                 "name-suffix": "helping clients succeed with modern technology solutions.",
                 "icon": "Brain",
-                "image": "/assets/about-us/ourExpertise/ai-development.png",
+                "image": "/assets/about-us/ourExpertise/expertise.png",
                 "description": "We integrate artificial intelligence into business operations with solutions for automation, data analytics, predictive modeling, and more."
             },
             {
@@ -784,7 +784,7 @@
                 "name-prefix": "We deliver exceptional expertise in",
                 "name-suffix": "helping clients succeed with modern technology solutions.",
                 "icon": "Building2",
-                "image": "/assets/about-us/ourExpertise/enterprise-solutions.png",
+                "image": "/assets/about-us/ourExpertise/expertise.png",
                 "description": "We develop robust enterprise software that enhances efficiency, scalability, and collaboration, tailored to meet complex business requirements."
             }
         ]

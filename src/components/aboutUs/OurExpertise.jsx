@@ -123,10 +123,6 @@ export default function OurExpertise({ data }) {
 
     return (
         <section className="relative w-full bg-black text-white py-20 overflow-hidden">
-            {/* ===== Background Faint Title ===== */}
-            <h2 className="absolute top-8 left-1/2 -translate-x-1/2 uppercase text-[90px] md:text-[150px] font-extrabold text-gray-100 tracking-wider opacity-40 select-none pointer-events-none">
-                {bgTitle}
-            </h2>
 
             <div className="max-w-7xl mx-auto px-6 relative z-10">
                 {/* ===== Section Heading ===== */}
@@ -158,15 +154,14 @@ export default function OurExpertise({ data }) {
                         })}
                     </div>
 
-
                     {/* Right Side: Content */}
-                    <div className="relative bg-white text-black p-10 flex flex-col justify-center overflow-hidden">
+                    <div className="relative bg-white text-black flex flex-col justify-center items-center overflow-hidden p-12">
                         {expertises.map(
                             (item, i) =>
                                 activeCategory === item.name && (
                                     <div
                                         key={i}
-                                        className="relative text-center transition-all duration-500 z-10"
+                                        className="w-full max-w-2xl mx-auto text-center transition-all duration-500 z-10"
                                     >
                                         {/* ===== Background Image ===== */}
                                         {item.image && (
@@ -175,46 +170,49 @@ export default function OurExpertise({ data }) {
                                                     src={item.image}
                                                     alt={item.name}
                                                     fill
-                                                    className="object-cover object-center opacity-20 transition-opacity duration-500 hover:opacity-40"
+                                                    className="object-cover object-center opacity-90 mix-blend-multiply transition-opacity duration-500"
                                                 />
-                                                {/* Optional overlay for better text contrast */}
-                                                <div className="absolute inset-0 bg-white/60"></div>
+                                                {/* Soft white overlay */}
+                                                <div className="absolute inset-0 bg-white/10 backdrop-blur-[1px]"></div>
                                             </div>
                                         )}
 
                                         {/* ===== Foreground Content ===== */}
-                                        <div className="relative z-10">
+                                        <div className="relative z-10 bg-white/20 backdrop-blur-md rounded-2xl px-8 py-10">
                                             {/* Icon */}
-                                            <div className="w-24 h-24 mx-auto mb-6 flex items-center justify-center bg-blue-50 rounded-full shadow-md">
+                                            <div className="w-20 h-20 mx-auto mb-6 flex items-center justify-center bg-blue-100 rounded-full shadow-inner">
                                                 {(() => {
                                                     const Icon = LucideIcons[item.icon] || LucideIcons.Circle;
-                                                    return <Icon className="w-12 h-12 text-blue-600" />;
+                                                    return <Icon className="w-10 h-10 text-[#155DFC]" />;
                                                 })()}
                                             </div>
 
                                             {/* Title */}
-                                            <h3 className="text-2xl font-semibold mb-3 text-blue-600">
+                                            <h3 className="text-3xl font-bold mb-3  text-[#80d4ff] drop-shadow-[0_0_6px_rgba(128,212,255,0.3)]">
                                                 {item.name}
                                             </h3>
 
                                             {/* Prefix + Suffix */}
-                                            <p className="text-gray-700 max-w-xl mx-auto leading-relaxed">
+                                            <p className="text-[#e6eeff] leading-relaxed text-base">
                                                 {item["name-prefix"]}{" "}
-                                                <span className="font-semibold text-blue-600">{item.name}</span>,{" "}
+                                                <span className="font-semibold text-[#80d4ff] drop-shadow-[0_0_6px_rgba(128,212,255,0.3)]">{item.name}</span>,{" "}
                                                 {item["name-suffix"]}
                                             </p>
 
                                             {/* Description */}
                                             {item.description && (
-                                                <p className="text-gray-700 mt-4 max-w-xl mx-auto text-sm leading-relaxed">
+                                                <p className="text-[#d6e0ff] mt-4 text-sm leading-relaxed">
                                                     {item.description}
                                                 </p>
                                             )}
+
+
                                         </div>
                                     </div>
                                 )
                         )}
                     </div>
+
 
                 </div>
 
@@ -246,14 +244,14 @@ export default function OurExpertise({ data }) {
                                         {/* Image Absolute */}
                                         {item.image && (
                                             <div className="absolute right-0 top-0 bottom-0 w-1/2 opacity-20">
-                                                <div className="relative w-full h-full">
+                                                {/* <div className="relative w-full h-full">
                                                     <Image
                                                         src={item.image}
                                                         alt={item.name}
                                                         fill
                                                         className="object-contain"
                                                     />
-                                                </div>
+                                                </div> */}
                                             </div>
                                         )}
 
