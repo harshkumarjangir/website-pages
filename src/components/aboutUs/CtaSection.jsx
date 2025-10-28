@@ -37,7 +37,7 @@ export default function CtaSection({ data }) {
                 )}
 
                 {/* === CTA Content === */}
-                <div className="relative z-10 flex flex-col md:flex-row justify-between items-center gap-6 px-10 py-14">
+                <div className="relative z-10 flex flex-col md:flex-row justify-between items-center gap-6 px-10 md:px-20 py-14">
                     {/* Text */}
                     <div className="text-center md:text-left">
                         <h2 className="text-2xl md:text-3xl font-semibold mb-3 leading-snug">

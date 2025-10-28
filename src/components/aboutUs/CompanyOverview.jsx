@@ -13,9 +13,11 @@ export default function CompanyOverview({ data }) {
             <div className="max-w-7xl mx-auto px-6 md:px-20 grid md:grid-cols-3 gap-10 items-center">
                 {/* ===== Left Content ===== */}
                 <div className="md:col-span-2">
-                    <h2 className="text-3xl font-bold md:font-extrabold mb-3">{title}</h2>
-                    <div className="w-24 h-[2px] bg-[#016CD3] mb-6"></div>
-                    <p className="text-base md:text-lg leading-relaxed text-[#242424]">{description}</p>
+                    <h2 className="text-3xl md:text-4xl font-bold mb-3">{title}</h2>
+                    <div className="w-24 h-[3px] bg-[#016CD3] mb-6"></div>
+                    <p className="text-base md:text-lg leading-relaxed text-gray-700">
+                        {description}
+                    </p>
                 </div>
 
                 {/* ===== Right LinkedIn Card ===== */}
