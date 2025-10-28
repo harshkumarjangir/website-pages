@@ -36,6 +36,12 @@ export default function Home() {
           >
             About Us
           </Link>
+          <Link
+            href="/our-team"
+            className="text-blue-600 hover:underline block"
+          >
+            Our Team
+          </Link>
         </div>
       </div>
     </div>

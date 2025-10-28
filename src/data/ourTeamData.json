@@ -1,0 +1,38 @@
+{
+    "ourTeamData": {
+        "founders": [
+            {
+                "name": "John Doe",
+                "role": "Founder & CEO",
+                "image": "/assets/our-team/founders/lalitsir.webp",
+                "bio": "My journey has been a combination of technological innovation and spiritual enlightenment, having started from modest beginnings in Hindaun City, Rajasthan. I developed a strong affinity for mathematics while growing up in a tiny town, which ultimately inspired me to pursue higher education in Jaipur. Even though I was never much of an academic, spirituality provided me with a place to quench my curiosity."
+            },
+            {
+                "name": "Jane Smith",
+                "role": "Co-Founder & CTO",
+                "image": "/assets/our-team/founders/harsh-sir.webp",
+                "bio": "Blockchain Development || MERN Development || React Development || React Native Development || Website Development || Software Development"
+            }
+        ],
+        "team": [
+            {
+                "name": "Akshita Agrawal",
+                "role": "Lead Developer",
+                "image": "/images/team/member1.jpg",
+                "bio": "Expert in full-stack development and scalable systems."
+            },
+            {
+                "name": "Sophia Brown",
+                "role": "UI/UX Designer",
+                "image": "/images/team/member2.jpg",
+                "bio": "Passionate about creating intuitive and beautiful user experiences."
+            },
+            {
+                "name": "Michael Chen",
+                "role": "Marketing Manager",
+                "image": "/images/team/member3.jpg",
+                "bio": "Drives our growth through creative marketing strategies."
+            }
+        ]
+    }
+}
