@@ -1,16 +1,15 @@
 "use client";
 import Image from "next/image";
-import ourTeamData from "@/data/ourTeamData.json";
 
-export default function OurVisionaries() {
-    const { visionaries } = ourTeamData;
+export default function OurVisionaries({ data }) {
+    const visionaries = data;
 
     return (
         <section className="bg-black text-white py-20">
             <div className="max-w-7xl mx-auto px-6 lg:px-24">
                 <div className="grid lg:grid-cols-[1fr_2fr] gap-16 items-start">
                     {/* Left Section - Title & Description */}
-                    <div className="lg:sticky top-2">
+                    <div className="">
                         <h2 className="text-4xl md:text-4xl mb-6">
                             {visionaries.title}
                         </h2>

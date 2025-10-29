@@ -9,7 +9,6 @@ import CtaSection from '@/components/aboutUs/CtaSection'
 import OurVisionMission from '@/components/aboutUs/OurVisionMission'
 import OurExpertise from '@/components/aboutUs/OurExpertise'
 import OurAchievements from '@/components/aboutUs/OurAchievements'
-import OurDevelopmentProcess from '@/components/aboutUs/OurDevelopmentProcess'
 import IndustriesSection from '@/components/aboutUs/IndustriesSection'
 import WhyChooseUs from '@/components/aboutUs/WhyChooseUs'
 import PartnershipSection from '@/components/aboutUs/PartnershipSection'
@@ -26,7 +25,6 @@ const AboutPage = () => {
             <OurAchievements data={aboutUsData.ourAchievements} />
             <LatestTechnologies data={aboutUsData.latestTechnologies} />
             <OurStory data={aboutUsData.ourStory} />
-            {/* <OurDevelopmentProcess data={aboutUsData.ourDevelopmentProcess} /> */}
             <PartnershipSection data={aboutUsData.partnershipSection} />
             <IndustriesSection data={aboutUsData.industriesSection} />
             <CtaSection data={aboutUsData.ctaSection} />

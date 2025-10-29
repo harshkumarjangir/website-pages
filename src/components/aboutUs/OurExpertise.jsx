@@ -166,14 +166,14 @@ export default function OurExpertise({ data }) {
                                         {/* ===== Background Image ===== */}
                                         {item.image && (
                                             <div className="absolute inset-0 w-full h-full">
-                                                <Image
+                                                {/* <Image
                                                     src={item.image}
                                                     alt={item.name}
                                                     fill
                                                     className="object-cover object-center opacity-90 mix-blend-multiply transition-opacity duration-500"
-                                                />
+                                                /> */}
                                                 {/* Soft white overlay */}
-                                                <div className="absolute inset-0 bg-white/10 backdrop-blur-[1px]"></div>
+                                                {/* <div className="absolute inset-0 bg-white/10 backdrop-blur-[1px]"></div> */}
                                             </div>
                                         )}
 

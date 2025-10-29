@@ -1,16 +1,59 @@
 {
     "title": "Our Team",
     "description": "Meet the passionate innovators driving MetaBlock Technologies forward — a team that blends creativity, technology, and leadership to build the future of decentralized solutions.",
+    "teamHero": {
+        "title": "Meet the Powerhouse Behind",
+        "highlight": "Digital Breakthroughs",
+        "description": "Behind every breakthrough innovation lies visionary leadership. Our core team isn't just running a company—they're conducting a symphony of innovation that resonates across industries worldwide. Empowering a team of world–class technologists and professionals, our leaders have navigated complex enterprise digital transformations, launched AI–powered products used by millions, and built the frameworks that have become industry standards.",
+        "buttonText": "Consult Our Experts",
+        "buttonUrl": "#",
+        "image": "/assets/our-team/hero/ourteam-hero.webp",
+        "bgImage": "/assets/our-team/hero/ourteam-bg.png"
+    },
     "leaders": [
         {
             "name": "Lalit Gupta",
             "designation": "Founder & CEO of MetaBlock",
-            "image": "/assets/our-team/founders/lalitsir.webp"
+            "image": "/assets/our-team/leaders/saurabh-singh-ceo.webp",
+            "bio": "My journey has been a combination of technological innovation and spiritual enlightenment, having started from modest beginnings in Hindaun City, Rajasthan. I developed a strong affinity for mathematics while growing up in a tiny town, which ultimately inspired me to pursue higher education in Jaipur. Even though I was never much of an academic, spirituality provided me with a place to quench my curiosity.",
+            "buttonText": "Read More...",
+            "buttonUrl": "#",
+            "socials": [
+                {
+                    "platform": "LinkedIn",
+                    "url": "https://www.linkedin.com/in/lalitgupta108/"
+                },
+                {
+                    "platform": "Twitter",
+                    "url": "https://twitter.com/"
+                },
+                {
+                    "platform": "Instagram",
+                    "url": "https://instagram.com/"
+                }
+            ]
         },
         {
             "name": "Harsh Gupta",
             "designation": "Co-Founder & CTO",
-            "image": "/assets/our-team/founders/harsh-sir.webp"
+            "image": "/assets/our-team/leaders/saurabh-singh-ceo.webp",
+            "bio": "Blockchain Development || MERN Development || React Development || React Native Development || Website Development || Software Development",
+            "buttonText": "Read More...",
+            "buttonUrl": "#",
+            "socials": [
+                {
+                    "platform": "LinkedIn",
+                    "url": "https://www.linkedin.com/in/harsh-gupta-a9257b28b/"
+                },
+                {
+                    "platform": "Twitter",
+                    "url": "https://twitter.com/"
+                },
+                {
+                    "platform": "GitHub",
+                    "url": "https://github.com/"
+                }
+            ]
         }
     ],
     "visionaries": {
@@ -20,29 +63,28 @@
             {
                 "name": "Lalit Gupta",
                 "designation": "Founder & CEO of MetaBlock",
-                "image": "/assets/our-team/founders/saurabh-singh-ceo.webp"
+                "image": "/assets/our-team/leaders/saurabh-singh-ceo.webp"
             },
             {
                 "name": "Harsh Gupta",
                 "designation": "Co-Founder & CTO",
-                "image": "/assets/our-team/founders/saurabh-singh-ceo.webp"
+                "image": "/assets/our-team/leaders/saurabh-singh-ceo.webp"
             },
             {
                 "name": "Akshita Agrawal",
                 "designation": "Chief Digital Marketing Officer",
-                "image": "/assets/our-team/founders/saurabh-singh-ceo.webp"
+                "image": "/assets/our-team/leaders/saurabh-singh-ceo.webp"
             },
             {
                 "name": "Ajay Yogi",
                 "designation": "Chief Marketing Officer",
-                "image": "/assets/our-team/founders/saurabh-singh-ceo.webp"
+                "image": "/assets/our-team/leaders/saurabh-singh-ceo.webp"
             },
             {
                 "name": "Nagendra",
                 "designation": "Head Of Metablock-Business Program",
-                "image": "/assets/our-team/founders/saurabh-singh-ceo.webp"
+                "image": "/assets/our-team/leaders/saurabh-singh-ceo.webp"
             }
-            
         ]
     },
     "team": {
@@ -52,82 +94,82 @@
             {
                 "name": "Lalit Gupta",
                 "designation": "Founder & CEO of MetaBlock",
-                "image": "/assets/our-team/founders/saurabh-singh-ceo.webp"
+                "image": "/assets/our-team/team/saurabh-singh-ceo.webp"
             },
             {
                 "name": "Harsh Gupta",
                 "designation": "Co-Founder & CTO",
-                "image": "/assets/our-team/founders/saurabh-singh-ceo.webp"
+                "image": "/assets/our-team/team/saurabh-singh-ceo.webp"
             },
             {
                 "name": "Akshita Agrawal",
                 "designation": "Chief Digital Marketing Officer",
-                "image": "/assets/our-team/founders/saurabh-singh-ceo.webp"
+                "image": "/assets/our-team/team/saurabh-singh-ceo.webp"
             },
             {
                 "name": "Ajay Yogi",
                 "designation": "Chief Marketing Officer",
-                "image": "/assets/our-team/founders/saurabh-singh-ceo.webp"
+                "image": "/assets/our-team/team/saurabh-singh-ceo.webp"
             },
             {
                 "name": "Nagendra",
                 "designation": "Head Of Metablock-Business Program",
-                "image": "/assets/our-team/founders/saurabh-singh-ceo.webp"
+                "image": "/assets/our-team/team/saurabh-singh-ceo.webp"
             },
             {
                 "name": "Sanjay",
                 "designation": "Head Of Metablock-Partner Program",
-                "image": "/assets/our-team/founders/saurabh-singh-ceo.webp"
+                "image": "/assets/our-team/team/saurabh-singh-ceo.webp"
             },
             {
                 "name": "Lalit Gupta",
                 "designation": "Founder & CEO of MetaBlock",
-                "image": "/assets/our-team/founders/saurabh-singh-ceo.webp"
+                "image": "/assets/our-team/team/saurabh-singh-ceo.webp"
             },
             {
                 "name": "Harsh Gupta",
                 "designation": "Co-Founder & CTO",
-                "image": "/assets/our-team/founders/saurabh-singh-ceo.webp"
+                "image": "/assets/our-team/team/saurabh-singh-ceo.webp"
             },
             {
                 "name": "Akshita Agrawal",
                 "designation": "Chief Digital Marketing Officer",
-                "image": "/assets/our-team/founders/saurabh-singh-ceo.webp"
+                "image": "/assets/our-team/team/saurabh-singh-ceo.webp"
             },
             {
                 "name": "Ajay Yogi",
                 "designation": "Chief Marketing Officer",
-                "image": "/assets/our-team/founders/saurabh-singh-ceo.webp"
+                "image": "/assets/our-team/team/saurabh-singh-ceo.webp"
             },
             {
                 "name": "Nagendra",
                 "designation": "Head Of Metablock-Business Program",
-                "image": "/assets/our-team/founders/saurabh-singh-ceo.webp"
+                "image": "/assets/our-team/team/saurabh-singh-ceo.webp"
             },
             {
                 "name": "Sanjay",
                 "designation": "Head Of Metablock-Partner Program",
-                "image": "/assets/our-team/founders/saurabh-singh-ceo.webp"
+                "image": "/assets/our-team/team/saurabh-singh-ceo.webp"
             },
             {
                 "name": "Lalit Gupta",
                 "designation": "Founder & CEO of MetaBlock",
-                "image": "/assets/our-team/founders/saurabh-singh-ceo.webp"
+                "image": "/assets/our-team/team/saurabh-singh-ceo.webp"
             },
             {
                 "name": "Harsh Gupta",
                 "designation": "Co-Founder & CTO",
-                "image": "/assets/our-team/founders/saurabh-singh-ceo.webp"
+                "image": "/assets/our-team/team/saurabh-singh-ceo.webp"
             },
             {
                 "name": "Akshita Agrawal",
                 "designation": "Chief Digital Marketing Officer",
-                "image": "/assets/our-team/founders/saurabh-singh-ceo.webp"
+                "image": "/assets/our-team/team/saurabh-singh-ceo.webp"
             },
             {
                 "name": "Ajay Yogi",
                 "designation": "Chief Marketing Officer",
-                "image": "/assets/our-team/founders/saurabh-singh-ceo.webp"
+                "image": "/assets/our-team/team/saurabh-singh-ceo.webp"
             }
         ]
     }

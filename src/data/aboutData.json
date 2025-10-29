@@ -116,52 +116,6 @@
             }
         ]
     },
-    "ourDevelopmentProcess": {
-        "title": "Our Development Process",
-        "description": "At Meta Block Technologies, we employ a unique methodology to deliver the best result that satisfies our clients' needs and the most recent market trends. We have created a variety of software applications for companies in a variety of industries, from straightforward inventory packages to intricate ERP systems. In order to satisfy each client's unique needs, we also modify software to their specifications. When creating a Software Development Life Cycle (SDLC) at Meta Block, we adhere to the guidelines listed below. Our team comprises of proficient and enthusiastic professionals who put in a lot of effort to finish your application before the deadline. We provide customised solutions that are ideal for your company's needs.",
-        "steps": [
-            {
-                "title": "Gathering Information",
-                "description": "Our senior team gathers all the necessary data from the client regarding the goal, target audience, and purpose of the project to ensure it meets business requirements and appeals to people of all ages. We also provide helpful recommendations for best results.",
-                "icon": "FileSearch"
-            },
-            {
-                "title": "Analysis",
-                "description": "After gathering the data, our analysts assess the project complexity, financial requirements, and schedule. We create a clear document covering payment terms, timeline, technologies, and responsibilities.",
-                "icon": "ChartBar"
-            },
-            {
-                "title": "Planning",
-                "description": "Our team devises an efficient plan to design and develop the project using the agile methodology, ensuring timely, effective, and productive outcomes beyond expectations.",
-                "icon": "ClipboardList"
-            },
-            {
-                "title": "Wire-Frames",
-                "description": "We create wireframes to visualize the project structure, ensuring intuitiveness. Then we prepare a PSD and refine the design with client feedback for the best experience.",
-                "icon": "Layout"
-            },
-            {
-                "title": "Design",
-                "description": "Our design team crafts visually appealing and responsive interfaces, ensuring flawless functionality across all devices including PCs, tablets, and smartphones.",
-                "icon": "Palette"
-            },
-            {
-                "title": "Develop",
-                "description": "Our developers write optimized, scalable code to build an engaging and high-performing application or website aligned with market trends.",
-                "icon": "Code2"
-            },
-            {
-                "title": "Testing",
-                "description": "Our QA team rigorously tests the project for bugs or inconsistencies, ensuring the final product is stable, efficient, and user-ready.",
-                "icon": "Bug"
-            },
-            {
-                "title": "Deployment & Support",
-                "description": "Once the project passes testing, we deploy it live and offer post-launch support, updates, and maintenance for long-term success.",
-                "icon": "Rocket"
-            }
-        ]
-    },
     "industriesSection": {
         "title": "A Unified Vision That Caters To | Diverse Industry Demands",
         "buttonText": "Explore More in Industries",

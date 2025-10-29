@@ -1,10 +1,9 @@
 "use client";
 import Image from "next/image";
-import ourTeamData from "@/data/ourTeamData.json";
 
 
-export default function ExecutiveTeam() {
-    const { team } = ourTeamData;
+export default function Team({ data }) {
+    const team = data;
 
     return (
         <section className="bg-black text-white py-20">
