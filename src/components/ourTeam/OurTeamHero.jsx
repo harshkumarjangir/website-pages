@@ -30,7 +30,7 @@ export default function OurTeamHero({ data }) {
                             src={image}
                             alt="Our Team"
                             fill
-                            className="object-contain opacity-90"
+                            className="object-contain opacity-90 rounded-3xl"
                             priority
                         />
                     </div>
@@ -39,7 +39,7 @@ export default function OurTeamHero({ data }) {
                 </div>
 
                 {/* Text Overlay (bottom-right) */}
-                <div className="sm:absolute sm:bottom-0 sm:right-0 lg:right-10 w-full md:w-[50%] bg-gradient-to-t from-black/80 to-transparent p-2 sm:p4 md:p-10 text-left">
+                <div className="sm:absolute sm:bottom-0 sm:right-0 lg:right-10 w-full md:w-[50%] bg-gradient-to-r from-black/90 p-2 sm:p4 md:p-10 text-left">
                     <p className="text-sm md:text-sm text-gray-200 leading-relaxed mb-6">
                         {description}
                     </p>

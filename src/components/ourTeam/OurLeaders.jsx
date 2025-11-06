@@ -42,14 +42,14 @@ const OurLeaders = ({ data }) => {
                         >
                             {/* Image */}
                             <div className="relative w-full md:w-1/2 group flex justify-center">
-                                <div className="relative w-[380px] h-[380px] aspect-square rounded-3xl overflow-hidden shadow-2xl">
+                                <div className="relative w-[380px] h-[380px] aspect-square rounded-3xl overflow-visible shadow-2xl">
                                     <Image
                                         src={person.image}
                                         alt={person.name}
                                         fill
-                                        className="object-cover object-center transform group-hover:scale-110 transition-transform duration-700 ease-out"
+                                        className="object-cover object-center transform group-hover:scale-105 transition-transform duration-700 ease-out rounded-full"
                                     />
-                                    <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
+                                    {/* <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div> */}
                                 </div>
                             </div>
 

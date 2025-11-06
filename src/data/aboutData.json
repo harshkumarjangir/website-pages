@@ -54,7 +54,7 @@
             "title": "Our Mission",
             "paragraphs": "The mission of the company is to serve the youth by empowering them with the most advanced blockchain technological training, with the vision of making them future corporate leaders."
         },
-        "image": "/assets/about-us/whoWeAre/about-who-we-are1.webp",
+        "image": "/assets/about-us/ourVisionMission/about-who-we-are1.webp",
         "imageAlt": "Our Vision and Mission"
     },
     "ourAchievements": {
@@ -752,5 +752,14 @@
                 "paddingTop": "92%"
             }
         ]
+    },
+    "aboutUsForm": {
+        "image": "/assets/about-us/aboutUsForm/about-who-we-are1.webp",
+        "heading": "Who We Are",
+        "description": "We are a passionate team dedicated to crafting world-class software solutions tailored to your business needs.",
+        "button": {
+            "text": "Contact Us",
+            "link": "#"
+        }
     }
 }

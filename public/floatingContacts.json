@@ -1,0 +1,25 @@
+{
+    "contacts": [
+        {
+            "type": "call",
+            "icon": "Phone",
+            "link": "tel:+919358593002",
+            "color": "bg-blue-600",
+            "hoverColor": "hover:bg-blue-700"
+        },
+        {
+            "type": "whatsapp",
+            "icon": "MessageCircle",
+            "link": "https://wa.me/919358593002",
+            "color": "bg-green-500",
+            "hoverColor": "hover:bg-green-600"
+        },
+        {
+            "type": "email",
+            "icon": "Mail",
+            "link": "mailto:info@metablocktechnologies.in",
+            "color": "bg-red-500",
+            "hoverColor": "hover:bg-red-600"
+        }
+    ]
+}

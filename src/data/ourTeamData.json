@@ -7,7 +7,7 @@
         "description": "Behind every breakthrough innovation lies visionary leadership. Our core team isn't just running a company—they're conducting a symphony of innovation that resonates across industries worldwide. Empowering a team of world–class technologists and professionals, our leaders have navigated complex enterprise digital transformations, launched AI–powered products used by millions, and built the frameworks that have become industry standards.",
         "buttonText": "Consult Our Experts",
         "buttonUrl": "#",
-        "image": "/assets/our-team/hero/ourteam-hero.webp",
+        "image": "/assets/our-team/hero/our-team.png",
         "bgImage": "/assets/our-team/hero/ourteam-bg.png"
     },
     "leaders": [
@@ -63,27 +63,27 @@
             {
                 "name": "Lalit Gupta",
                 "designation": "Founder & CEO of MetaBlock",
-                "image": "/assets/our-team/leaders/lalitsir.webp"
+                "image": "/assets/our-team/visionaries/lalitsir.webp"
             },
             {
                 "name": "Harsh Gupta",
                 "designation": "Co-Founder & CTO",
-                "image": "/assets/our-team/leaders/harsh-sir-copy.jpg"
+                "image": "/assets/our-team/visionaries/harsh-sir-copy.jpg"
             },
             {
                 "name": "Akshita Agrawal",
                 "designation": "Chief Digital Marketing Officer",
-                "image": "/assets/our-team/leaders/saurabh-singh-ceo.webp"
+                "image": "/assets/our-team/visionaries/akshita-croped.jpg"
             },
             {
                 "name": "Ajay Yogi",
                 "designation": "Chief Marketing Officer",
-                "image": "/assets/our-team/leaders/saurabh-singh-ceo.webp"
+                "image": "/assets/our-team/visionaries/ajayyogi.jpg"
             },
             {
                 "name": "Nagendra",
                 "designation": "Head Of Metablock-Business Program",
-                "image": "/assets/our-team/leaders/saurabh-singh-ceo.webp"
+                "image": "/assets/our-team/visionaries/nagendra.jpg"
             }
         ]
     },

@@ -9,7 +9,7 @@ export default function Team({ data }) {
         <section className="bg-black text-white py-20">
             <div className="max-w-7xl mx-auto px-6 lg:px-24">
                 {/* ===== Header ===== */}
-                <div className="lg:sticky top-0 z-50 bg-black text-center mx-auto mb-12 py-2">
+                <div className="bg-black text-center mx-auto mb-12 py-2">
                     <h2 className="text-4xl md:text-4xl mb-4">{team.title}</h2>
                     <p className="text-white text-base leading-relaxed">{team.description}</p>
                 </div>

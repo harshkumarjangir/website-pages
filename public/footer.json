@@ -1,0 +1,481 @@
+{
+    "_id": {
+        "$oid": "68fb2880f295cdfea89e9617"
+    },
+    "__v": 0,
+    "columns": [
+        {
+            "title": "Insights",
+            "links": [
+                {
+                    "label": "About Us",
+                    "url": "about-us",
+                    "index": 0,
+                    "status": true,
+                    "deletedAt": null,
+                    "dateUpdated": null,
+                    "_id": {
+                        "$oid": "68fb297c0b6a6dde77b64546"
+                    },
+                    "dateCreated": {
+                        "$date": "2025-10-24T07:23:40.220Z"
+                    }
+                },
+                {
+                    "label": "Our Team",
+                    "url": "our-team",
+                    "index": 1,
+                    "status": true,
+                    "deletedAt": null,
+                    "dateUpdated": null,
+                    "_id": {
+                        "$oid": "68fb297c0b6a6dde77b64547"
+                    },
+                    "dateCreated": {
+                        "$date": "2025-10-24T07:23:40.221Z"
+                    }
+                },
+                {
+                    "label": "Gallery",
+                    "url": "gallery",
+                    "index": 2,
+                    "status": true,
+                    "deletedAt": null,
+                    "dateUpdated": null,
+                    "_id": {
+                        "$oid": "68fb297c0b6a6dde77b64548"
+                    },
+                    "dateCreated": {
+                        "$date": "2025-10-24T07:23:40.222Z"
+                    }
+                },
+                {
+                    "label": "Video",
+                    "url": "video",
+                    "index": 3,
+                    "status": true,
+                    "deletedAt": null,
+                    "dateUpdated": null,
+                    "_id": {
+                        "$oid": "68fb297c0b6a6dde77b64549"
+                    },
+                    "dateCreated": {
+                        "$date": "2025-10-24T07:23:40.222Z"
+                    }
+                },
+                {
+                    "label": "Portfolio",
+                    "url": "portfolio",
+                    "index": 4,
+                    "status": true,
+                    "deletedAt": null,
+                    "dateUpdated": null,
+                    "_id": {
+                        "$oid": "68fb297c0b6a6dde77b6454a"
+                    },
+                    "dateCreated": {
+                        "$date": "2025-10-24T07:23:40.222Z"
+                    }
+                },
+                {
+                    "label": "Testimonials",
+                    "url": "testimonials",
+                    "index": 5,
+                    "status": true,
+                    "deletedAt": null,
+                    "dateUpdated": null,
+                    "_id": {
+                        "$oid": "68fb297c0b6a6dde77b6454b"
+                    },
+                    "dateCreated": {
+                        "$date": "2025-10-24T07:23:40.222Z"
+                    }
+                },
+                {
+                    "label": "FAQ",
+                    "url": "insights-faq",
+                    "index": 6,
+                    "status": true,
+                    "deletedAt": null,
+                    "dateUpdated": null,
+                    "_id": {
+                        "$oid": "68fb297c0b6a6dde77b6454c"
+                    },
+                    "dateCreated": {
+                        "$date": "2025-10-24T07:23:40.222Z"
+                    }
+                }
+            ],
+            "index": 0,
+            "status": true,
+            "deletedAt": null,
+            "dateUpdated": null,
+            "_id": {
+                "$oid": "68fb297c0b6a6dde77b64545"
+            },
+            "dateCreated": {
+                "$date": "2025-10-24T07:23:40.223Z"
+            }
+        },
+        {
+            "title": "Software",
+            "links": [
+                {
+                    "label": "Software Development",
+                    "url": "software-development-services",
+                    "index": 0,
+                    "status": true,
+                    "deletedAt": null,
+                    "dateUpdated": null,
+                    "_id": {
+                        "$oid": "68fb297c0b6a6dde77b64551"
+                    },
+                    "dateCreated": {
+                        "$date": "2025-10-24T07:23:40.223Z"
+                    }
+                },
+                {
+                    "label": "ERP Software",
+                    "url": "erp-software-development-company",
+                    "index": 1,
+                    "status": true,
+                    "deletedAt": null,
+                    "dateUpdated": null,
+                    "_id": {
+                        "$oid": "68fb297c0b6a6dde77b64552"
+                    },
+                    "dateCreated": {
+                        "$date": "2025-10-24T07:23:40.223Z"
+                    }
+                }
+            ],
+            "index": 1,
+            "status": true,
+            "deletedAt": null,
+            "dateUpdated": null,
+            "_id": {
+                "$oid": "68fb297c0b6a6dde77b64550"
+            },
+            "dateCreated": {
+                "$date": "2025-10-24T07:23:40.225Z"
+            }
+        },
+        {
+            "title": "Application",
+            "links": [
+                {
+                    "label": "Restaurant Development",
+                    "url": "restaurant-development",
+                    "index": 0,
+                    "status": true,
+                    "deletedAt": null,
+                    "dateUpdated": null,
+                    "_id": {
+                        "$oid": "68fb297c0b6a6dde77b64421"
+                    },
+                    "dateCreated": {
+                        "$date": "2025-10-24T07:23:40.223Z"
+                    }
+                },
+                {
+                    "label": "Cab Booking Apps",
+                    "url": "cab-booking-apps",
+                    "index": 1,
+                    "status": true,
+                    "deletedAt": null,
+                    "dateUpdated": null,
+                    "_id": {
+                        "$oid": "68fb297c0b6a6dde77b62752"
+                    },
+                    "dateCreated": {
+                        "$date": "2025-10-24T07:23:40.223Z"
+                    }
+                }
+            ],
+            "index": 1,
+            "status": true,
+            "deletedAt": null,
+            "dateUpdated": null,
+            "_id": {
+                "$oid": "68fb297c0b6a6dde77b75650"
+            },
+            "dateCreated": {
+                "$date": "2025-10-24T07:23:40.225Z"
+            }
+        },
+        {
+            "title": "Software",
+            "links": [
+                {
+                    "label": "Software Development",
+                    "url": "software-development-services",
+                    "index": 0,
+                    "status": true,
+                    "deletedAt": null,
+                    "dateUpdated": null,
+                    "_id": {
+                        "$oid": "68fb297c0b6a6dde77b64551"
+                    },
+                    "dateCreated": {
+                        "$date": "2025-10-24T07:23:40.223Z"
+                    }
+                },
+                {
+                    "label": "ERP Software",
+                    "url": "erp-software-development-company",
+                    "index": 1,
+                    "status": true,
+                    "deletedAt": null,
+                    "dateUpdated": null,
+                    "_id": {
+                        "$oid": "68fb297c0b6a6dde77b64552"
+                    },
+                    "dateCreated": {
+                        "$date": "2025-10-24T07:23:40.223Z"
+                    }
+                }
+            ],
+            "index": 1,
+            "status": true,
+            "deletedAt": null,
+            "dateUpdated": null,
+            "_id": {
+                "$oid": "68fb297c0b6a6dde77b64550"
+            },
+            "dateCreated": {
+                "$date": "2025-10-24T07:23:40.225Z"
+            }
+        },
+        {
+            "title": "Resources",
+            "links": [
+                {
+                    "label": "Blog",
+                    "url": "blog",
+                    "index": 0,
+                    "status": true,
+                    "deletedAt": null,
+                    "dateUpdated": null,
+                    "_id": {
+                        "$oid": "68fb297c0b6a6dde77b64570"
+                    },
+                    "dateCreated": {
+                        "$date": "2025-10-24T07:23:40.226Z"
+                    }
+                },
+                {
+                    "label": "Contact Us",
+                    "url": "contact-us",
+                    "index": 1,
+                    "status": true,
+                    "deletedAt": null,
+                    "dateUpdated": null,
+                    "_id": {
+                        "$oid": "68fb297c0b6a6dde77b64571"
+                    },
+                    "dateCreated": {
+                        "$date": "2025-10-24T07:23:40.226Z"
+                    }
+                },
+                {
+                    "label": "SiteMap",
+                    "url": "",
+                    "index": 0,
+                    "status": true,
+                    "deletedAt": null,
+                    "dateUpdated": null,
+                    "_id": {
+                        "$oid": "68fb297c0b6a6dde77b64575"
+                    },
+                    "dateCreated": {
+                        "$date": "2025-10-24T07:23:40.227Z"
+                    }
+                },
+                {
+                    "label": "Refund Policy",
+                    "url": "refund-policy",
+                    "index": 0,
+                    "status": true,
+                    "deletedAt": null,
+                    "dateUpdated": null,
+                    "_id": {
+                        "$oid": "68fb297c0b6a6dde77b64575"
+                    },
+                    "dateCreated": {
+                        "$date": "2025-10-24T07:23:40.227Z"
+                    }
+                },
+                {
+                    "label": "Privacy Policy",
+                    "url": "privacy-policy",
+                    "index": 1,
+                    "status": true,
+                    "deletedAt": null,
+                    "dateUpdated": null,
+                    "_id": {
+                        "$oid": "68fb297c0b6a6dde77b64576"
+                    },
+                    "dateCreated": {
+                        "$date": "2025-10-24T07:23:40.227Z"
+                    }
+                },
+                {
+                    "label": "T&C",
+                    "url": "terms-and-condition",
+                    "index": 0,
+                    "status": true,
+                    "deletedAt": null,
+                    "dateUpdated": null,
+                    "_id": {
+                        "$oid": "68fb297c0b6a6dde77b64575"
+                    },
+                    "dateCreated": {
+                        "$date": "2025-10-24T07:23:40.227Z"
+                    }
+                }
+            ],
+            "index": 5,
+            "status": true,
+            "deletedAt": null,
+            "dateUpdated": null,
+            "_id": {
+                "$oid": "68fb297c0b6a6dde77b6456f"
+            },
+            "dateCreated": {
+                "$date": "2025-10-24T07:23:40.226Z"
+            }
+        },
+        {
+            "title": "Address",
+            "links": [
+                {
+                    "label": "30-A, Gopalpura Bypass Rd, opp. Holiday Inn Hotel, opp. Holiday Inn, Sultan Nagar, Santi Nagar, Gurjar Ki Thadi, Jaipur, Rajasthan 302020",
+                    "url": "/",
+                    "icon": "location",
+                    "index": 0,
+                    "status": true,
+                    "deletedAt": null,
+                    "dateUpdated": null,
+                    "_id": {
+                        "$oid": "68fb297c0b6a6dde77b64570"
+                    },
+                    "dateCreated": {
+                        "$date": "2025-10-24T07:23:40.226Z"
+                    }
+                },
+                {
+                    "label": "info@metablocktechnologies.in",
+                    "url": "mailto:info@metablocktechnologies.in",
+                    "icon": "email",
+                    "index": 0,
+                    "status": true,
+                    "deletedAt": null,
+                    "dateUpdated": null,
+                    "_id": {
+                        "$oid": "68fb297c0b6a6dde77b64570"
+                    },
+                    "dateCreated": {
+                        "$date": "2025-10-24T07:23:40.226Z"
+                    }
+                },
+                {
+                    "label": "+91 93585-93003",
+                    "url": "tel:+91-93585 93003",
+                    "icon": "phone",
+                    "index": 0,
+                    "status": true,
+                    "deletedAt": null,
+                    "dateUpdated": null,
+                    "_id": {
+                        "$oid": "68fb297c0b6a6dde77b64570"
+                    },
+                    "dateCreated": {
+                        "$date": "2025-10-24T07:23:40.226Z"
+                    }
+                },
+                {
+                    "label": "+91-93585-93002",
+                    "url": "tel:+919358593002",
+                    "icon": "phone",
+                    "index": 0,
+                    "status": true,
+                    "deletedAt": null,
+                    "dateUpdated": null,
+                    "_id": {
+                        "$oid": "68fb297c0b6a6dde77b64570"
+                    },
+                    "dateCreated": {
+                        "$date": "2025-10-24T07:23:40.226Z"
+                    }
+                }
+            ],
+            "index": 5,
+            "status": true,
+            "deletedAt": null,
+            "dateUpdated": null,
+            "_id": {
+                "$oid": "68fb297c0b6a6dde77b6456f"
+            },
+            "dateCreated": {
+                "$date": "2025-10-24T07:23:40.226Z"
+            }
+        }
+    ],
+    "copyright": "© 2025-2026 Metablock",
+    "dateCreated": {
+        "$date": "2025-10-24T07:19:27.813Z"
+    },
+    "dateUpdated": {
+        "$date": "2025-10-24T07:19:27.813Z"
+    },
+    "deletedAt": null,
+    "description": "Full stack mobile (iOS, Android) and web app design and development agency",
+    "socials": [
+        {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/metablocktech/",
+            "icon": "Instagram",
+            "index": 0,
+            "status": true,
+            "deletedAt": null,
+            "dateUpdated": null,
+            "_id": {
+                "$oid": "68fb297c0b6a6dde77b64572"
+            },
+            "dateCreated": {
+                "$date": "2025-10-24T07:23:40.227Z"
+            }
+        },
+        {
+            "name": "Twitter",
+            "url": "",
+            "icon": "Twitter",
+            "index": 1,
+            "status": true,
+            "deletedAt": null,
+            "dateUpdated": null,
+            "_id": {
+                "$oid": "68fb297c0b6a6dde77b64573"
+            },
+            "dateCreated": {
+                "$date": "2025-10-24T07:23:40.227Z"
+            }
+        },
+        {
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/company/metablocktechnologies/posts/?feedView=all",
+            "icon": "Linkedin",
+            "index": 2,
+            "status": true,
+            "deletedAt": null,
+            "dateUpdated": null,
+            "_id": {
+                "$oid": "68fb297c0b6a6dde77b64574"
+            },
+            "dateCreated": {
+                "$date": "2025-10-24T07:23:40.227Z"
+            }
+        }
+    ],
+    "status": true
+}

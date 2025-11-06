@@ -13,6 +13,7 @@ import IndustriesSection from '@/components/aboutUs/IndustriesSection'
 import WhyChooseUs from '@/components/aboutUs/WhyChooseUs'
 import PartnershipSection from '@/components/aboutUs/PartnershipSection'
 import DevelopmentProcess from '@/components/aboutUs/DevelopmentProcess'
+import AbouUsForm from '@/components/aboutUs/AbouUsForm'
 
 
 const AboutPage = () => {
@@ -31,6 +32,7 @@ const AboutPage = () => {
             <DevelopmentProcess data={aboutUsData.developmentProcessSection} />
             <OurExpertise data={aboutUsData.ourExpertise} />
             <WhyChooseUs data={aboutUsData.whyChooseUs} />
+            <AbouUsForm data={aboutUsData.aboutUsForm} />
 
         </div>
     )
