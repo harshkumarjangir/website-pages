@@ -66,7 +66,7 @@ const OurLeaders = ({ data }) => {
                                 </p>
 
                                 {person.buttonText && (
-                                    <Link href={person.buttonUrl}>
+                                    <Link href={person.buttonUrl} target="_blank">
                                         <button className="mt-6 px-6 py-2 border border-blue-400 text-blue-400 rounded-full hover:bg-blue-500 hover:text-white transition-all duration-300 cursor-pointer">
                                             {person.buttonText}
                                         </button>
@@ -74,7 +74,7 @@ const OurLeaders = ({ data }) => {
                                 )}
 
                                 {/* Social Icons */}
-                                {person.socials?.length > 0 && (
+                                {/* {person.socials?.length > 0 && (
                                     <div className="flex gap-4 mt-6">
                                         {person.socials.map((social) => {
                                             const Icon = iconMap[social.platform] || Globe;
@@ -92,7 +92,7 @@ const OurLeaders = ({ data }) => {
                                             );
                                         })}
                                     </div>
-                                )}
+                                )} */}
                             </div>
                         </div>
                     ))}

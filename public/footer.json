@@ -5,6 +5,11 @@
     "__v": 0,
     "columns": [
         {
+            "logo": "/assets/footer/metablock_logo_small.webp",
+            "qrCode": "/assets/footer/QRCode.jpg",
+            "description": "Empowering innovation through cutting-edge blockchain solutions."
+        },
+        {
             "title": "Insights",
             "links": [
                 {
@@ -204,49 +209,6 @@
             }
         },
         {
-            "title": "Software",
-            "links": [
-                {
-                    "label": "Software Development",
-                    "url": "software-development-services",
-                    "index": 0,
-                    "status": true,
-                    "deletedAt": null,
-                    "dateUpdated": null,
-                    "_id": {
-                        "$oid": "68fb297c0b6a6dde77b64551"
-                    },
-                    "dateCreated": {
-                        "$date": "2025-10-24T07:23:40.223Z"
-                    }
-                },
-                {
-                    "label": "ERP Software",
-                    "url": "erp-software-development-company",
-                    "index": 1,
-                    "status": true,
-                    "deletedAt": null,
-                    "dateUpdated": null,
-                    "_id": {
-                        "$oid": "68fb297c0b6a6dde77b64552"
-                    },
-                    "dateCreated": {
-                        "$date": "2025-10-24T07:23:40.223Z"
-                    }
-                }
-            ],
-            "index": 1,
-            "status": true,
-            "deletedAt": null,
-            "dateUpdated": null,
-            "_id": {
-                "$oid": "68fb297c0b6a6dde77b64550"
-            },
-            "dateCreated": {
-                "$date": "2025-10-24T07:23:40.225Z"
-            }
-        },
-        {
             "title": "Resources",
             "links": [
                 {
@@ -429,7 +391,7 @@
         "$date": "2025-10-24T07:19:27.813Z"
     },
     "deletedAt": null,
-    "description": "Full stack mobile (iOS, Android) and web app design and development agency",
+    "description": "Custom Software Development | Artificial Intelligence (AI) | ERP Solutions | Mobile & Web Applications | Blockchain Technology",
     "socials": [
         {
             "name": "Instagram",
@@ -471,6 +433,66 @@
             "dateUpdated": null,
             "_id": {
                 "$oid": "68fb297c0b6a6dde77b64574"
+            },
+            "dateCreated": {
+                "$date": "2025-10-24T07:23:40.227Z"
+            }
+        },
+        {
+            "name": "Facebook",
+            "url": "https://facebook.com/metablocktech",
+            "icon": "Facebook",
+            "index": 3,
+            "status": true,
+            "deletedAt": null,
+            "dateUpdated": null,
+            "_id": {
+                "$oid": "68fb297c0b6a6dde77b00001"
+            },
+            "dateCreated": {
+                "$date": "2025-10-24T07:23:40.227Z"
+            }
+        },
+        {
+            "name": "YouTube",
+            "url": "https://youtube.com/@metablocktech",
+            "icon": "Youtube",
+            "index": 4,
+            "status": true,
+            "deletedAt": null,
+            "dateUpdated": null,
+            "_id": {
+                "$oid": "68fb297c0b6a6dde7700012"
+            },
+            "dateCreated": {
+                "$date": "2025-10-24T07:23:40.227Z"
+            }
+        },
+        {
+            "name": "Pinterest",
+            "url": "https://pinterest.com/metablocktech",
+            "icon": "Pinterest",
+            "index": 5,
+            "status": true,
+            "deletedAt": null,
+            "dateUpdated": null,
+            "_id": {
+                "$oid": "68fb297c0b6a6dde77b00123"
+            },
+            "dateCreated": {
+                "$date": "2025-10-24T07:23:40.227Z"
+            }
+        },
+        {
+            "name": "GoogleMyBusiness",
+            "url": "https://g.page/metablocktech",
+            "icon": "GoogleMyBusiness",
+            "index": 6,
+            "status": true,
+            "deletedAt": null,
+            "dateUpdated": null,
+            "_id": {
+                "$oid": "68fb297c0b6a6dde77b01234"
             },
             "dateCreated": {
                 "$date": "2025-10-24T07:23:40.227Z"
