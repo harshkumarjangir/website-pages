@@ -1,0 +1,1837 @@
+{
+  "heroSection": {
+    "backgroundVideo": "/assets/application/restaurant/hero/herovideo.webm",
+    "heading": "Restaurant App Development Company",
+    "description": "Get your restaurant online with our restaurant app development services. We create customized, feature-rich apps to automate orders, offer better customer experience, and boost sales. Whether you want an app solution for one outlet or a restaurant chain, being one of the best restaurant app development companies, we have got you covered.",
+    "buttons": [
+      {
+        "text": "Get Started",
+        "link": "#"
+      },
+      {
+        "text": "Request a Quote",
+        "link": "#"
+      }
+    ]
+  },
+  "officialPartners": {
+    "title": "Official Partner",
+    "partners": [
+      {
+        "src": "/assets/application/restaurant/officialPartner/microsoft.png",
+        "label": "Microsoft AI Cloud Partner",
+        "alt": "Microsoft AI Cloud Partner"
+      },
+      {
+        "src": "/assets/application/restaurant/officialPartner/salesforce.png",
+        "label": "Partner",
+        "alt": "Salesforce Partner"
+      },
+      {
+        "src": "/assets/application/restaurant/officialPartner/aws.png",
+        "label": "Partner Network",
+        "alt": "AWS Partner Network"
+      }
+    ],
+    "ratings": [
+      {
+        "name": "Clutch",
+        "src": "/assets/application/restaurant/officialPartner/clutch.png",
+        "score": "5.0"
+      },
+      {
+        "name": "Google",
+        "src": "/assets/application/restaurant/officialPartner/google.png",
+        "score": "4.7"
+      },
+      {
+        "name": "TopDevelopers",
+        "src": "/assets/application/restaurant/officialPartner/topdev.png",
+        "score": "5.0"
+      },
+      {
+        "name": "UpCity",
+        "src": "/assets/application/restaurant/officialPartner/upcity.png",
+        "score": "5.0"
+      },
+      {
+        "name": "DesignRush",
+        "src": "/assets/application/restaurant/officialPartner/designrush.png",
+        "score": "5.0"
+      }
+    ]
+  },
+  "section3": {
+    "image": "/assets/application/restaurant/section3/girl.webp",
+    "heading": "Empower Your Business through Restaurant Application Development",
+    "description": "It enhances efficiency, reduces waiting time, and provides perfect operability. With streamlined UI and powerful features, your restaurant can provide an elite in-restaurant and online dining experience.",
+    "description2": "We, as an established restaurant app development company, design custom products tailor-made to your business model. Whether it’s small cafes or multi-unit restaurant chains, our apps feature state-of-the-art features, including real-time location tracking, secure payments, and customized content, to give your customers an effortless and engaging experience."
+  },
+  "overviewSection": {
+    "heading": "Overview",
+    "subheading": "Why Choose",
+    "highlight": "MetaBlock Technologies",
+    "description": "6amMart comes with trendy and essential features for a greater business experience!",
+    "features": [
+      {
+        "title": "Admin Dashboard",
+        "icon": "LayoutDashboard",
+        "description": ""
+      },
+      {
+        "title": "Smart Features",
+        "icon": "Lightbulb",
+        "description": ""
+      },
+      {
+        "title": "Multi-language",
+        "icon": "Languages",
+        "description": ""
+      },
+      {
+        "title": "Product Management",
+        "icon": "PackageSearch",
+        "description": ""
+      },
+      {
+        "title": "Delivery System",
+        "icon": "Truck",
+        "description": ""
+      },
+      {
+        "title": "Multiple Location Support",
+        "icon": "MapPin",
+        "description": ""
+      }
+    ]
+  },
+  "restaurantAppFeaturesSection": {
+    "heading": "Key Features of Our",
+    "highlight": "Restaurant App Solutions",
+    "panels": [
+      {
+        "name": "User Panel",
+        "image": "/assets/ResturantFeature/restaurent-app-hire.webp",
+        "features": [
+          "Easy Sign-Up",
+          "Push Notifications",
+          "Profile Management",
+          "Wishlist & Favourites",
+          "Restaurant Search",
+          "Promo Codes",
+          "Table Reservations",
+          "Loyalty Rewards",
+          "Online Ordering",
+          "Order History",
+          "Menu Browsing",
+          "Social Media Login",
+          "Order Tracking",
+          "Live Chat Support",
+          "Multiple Payment Options",
+          "Referral Program",
+          "Reviews & Ratings",
+          "Multi-Language Support"
+        ]
+      },
+      {
+        "name": "Restaurant Panel",
+        "image": "/assets/application/restaurant/appFeatures/restaurent_panel.webp",
+        "features": [
+          "Restaurant Profile Setup",
+          "Staff Management",
+          "Menu Management",
+          "Sales Analytics",
+          "Order Management",
+          "Inventory Management",
+          "Table Booking System",
+          "Loyalty Program Integration",
+          "Payment Integration",
+          "Multi-Branch Support",
+          "Promotions & Discounts",
+          "Report Generation",
+          "Push Notifications",
+          "Food Category Organization",
+          "Customer Reviews Management",
+          "Business Dashboard",
+          "Real-time Order Tracking",
+          "Customer Support Panel"
+        ]
+      },
+      {
+        "name": "Driver Panel",
+        "image": "/assets/application/restaurant/appFeatures/restaurent_driver_panel.webp",
+        "features": [
+          "Driver Registration",
+          "Customer Contact",
+          "Profile Management",
+          "Order Pickup Details",
+          "Order Requests",
+          "Push Notifications",
+          "Route Optimization",
+          "Delivery History",
+          "Live Order Tracking",
+          "Ratings & Reviews",
+          "Delivery Status Updates",
+          "Availability Toggle",
+          "In-App Navigation",
+          "Multi-Order Handling",
+          "Earnings Dashboard",
+          "Delivery Time Estimates",
+          "Payment Management",
+          "Support Chat"
+        ]
+      },
+      {
+        "name": "Admin Panel",
+        "image": "/assets/application/restaurant/appFeatures/restaurent_admin_panel.webp",
+        "features": [
+          "User Management",
+          "Review & Feedback Control",
+          "Restaurant Management",
+          "Multi-Store Management",
+          "Driver Management",
+          "Real-time Notifications",
+          "Order Tracking",
+          "Role-Based Access",
+          "Payment Management",
+          "Performance Monitoring",
+          "Commission Settings",
+          "Delivery Tracking",
+          "Promo Code Management",
+          "Refund Management",
+          "Reports & Analytics",
+          "Customer Support Portal",
+          "Menu Updates",
+          "System Security Controls"
+        ]
+      }
+    ]
+  },
+  "includedSection": {
+    "title": "What's Included in Restaurant Delivery App?",
+    "subtitle": "Our restaurant delivery app provides everything you need to launch and manage a seamless food ordering business. Get comprehensive tools for order management, user engagement, and efficient restaurant operations.",
+    "items": [
+      {
+        "icon": "Monitor",
+        "title": "Admin Panel",
+        "description": "Monitor and control all aspects of your restaurant and deliveries with a centralized, user-friendly admin dashboard. Gain insights, manage users, and update menus efficiently.",
+        "bgColor": "#DBEAFE",
+        "showInUI": true
+      },
+      {
+        "icon": "Store",
+        "title": "Restaurant Panel",
+        "description": "Each partner restaurant receives its own dedicated panel for managing orders, menus, and staff. This ensures clear oversight and smooth operations at every outlet.",
+        "bgColor": "#DBEAFE",
+        "showInUI": true
+      },
+      {
+        "icon": "Smartphone",
+        "title": "Customer Mobile App",
+        "description": "Offer your customers a convenient way to browse menus, place orders, and track deliveries. The mobile app elevates user experience and encourages repeat business.",
+        "bgColor": "#DBEAFE",
+        "showInUI": true
+      },
+      {
+        "icon": "Globe",
+        "title": "Responsive Website",
+        "description": "A modern, fully responsive website lets customers order from any device. Boost your online presence and attract more customers with ease.",
+        "bgColor": "#DBEAFE",
+        "showInUI": true
+      }
+    ],
+    "addonsTitle": "Premium Add On: Delivery Partner App",
+    "addons": [
+      {
+        "tag": "Add On",
+        "icon": "Truck",
+        "title": "Delivery Partner App",
+        "price": "$39",
+        "description": "A dedicated app for delivery personnel enables seamless order pickup, real-time tracking, and smooth customer delivery experiences.",
+        "bgColor": "#E0F2FF",
+        "showInUI": true
+      },
+      {
+        "tag": "Add On",
+        "icon": "Package",
+        "title": "Store Mobile App",
+        "price": "$39",
+        "description": "Store managers and staff can handle orders and inventory right from their smartphones. This add-on improves speed, flexibility, and operational efficiency.",
+        "bgColor": "#E0F2FF",
+        "showInUI": true
+      },
+      {
+        "tag": "Add On",
+        "icon": "Atom",
+        "title": " Loyalty & Rewards Module",
+        "price": "$99",
+        "description": "Boost customer retention with a loyalty and rewards module. Automatically reward repeat customers with points, discounts, or special offers to encourage frequent orders and long-term engagement.",
+        "bgColor": "#E0F2FF",
+        "showInUI": true
+      },
+      {
+        "tag": "Add On",
+        "icon": "Atom",
+        "title": "Advanced Analytics Suite",
+        "price": "$99",
+        "description": "Receive deep insights into sales, customer behavior, and operational efficiency. This add-on equips you with comprehensive analytics and reporting to support data-driven business decisions.",
+        "bgColor": "#E0F2FF",
+        "showInUI": true
+      },
+      {
+        "tag": "Add On",
+        "icon": "Atom",
+        "title": "Scheduled Order Feature",
+        "price": "$99",
+        "description": "Allow customers to place orders in advance and select a delivery time that suits them. This feature enhances convenience and helps restaurants manage incoming orders more efficiently.",
+        "bgColor": "#E0F2FF",
+        "showInUI": true
+      },
+      {
+        "tag": "Add On",
+        "icon": "Atom",
+        "title": "Social Media Integration",
+        "price": "$99",
+        "description": "Enable easy sharing of deals, menus, or order experiences directly to social media. This add-on helps increase brand reach and attracts new customers through digital word-of-mouth.",
+        "bgColor": "#E0F2FF",
+        "showInUI": true
+      }
+    ]
+  },
+  "developmentServicesSection": {
+    "title": "Restaurant App Development Services We Offer",
+    "description": "Powered by Full Mobile App Development We offer robust application development solutions to give your business the ability to deliver a rich digital experience for customers while cutting your maintenance costs.",
+    "services": [
+      {
+        "id": 1,
+        "icon": "Utensils",
+        "title": "Restaurant Application Development",
+        "desc": "Get a completely customized restaurant app development to fit your business objective. With a powerful combination of online ordering and loyalty programs, we focus on converting customers into regulars."
+      },
+      {
+        "id": 2,
+        "icon": "Headphones",
+        "title": "Restaurant App Consultation",
+        "desc": "Not sure where to start? Our expert restaurant app development company provides professional consultation to determine your perfect strategy, features list, and technology stack for your successful app."
+      },
+      {
+        "id": 3,
+        "icon": "Smartphone",
+        "title": "Android Restaurant App Development",
+        "desc": "Expand your audience reach through Android app development for restaurants. We develop scalable and hyper-performant applications embedded with the best ordering, payment, and delivery-tracking capabilities."
+      },
+      {
+        "id": 4,
+        "icon": "Apple",
+        "title": "iOS Restaurant App Development",
+        "desc": "Improve Customer Experience Funky and cool via restaurant app design & development for iOS. Our applications work smoothly, are safe, and are easily integrated with other third-party utilities."
+      },
+      {
+        "id": 5,
+        "icon": "Wrench",
+        "title": "Restaurant App Maintenance",
+        "desc": "Support and Maintenance Tools Never have to worry about your app because it’s as smooth as our services. We issue changes, stomp out some bugs, and make improvements to the service that you need to enjoy. "
+      },
+      {
+        "id": 6,
+        "icon": "Palette",
+        "title": "Restaurant App UI/UX",
+        "desc": "Design stunning interfaces and user-friendly experiences for your app."
+      }
+    ]
+  },
+  "callToAction": {
+    "icon": "Sparkles",
+    "title": "Want To Develop a Restaurant App?",
+    "description": "Ready to Revolutionize Your Restaurant with a Custom App? Let's Get Started!",
+    "buttonText": "Start Your Project Today",
+    "buttonUrl": "#",
+    "image": "/assets/application/restaurant/callToAction/cta.webp"
+  },
+  "howItWorks": {
+    "heading": "How does the restaurant delivery app work?",
+    "description": "A restaurant delivery app simplifies the process of ordering food for restaurants and diners. Consumers place orders via the app, and everything from menu selection to delivery monitoring is carefully coordinated to ensure the service is fast and reliable.",
+    "processImage": "/assets/application/restaurant/howItWorks/chooseUs.png",
+    "steps": [
+      {
+        "number": "01",
+        "title": "View and Select Menu",
+        "description": "Customers browse the menus of restaurants, see dishes, and can modify their selected dishes before adding them to the basket. The app provides images, detailed descriptions, and marketing for special products for a better user experience and more sales!."
+      },
+      {
+        "number": "02",
+        "title": "SIMPLE TO ORDER",
+        "description": "Orders are placed intuitively and simply: from the user's favorite restaurant, where he/she can choose from the available payment methods and provide the delivery details. The app facilitates safe payment and immediate order placement."
+      },
+      {
+        "number": "03",
+        "title": "Order Confirmation",
+        "description": "New orders are pushed to the restaurants immediately. They accept and confirm the order in the App, keeping the customer informed about the acceptance and the estimated food-ready time."
+      },
+      {
+        "number": "04",
+        "title": "Preparation of the dishes",
+        "description": "Once the restaurant has accepted the order, the preparation of the food can begin. Customers are kept informed by live status as food is prepared for delivery."
+      },
+      {
+        "number": "05",
+        "title": "Delivery Tracking",
+        "description": "The delivery partner is assigned and on the way to pick up from the restaurant. Customers may monitor their order on a live map, track the driver as he/she approaches the delivery location, receive real-time notifications about the order, and get an estimated time of arrival for full transparency."
+      },
+      {
+        "number": "06",
+        "title": "Review Eat Up and After",
+        "description": "After having the meal delivered, customers eat and rate their experiences. Restaurants leverage this feedback to improve service and app delivery performance."
+      }
+    ]
+  },
+  "mobileMockupSection": {
+    "title": "Restaurant Clone App Development Solutions",
+    "description": "Launch your restaurant app faster with our online restaurant app development solutions inspired by top industry platforms. Get feature-rich, scalable, and high-performing apps tailored to your business needs.",
+    "screens": [
+      {
+        "img": "/assets/application/restaurant/mobileMockup/zomato2.png",
+        "caption": "Go4Food App Clone",
+        "description": "Build a powerful restaurant platform development solution like go4food with seamless table reservations, real-time availability, and an easy-to-use booking system."
+      },
+      {
+        "img": "/assets/application/restaurant/mobileMockup/ubereats2.png",
+        "caption": "Bhojan App Clone",
+        "description": "Our restaurant marketplace app development solution replicates Bhojan smart reservations, waitlist management, and personalized customer engagement features for enhanced dining experiences."
+      },
+      {
+        "img": "/assets/application/restaurant/mobileMockup/swiggy2.png",
+        "caption": "Thali App Clone",
+        "description": "Get a custom restaurant chain app development solution like Thali, featuring restaurant discovery, customer reviews, and exclusive deals to boost bookings."
+      },
+      {
+        "img": "/assets/application/restaurant/mobileMockup/easy2.png",
+        "caption": "Yelp App Clone",
+        "description": "Develop a restaurant app solution like Yelp, integrating customer reviews, ratings, and business listings to enhance restaurant visibility and credibility."
+      },
+      {
+        "img": "/assets/application/restaurant/mobileMockup/zomato2.png",
+        "caption": "Tock App Clone",
+        "description": "With our restaurant app development agency, create a Tock-like platform for ticketed dining experiences, event bookings, and prepaid reservations."
+      },
+      {
+        "img": "/assets/application/restaurant/mobileMockup/ubereats2.png",
+        "caption": "Chope App Clone",
+        "description": "Our restaurant app developers can craft a Chope-like app with seamless reservations, loyalty rewards, and promotions for higher customer retention."
+      }
+    ]
+  },
+  "featureSection": {
+    "title": "Top Features",
+    "subtitle": "Our vast modules & features are designed to make your business unique from others in the market for rapid growth.",
+    "features": [
+      {
+        "icon": "LayoutDashboard",
+        "title": "Multi-Business in One Dashboard",
+        "description": "Manage different types of restaurant businesses from a single, powerful dashboard. Easily oversee every operation, track performance, and keep all your restaurant services unified and efficient."
+      },
+      {
+        "icon": "Store",
+        "title": "Multi-Vendor Management",
+        "description": "Bring together unlimited restaurant partners and vendors within a single module. Simplify onboarding, menu updates, and vendor collaboration for a more diverse food delivery marketplace."
+      },
+      {
+        "icon": "MapPin",
+        "title": "Zone-Wise Business Management",
+        "description": "Target different delivery zones efficiently to maximize market reach. Schedule area-specific promotions and optimize deliveries for faster service in each location."
+      },
+      {
+        "icon": "MonitorSmartphone",
+        "title": "Dedicated POS for Each Module",
+        "description": "Ensure each restaurant or vendor has a personalized Point-of-Sale system. Enable smooth transactions and detailed analytics for every module to improve operational efficiency."
+      }
+    ],
+    "images": {
+      "dashboard": "/assets/application/restaurant/featureSection/dashboard.png",
+      "mobile": "/assets/application/restaurant/featureSection/dashboardmobile.png"
+    },
+    "advancedFeatures": [
+      {
+        "icon": "Settings",
+        "title": "Module Management",
+        "description": "Effortlessly add, edit, or remove business modules as your restaurant grows. Update service types and keep your delivery app dynamic and responsive."
+      },
+      {
+        "icon": "MonitorSmartphone",
+        "title": "Web & App Settings",
+        "description": "Customize your restaurant’s landing pages, mobile apps, and essential APIs with ease. Manage branding and tech integrations for a more professional appearance."
+      },
+      {
+        "icon": "Languages",
+        "title": "Multi-Language Setup",
+        "description": "Reach more customers by offering unlimited languages in your delivery app. Give every diner a familiar and user-friendly ordering experience."
+      },
+      {
+        "icon": "Store",
+        "title": "POS Integration",
+        "description": "Connect your app with advanced POS systems for smoother restaurant operations. Simplify payment processing and synchronize order tracking from kitchen to doorstep."
+      }
+    ]
+  },
+  "demoSection": {
+    "leftText": "Click For Demo",
+    "rightButton": "Restaurant Demo",
+    "rightButtonUrl": "#",
+    "colorGreen": "#12A84E",
+    "colorWhite": "#e6fbdf"
+  },
+  "dontSettle": {
+    "title": "Don't Settle For Less. Experience The Best!",
+    "image": "/assets/application/restaurant/dashboard/dontsettle.png"
+  },
+  "dashboardSection": {
+    "dashboardStatistics": {
+      "heading": "Dashboard With Statistics",
+      "image": "/assets/application/restaurant/dashboard/dashboard.png",
+      "features": [
+        "Total Orders",
+        "Overall Sales",
+        "User Statistics",
+        "Top Delivery Man",
+        "Income Stats"
+      ],
+      "summary": {
+        "title": "Orders",
+        "value": "30M+",
+        "note": "12 newly added"
+      },
+      "salesStatistics": {
+        "salesTitle": "Sales Statistics",
+        "salesData": [
+          {
+            "name": "Jan",
+            "sales": 150
+          },
+          {
+            "name": "Feb",
+            "sales": 250
+          },
+          {
+            "name": "Mar",
+            "sales": 200
+          },
+          {
+            "name": "Apr",
+            "sales": 300
+          },
+          {
+            "name": "May",
+            "sales": 180
+          },
+          {
+            "name": "Jun",
+            "sales": 350
+          },
+          {
+            "name": "Jul",
+            "sales": 220
+          },
+          {
+            "name": "Aug",
+            "sales": 170
+          },
+          {
+            "name": "Sep",
+            "sales": 260
+          },
+          {
+            "name": "Oct",
+            "sales": 150
+          },
+          {
+            "name": "Nov",
+            "sales": 210
+          },
+          {
+            "name": "Dec",
+            "sales": 190
+          }
+        ]
+      },
+      "paymentStatistics": {
+        "paymentTitle": "Payment Statistics",
+        "paymentData": [
+          {
+            "name": "Cash Payments",
+            "value": 56000000
+          },
+          {
+            "name": "Digital Payments",
+            "value": 4783
+          },
+          {
+            "name": "Wallet",
+            "value": 75439
+          }
+        ],
+        "completedPayments": "$86M+ Completed Payments",
+        "paymentBreakdown": [
+          "💵 Cash Payments ($56M)",
+          "💳 Digital Payments ($4,783)",
+          "👛 Wallet ($75,439)"
+        ]
+      }
+    },
+    "dashboardFeaturesSection": {
+      "title": "Powerful Dashboard Features",
+      "description": "Explore our advanced dashboard tools designed to help you manage, analyze, and scale your business seamlessly.",
+      "features": [
+        {
+          "title": "Multi Business in One Dashboard",
+          "highlight": "in One Dashboard",
+          "points": [
+            "Grocery",
+            "Pharmacy",
+            "eCommerce",
+            "Food",
+            "Parcel"
+          ],
+          "img": "/assets/application/restaurant/dashboard/multi-business.png",
+          "bg": "bg-white"
+        },
+        {
+          "title": "Easy to Manage Multi-Store",
+          "highlight": "Multi-Store",
+          "points": [
+            "Total Stores",
+            "Inactive Stores",
+            "New Stores",
+            "Store Requests"
+          ],
+          "img": "/assets/application/restaurant/dashboard/multi-store.png",
+          "bg": "bg-green-50"
+        },
+        {
+          "title": "Smart Dispatch Management",
+          "highlight": "Dispatch Management",
+          "points": [
+            "Module-Based Overview",
+            "Map With Satellite-Based Tracking",
+            "Dispatch Overview"
+          ],
+          "img": "/assets/application/restaurant/dashboard/dispatch-management.png",
+          "bg": "bg-white"
+        },
+        {
+          "title": "Store-Wise Dedicated POS",
+          "highlight": "Dedicated POS",
+          "points": [
+            "Product Section",
+            "Billing Section",
+            "Customer Selection",
+            "Delivery Information",
+            "Payment Method"
+          ],
+          "img": "/assets/application/restaurant/dashboard/dedicated-pos.png",
+          "bg": "bg-green-50"
+        },
+        {
+          "title": "Manage Promotions to Boost Sales",
+          "highlight": "Promotions to Boost Sales",
+          "points": [
+            "Customized campaign",
+            "Zone-wise banners",
+            "Coupon creation",
+            "Push notifications",
+            "Customer-specific campaign"
+          ],
+          "img": "/assets/application/restaurant/dashboard/promotions.png",
+          "bg": "bg-white"
+        },
+        {
+          "title": "User Overview",
+          "highlight": "Overview",
+          "points": [
+            "Customer statistics",
+            "Customer growth",
+            "Total employee",
+            "Delivery Man activity",
+            "Top delivery man"
+          ],
+          "img": "/assets/application/restaurant/dashboard/user-overview.png",
+          "bg": "bg-green-50"
+        }
+      ]
+    },
+    "storeDashboardFeatures": {
+      "storeSection": {
+        "title": "All Features In One",
+        "highlight": "Store Dashboard",
+        "image": "/assets/application/restaurant/dashboard/store-hero.png"
+      },
+      "liveChatSection": {
+        "title": "Well Organized Customer, Staff & Admin Live Chat",
+        "image": "/assets/application/restaurant/dashboard/live-chat.png"
+      }
+    }
+  },
+  "appOperations": {
+    "heading": {
+      "line1": "App Operations",
+      "highlight": "MetaBlock Technologies",
+      "highlightSuffix": "for",
+      "line2": "Restaurant App",
+      "line3": "Development?"
+    },
+    "description": "Manage your business operations efficiently with our comprehensive app solutions designed for seamless performance and user engagement.",
+    "image": [
+      {
+        "src": "/assets/application/restaurant/appOperations/appOperations.png",
+        "alt": "App Operation 1"
+      },
+      {
+        "src": "/assets/application/restaurant/appOperations/different-interface.gif",
+        "alt": "App Operation 2"
+      },
+      {
+        "src": "/assets/application/restaurant/appOperations/store-hero.png",
+        "alt": "App Operation 3 - Store Dashboard"
+      },
+      {
+        "src": "/assets/application/restaurant/appOperations/live-chat.png",
+        "alt": "App Operation 4 - Live Chat"
+      },
+      {
+        "src": "/assets/application/restaurant/appOperations/app-features.png",
+        "alt": "App Operation 4 - App Features"
+      },
+      {
+        "src": "/assets/application/restaurant/appOperations/cab.png",
+        "alt": "App Operation 5 - App Features"
+      },
+      {
+        "src": "/assets/application/restaurant/appOperations/cab-2.png",
+        "alt": "App Operation 6 - App Features"
+      }
+    ]
+  },
+  "mistakesToAvoidSection": {
+    "title": "Mistakes to Avoid in Restaurant App Development",
+    "cards": [
+      {
+        "title": "Ignoring Customization Needs",
+        "description": "Failing to provide personalization options leads to poor user experience. Users expect to customize their preferences, dietary restrictions, and ordering habits.",
+        "image": "/assets/application/restaurant/appMistakes/mistake1.svg"
+      },
+      {
+        "title": "Complicated Ordering Process",
+        "description": "Complex navigation and too many steps in the ordering flow frustrate customers. A streamlined, intuitive process is essential for user retention and satisfaction.",
+        "image": "/assets/application/restaurant/appMistakes/mistake2.jpg"
+      },
+      {
+        "title": "Lack of App Maintenance",
+        "description": "Neglecting regular updates, bug fixes, and performance improvements results in declining app quality and user abandonment over time.",
+        "image": "/assets/application/restaurant/appMistakes/mistake3.png"
+      }
+    ]
+  },
+  "restaurantAppSolutions": {
+    "title": "Comprehensive Restaurant App Solution",
+    "description": "Our restaurant app solutions help streamline your online food business with powerful panels and smart delivery features.",
+    "cards": [
+      {
+        "title": "Table Reservation App",
+        "subtitle": "Have a glitch-free meal with an intelligent table reservation app",
+        "image": "/assets/application/restaurant/appSolutions/Table-Reservation-Apps.webp",
+        "icon": "CalendarDays",
+        "backTitle": "Table Reservation App Features",
+        "backText": [
+          "Have a glitch-free meal with an intelligent table reservation app. Let customers book tables in advance, and help reduce long lines to keep the guests happy. Real-time availability, instant booking with easy credit card payment processing, and accommodating other trackable reservations and customers turn your restaurant into a business.",
+          "Instant conCompanyation of real-time table availability and bookings",
+          "Minimize customer wait time and speed up table turnover",
+          "Enhance dining experience through convenient reservations"
+        ],
+        "cta": "Get Started",
+        "ctaLink": "#"
+      },
+      {
+        "title": "Restaurant Finder App",
+        "subtitle": "Help customers find and explore your restaurant easily",
+        "image": "/assets/application/restaurant/appSolutions/Restaurant-Finder-Apps.webp",
+        "icon": "MapPin",
+        "backTitle": "Restaurant Finder App Features",
+        "backText": [
+          "Assist food enthusiasts to locate your restaurant more readily with a hotel finder app. Taking advantage of GPS and smashing filters, your customers can find you within seconds, read reviews, see the restaurant & food in all its glory (in for who got the last pizza ;)), and explore their options from wherever they want—at home or on the go.",
+          "Location-based search and GPS navigation",
+          "Read restaurant reviews, menus and details on the places to eat.",
+          "Increase visibility of customer engagement"
+        ],
+        "cta": "Get Started",
+        "ctaLink": "#"
+      },
+      {
+        "title": "Restaurant Discount App",
+        "subtitle": "Boost sales with offers, coupons, and rewards",
+        "image": "/assets/application/restaurant/appSolutions/Table-Reservation-Apps.webp",
+        "icon": "Percent",
+        "backTitle": "Restaurant Discount App Features",
+        "backText": [
+          "Generate more sales and customers by using a restaurant discount app. Provide your audience with special offers, coupons, and coupon codes to get repeat buyers to your website, giving long-term customer loyalty.",
+          "Customized discounts and deals for users",
+          "Seasonal deals and promotions sent to your screen via push notifications",
+          "Encourage repeat business with loyalty rewards"
+        ],
+        "cta": "Get Started",
+        "ctaLink": "#"
+      },
+      {
+        "title": "Restaurant Review App",
+        "subtitle": "Build credibility and trust with user feedback",
+        "image": "/assets/application/restaurant/appSolutions/Restaurant-Review-Apps.webp",
+        "icon": "Star",
+        "backTitle": "Restaurant Review App Features",
+        "backText": [
+          "Increase your restaurant’s reputation with a review app that lets users rate, review, and share dining experiences. Honest feedback serves to build trust but also improve the level of service you offer and increase your word-of-mouth new customer figures.",
+          "User-generated reviews and star ratings",
+          "One-on-one or group readings with friends on social media to expand your reach",
+          "Increase trust and confidence by utilizing genuine user-generated feedback "
+        ],
+        "cta": "Get Started",
+        "ctaLink": "#"
+      },
+      {
+        "title": "Restaurant POS Software",
+        "subtitle": "Simplify billing and streamline operations",
+        "image": "/assets/application/restaurant/appSolutions/Restaurant-POS-Software.webp",
+        "icon": "Monitor",
+        "backTitle": "POS Software Features",
+        "backText": [
+          "Simplify your billing and restaurant management with smart point-of-sale software for restaurants. From handling orders to completing secure transactions, the system delivers speed, accuracy, and streamlined processes—so your staff can spend more time serving guests and less time reconciling data.",
+          "Quick and safe billing with several credit card or PayPal options",
+          "Order management with real-time tracking",
+          " Customized reports on monthly sales helping decision based on data"
+        ],
+        "cta": "Get Started",
+        "ctaLink": "#"
+      },
+      {
+        "title": "Menu Management Software",
+        "subtitle": "Keep your menu fresh and always up to date",
+        "image": "/assets/application/restaurant/appSolutions/Table-Reservation-Apps.webp",
+        "icon": "List",
+        "backTitle": "Menu Management Features",
+        "backText": [
+          "Another effective approach is to have a real-time updated menu with the help of menu management software. From the latest local delights to old-time classic favorites, this cutting-edge solution allows you to launch new dishes in just a few clicks, update prices as well, and run special offers, making sure your customers get to see the most up-to-date menu 24×7, either on the web or right at their fingertips.",
+          "Live menu updates on all platforms",
+          "Simple to administer pricing, categories, and combos",
+          "Office menu and special offers up to date"
+        ],
+        "cta": "Get Started",
+        "ctaLink": "#"
+      },
+      {
+        "title": "Waiter Management Software",
+        "subtitle": "Optimize staff performance and service quality",
+        "image": "/assets/application/restaurant/appSolutions/Restaurant-POS-Software.webp",
+        "icon": "UserCheck",
+        "backTitle": "Waiter Management Features",
+        "backText": [
+          "Increase both the productivity of waiting staff and your profit margins with waiter software. Seating, floor plans, service tracking, and more to keep everything running smoothly for fast guest turnaround.",
+          "Allocate tables and exhilarate waiter duties in a productive manner",
+          "Monitor how fast staff are working and the speed of service",
+          "Increase customer satisfaction through faster service"
+        ],
+        "cta": "Get Started",
+        "ctaLink": "#"
+      },
+      {
+        "title": "Inventory Management Software",
+        "subtitle": "Stay in control of your stock and reduce waste",
+        "image": "/assets/application/restaurant/appSolutions/Restaurant-Review-Apps.webp",
+        "icon": "Boxes",
+        "backTitle": "Inventory Management Features",
+        "backText": [
+          "Identify the food in your pantry Image Source: Chris Monroe/CNET Our favorite is Grocy, a free and open-source web-based program that does just what you want—lets you keep track of all the food stored in your home. Monitor stock, check ingredient usage, and get low‐stock alerts so you know when to reorder—all from your phone.  Reduce waste by prescanning orders before they even arrive, ensuring you never run out of critical supplies that keep your restaurant up and running.",
+          "Instant reporting on available stock and inventory movements",
+          "Automatic notifications for running low or expiring items",
+          "Reduce food waste and maximise purchasing"
+        ],
+        "cta": "Get Started",
+        "ctaLink": "#"
+      }
+    ]
+  },
+  "appDevelopmentProcessSteps": {
+    "heading": " Get a Cost Estimate for Your Restaurant App Development",
+    "description": "We offer customized pricing based on features, complexity, and platform requirements to fit your business needs.",
+    "processImage": "/assets/application/restaurant/howItWorks/chooseUs.png",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Requirement Analysis",
+        "description": "We realize each restaurant is unique and with that comes a system crafted strictly with your business needs and making sure the sales stay high and customers keep coming back through the door."
+      },
+      {
+        "number": "02",
+        "title": "UI/UX Design",
+        "description": "Our design professionals craft elegant, intuitive app interfaces that construct a smooth and enjoyable ordering process."
+      },
+      {
+        "number": "03",
+        "title": "App Development",
+        "description": "We build upscale restaurant apps with capabilities of online ordering, booking tables and secure payments."
+      },
+      {
+        "number": "04",
+        "title": "Testing & QA",
+        "description": "We push your app to the limit so it works flawlessly, providing a smooth experience for your customers."
+      },
+      {
+        "number": "05",
+        "title": "Deployment",
+        "description": "Your restaurant app has iOS and Android marketplace presence, fully optimized to attract visitors."
+      },
+      {
+        "number": "06",
+        "title": "Maintenance & Support",
+        "description": "Our experienced staff always offers updates, support and ongoing developments to make your restaurant app one step ahead of others."
+      }
+    ]
+  },
+  "latestTechnologies": {
+    "heading": "Get Solutions Built with the Latest Robust Technologies",
+    "description": "Metablock Technologies combines AI, machine learning, and other emerging technologies to craft scalable solutions, giving your business a competitive edge. Our teams' expertise covers a vast range of technologies, setting us apart from other companies.",
+    "categories": [
+      {
+        "name": "Mobile App",
+        "key": "mobile",
+        "technologies": [
+          {
+            "name": "iOS",
+            "icon": "/assets/application/restaurant/latestTechnologies/mobileApp/technologies-ic14.svg"
+          },
+          {
+            "name": "Android",
+            "icon": "/assets/application/restaurant/latestTechnologies/mobileApp/technologies-ic15.svg"
+          },
+          {
+            "name": "Ionic",
+            "icon": "/assets/application/restaurant/latestTechnologies/mobileApp/technologies-ic16.svg"
+          },
+          {
+            "name": "Flutter",
+            "icon": "/assets/application/restaurant/latestTechnologies/mobileApp/technologies-ic17.svg"
+          },
+          {
+            "name": "PWA",
+            "icon": "/assets/application/restaurant/latestTechnologies/mobileApp/pwa-icon.svg"
+          },
+          {
+            "name": "React Native",
+            "icon": "/assets/application/restaurant/latestTechnologies/mobileApp/technologies-ic4.svg"
+          },
+          {
+            "name": "Cordova",
+            "icon": "/assets/application/restaurant/latestTechnologies/mobileApp/technologies-ic19.svg"
+          },
+          {
+            "name": "Swift",
+            "icon": "/assets/application/restaurant/latestTechnologies/mobileApp/technologies-ic-swift.svg"
+          }
+        ]
+      },
+      {
+        "name": "AI",
+        "key": "ai",
+        "technologies": [
+          {
+            "name": "OpenAI",
+            "icon": "/assets/application/restaurant/latestTechnologies/ai/openai-logo.svg"
+          },
+          {
+            "name": "Meta AI",
+            "icon": "/assets/application/restaurant/latestTechnologies/ai/meta.svg"
+          },
+          {
+            "name": "Google AI",
+            "icon": "/assets/application/restaurant/latestTechnologies/ai/google-ai.svg"
+          },
+          {
+            "name": "Grok",
+            "icon": "/assets/application/restaurant/latestTechnologies/ai/grok.svg"
+          },
+          {
+            "name": "Scikit-learn",
+            "icon": "/icons/scikit.svg"
+          }
+        ]
+      },
+      {
+        "name": "Frontend",
+        "key": "frontend",
+        "technologies": [
+          {
+            "name": "React",
+            "icon": "/assets/application/restaurant/latestTechnologies/frontend/technologies-ic4.svg"
+          },
+          {
+            "name": "Next.js",
+            "icon": "/assets/application/restaurant/latestTechnologies/frontend/nextjs-icon.svg"
+          },
+          {
+            "name": "Vue.js",
+            "icon": "/assets/application/restaurant/latestTechnologies/frontend/Vue.js_Logo_2.svg"
+          },
+          {
+            "name": "Angular",
+            "icon": "/assets/application/restaurant/latestTechnologies/frontend/technologies-ic3.svg"
+          },
+          {
+            "name": "Tailwind CSS",
+            "icon": "/assets/application/restaurant/latestTechnologies/frontend/tailwindcss-mark.d52e9897.svg"
+          },
+          {
+            "name": "JavaScript",
+            "icon": "/assets/application/restaurant/latestTechnologies/frontend/javascript-logo.svg"
+          }
+        ]
+      },
+      {
+        "name": "Backend",
+        "key": "backend",
+        "technologies": [
+          {
+            "name": "Node.js",
+            "icon": "/assets/application/restaurant/latestTechnologies/backend/technologies-ic13.svg"
+          },
+          {
+            "name": "Express",
+            "icon": "/assets/application/restaurant/latestTechnologies/backend/expressjs-icon.svg"
+          },
+          {
+            "name": "Laravel",
+            "icon": "/assets/application/restaurant/latestTechnologies/backend/technologies-ic12.svg"
+          },
+          {
+            "name": "Django",
+            "icon": "/assets/application/restaurant/latestTechnologies/backend/technologies-ic11.svg"
+          },
+          {
+            "name": "Spring Boot",
+            "icon": "/assets/application/restaurant/latestTechnologies/backend/technologies-ic-java.svg"
+          }
+        ]
+      },
+      {
+        "name": "DevOps",
+        "key": "devops",
+        "technologies": [
+          {
+            "name": "Docker",
+            "icon": "/assets/application/restaurant/latestTechnologies/devops/technologies-ic20.svg"
+          },
+          {
+            "name": "Kubernetes",
+            "icon": "/assets/application/restaurant/latestTechnologies/devops/technologies-ic21.svg"
+          },
+          {
+            "name": "Jenkins",
+            "icon": "/assets/application/restaurant/latestTechnologies/devops/jenkins-svgrepo-com.svg"
+          },
+          {
+            "name": "GitHub Actions",
+            "icon": "/assets/application/restaurant/latestTechnologies/devops/GitHub Actions.svg"
+          },
+          {
+            "name": "AWS",
+            "icon": "/assets/application/restaurant/latestTechnologies/devops/technologies-ic33.svg"
+          },
+          {
+            "name": "Azure",
+            "icon": "/assets/application/restaurant/latestTechnologies/devops/technologies-ic34.svg"
+          },
+          {
+            "name": "DigitalOcean",
+            "icon": "/assets/application/restaurant/latestTechnologies/devops/technologies-ic35.svg"
+          }
+        ]
+      },
+      {
+        "name": "Android",
+        "key": "android",
+        "technologies": [
+          {
+            "name": "Java",
+            "icon": "/assets/application/restaurant/latestTechnologies/android/technologies-ic-java.svg"
+          },
+          {
+            "name": "Kotlin",
+            "icon": "/assets/application/restaurant/latestTechnologies/android/Kotlin_icon.svg"
+          },
+          {
+            "name": "Android Studio",
+            "icon": "/assets/application/restaurant/latestTechnologies/android/Android_Studio.svg"
+          },
+          {
+            "name": "Firebase",
+            "icon": "/assets/application/restaurant/latestTechnologies/android/icons8-firebase.svg"
+          }
+        ]
+      }
+    ]
+  },
+  "videoInsights": {
+    "heading": "Watch: AI Business Growth & Investment Guidance",
+    "description": "Get expert insights on implementing AI technology to transform your business processes and securing funding to scale effectively. Discover actionable strategies from JPLoft's specialists who turn innovative ideas into profitable businesses.",
+    "videos": [
+      {
+        "thumbnail": "/assets/application/restaurant/videoInsights/images/daniel-brook.webp",
+        "videoSrc": "/assets/application/restaurant/videoInsights/videos/daniel-brook.mp4",
+        "name": "DREW BENNETT",
+        "designation": "Strategic Technology Solutions Manager",
+        "title": "How to Use AI for Business?",
+        "buttonText": "Watch Video"
+      },
+      {
+        "thumbnail": "/assets/application/restaurant/videoInsights/images/drew-insight.webp",
+        "videoSrc": "/assets/application/restaurant/videoInsights/videos/drew-insight.mp4",
+        "name": "DANIEL BROOKS",
+        "designation": "Financial Growth Specialist",
+        "title": "How to Get Funding for Your Business?",
+        "buttonText": "Watch Video"
+      }
+    ]
+  },
+  "hireDevelopers": {
+    "title": "Work with a Restaurant App Development company to Create Your Custom Solution.",
+    "paragraphs": [
+      "Want your mobile food ordering app created by professionals for a dynamic, custom-tailored app solution? At MetaBlock Technologies, we specialize in developing (app) solutions that work - the way you need it. From online ordering to POS integration, we make sure you're working and wowing.",
+      "Hiring restaurant app development company you boast a team of domain tech experts building technologically advanced apps for engaging the customers and keeping the restaurant tasks in flow. Whether you want a restaurant manager app, and any other type of restaurant marketplace app, we have the answer to help make your business grow and more efficient!",
+      "Join hands with the best restaurant app development company which would deliver everything with quality, innovation and ease of use provided. We have flexible hiring models to fill all your project requirements ranging from a full-blown app down to a custom module. Let’s have an online chat about the solution that takes your restaurant business to 200% complete!"
+    ],
+    "buttonText": "Hire Restaurant App Company",
+    "buttonUrl": "#",
+    "image": "/assets/application/restaurant/hireDevelopers/hire-dedicated-developers.webp"
+  },
+  "customVsReadymadeApp": {
+    "title": "Custom vs Readymade Restaurant Apps",
+    "headers": {
+      "customApp": "Custom Apps",
+      "readymadeApp": "Readymade Apps"
+    },
+    "comparison": [
+      {
+        "icon": "/assets/application/restaurant/customVsReadymadeApp/custom_app_ic14.svg",
+        "title": "Cost",
+        "description": "Readymade apps usually come with a lower initial investment, while custom solutions tend to have higher upfront costs."
+      },
+      {
+        "icon": "/assets/application/restaurant/customVsReadymadeApp/custom_app_ic11.svg",
+        "title": "Customization",
+        "description": "Custom restaurant apps are built to fit your specific business needs, unlike the limited flexibility of readymade options."
+      },
+      {
+        "icon": "/assets/application/restaurant/customVsReadymadeApp/custom_app_ic5.svg",
+        "title": "Time to Market",
+        "description": "Readymade solutions allow for a quicker launch, whereas custom development requires more time for design and testing."
+      },
+      {
+        "icon": "/assets/application/restaurant/customVsReadymadeApp/custom_app_ic2.svg",
+        "title": "Scalability",
+        "description": "Custom apps are designed to scale alongside your business growth, while readymade apps may struggle to adapt to expanding needs."
+      },
+      {
+        "icon": "/assets/application/restaurant/customVsReadymadeApp/custom_app_ic7.svg",
+        "title": "Maintenance",
+        "description": "With readymade apps, you often benefit from vendor support, but custom apps require a dedicated maintenance plan."
+      }
+    ]
+  },
+  "companyTestimonials": {
+    "heading": "Ranked as #1 Top Restaurant App Development Company",
+    "description": "Empowering 200+ clients globally with innovative Restaurant App Development solutions.",
+    "stats": [
+      {
+        "value": "50+",
+        "label": "Employee Strength"
+      },
+      {
+        "value": "175+",
+        "label": "Projects Delivered"
+      },
+      {
+        "value": "70+",
+        "label": "Countries Served"
+      },
+      {
+        "value": "₹ 60 Cr+",
+        "label": "Clientele Revenue"
+      }
+    ],
+    "reviewsHeader": {
+      "title": "MetaBlock Technologies Reviews",
+      "rating": 5.0,
+      "reviewsCount": 1,
+      "poweredBy": "Clutch"
+    },
+    "reviews": [
+      {
+        "rating": 5.0,
+        "text": "They have delivered everything I asked of them and more.",
+        "author": "Project Manager, Apelo Panel",
+        "verified": true
+      },
+      {
+        "rating": 5.0,
+        "text": "We will surely recommend JPLoft to everyone in need of a company having full...",
+        "author": "Sole Trader, Food Company",
+        "verified": true
+      },
+      {
+        "rating": 5.0,
+        "text": "JPLoft produced good quality work, making for a successful engagement.",
+        "author": "GM, Quality Flavours Export",
+        "verified": true
+      }
+    ]
+  },
+  "appDevelopment": {
+    "heading": {
+      "line1": "Why Choose",
+      "highlight": "MetaBlock Technologies",
+      "highlightSuffix": "for ",
+      "line2": "Restaurant App",
+      "line3": "Development?"
+    },
+    "description": "MetaBlock Technologies empowers your restaurant delivery app with modern features tailored for business growth. Experience seamless management and enhanced efficiency for every order.",
+    "services": [
+      {
+        "icon": "Users",
+        "title": "Product Management",
+        "description": "Manage your restaurant’s menu, inventory, and prices all in one place. Delivery App Experience: Simplify your product management for the delivery app with a streamlined delivery app management system.",
+        "isGreen": false
+      },
+      {
+        "icon": "Lightbulb",
+        "title": "Delivery System",
+        "description": "Order Brews has speed and accuracy, delivery tracking, and management to help you fulfill your orders. Our sophisticated technology enhances customer delight with on-time delivery.",
+        "isGreen": true
+      },
+      {
+        "icon": "Monitor",
+        "title": "Multiple Location Support",
+        "description": "Handle your multi-outlet effortlessly and take your restaurant to new heights. The app offers centralized management , allowing all locations/activity types to deliver a seamless experience.",
+        "isGreen": false
+      },
+      {
+        "icon": "Zap",
+        "title": "Admin Dashboard",
+        "description": "Enjoy unprecedented control through a user-friendly admin dashboard. Monitor orders, control users, and run critical reports to make informed decisions.",
+        "isGreen": true
+      },
+      {
+        "icon": "Palette",
+        "title": "Smart Features",
+        "description": "Routines Automate routine tasks and customize the user experience with smart, forward-thinking app features. Discover greater productivity and more enjoyable restaurant deliveries.",
+        "isGreen": false
+      },
+      {
+        "icon": "Settings",
+        "title": "Multi-language",
+        "description": "Expand your reach with multi-language features. Diners can order in the language of their choice, enabling your restaurant to serve all. ",
+        "isGreen": true
+      },
+      {
+        "icon": "Shield",
+        "title": "Secure & Reliable",
+        "description": "Our restaurant app developers implement high-security standards, ensuring data protection, smooth transactions, and app reliability.",
+        "isGreen": false
+      },
+      {
+        "icon": "Headphones",
+        "title": "24/7 Support & Maintenance",
+        "description": "We provide continuous app support and maintenance to keep your app updated, secure, and optimized.",
+        "isGreen": true
+      },
+      {
+        "icon": "UserCheck",
+        "title": "Flexible Hiring Models",
+        "description": "Hire dedicated restaurant app developers based on your project needs—full-time, part-time, or hourly engagement options available.",
+        "isGreen": false
+      }
+    ]
+  },
+  "appLandingSection": {
+    "backgroundImage": "/assets/application/restaurant/appLanding/applanding.jpg",
+    "heading": "Let's Build Your Restaurant App Today!",
+    "subheading": "Get a custom, feature-rich restaurant app development solution tailored to your business needs. Start your digital transformation now!",
+    "buttonText": "Get a Free Consultation",
+    "buttonUrl": "#"
+  },
+  "faqSection": {
+    "title": "FAQs for Restaurant App Development Company",
+    "subtitle": "Find answers to common questions about restaurant app development, costs, timelines, and our services.",
+    "faqs": [
+      {
+        "id": 1,
+        "question": "How do you work on restaurant app development?",
+        "answer": "We provide the service from the concept design, UI/UX to mobile app development on both iOS and Android with backend and API integration for all your business needs.We offer end-to-end solutions across various industries like payment integration, testing and deployment to post-launch support. "
+      },
+      {
+        "id": 2,
+        "question": "How much does it cost to make a restaurant app? ",
+        "answer": "Turnaround time will vary based on the complexity of your app. For a simple app, it can take 8-12 weeks to develop an MVP, and one with integration of custom features takes 16-24 week."
+      },
+      {
+        "id": 3,
+        "question": "Are you developing for Android and iOS?",
+        "answer": "Yes, we build both Android and IOS native apps for the best performance on each of these devices while also working cross platform if you are looking for a more cost effective solution. "
+      },
+      {
+        "id": 4,
+        "question": "Can you build an API between a restaurant’s current POS and the dining app?",
+        "answer": "Absolutely. We can connect to almost any POS system and integrate directly with your orders, inventory and customer data."
+      },
+      {
+        "id": 5,
+        "question": "What can a restaurant app do?",
+        "answer": "Basic functionalities are ordering, table booking, menu browsing, payment processing push notifications, loyalty management delivery updates and user rating."
+      },
+      {
+        "id": 6,
+        "question": "Do you also offer UI/UX design?",
+        "answer": "Yes, our designs are simple and attractive to the eyes, putting at the back of our minds user engagement and high-order conversion."
+      },
+      {
+        "id": 7,
+        "question": "Does the app accommodate online orders and payments?",
+        "answer": "Yes, we combine a secure online ordering system together with several types of payment and options services such as credit/debit card, net banking, wallets, etc."
+      },
+      {
+        "id": 8,
+        "question": "Do you have loyalty or rewards points?",
+        "answer": "Yes, we can add custom loyalty programs, points for purchases or referrals, and slash promotions to keep your customers engaged with our system."
+      },
+      {
+        "id": 9,
+        "question": "How do you keep apps secure and protect customer data?",
+        "answer": "Sensitive information is transmitted via SSL encryption, and we use secure authentication to keep data private."
+      },
+      {
+        "id": 10,
+        "question": "Do you provide app multilingual support?",
+        "answer": "Yes, an application can be created so that it supports different languages, and the app can be accessed by more people."
+      },
+      {
+        "id": 11,
+        "question": "Is it possible to have an option of table reservation on the app?",
+        "answer": "Customers can view the availability of tables, make reservations in real time, and receive push or SMS conCompanyations."
+      },
+      {
+        "id": 12,
+        "question": "Is including the delivery tracking in the app feasible?",
+        "answer": "Yes, we incorporate GPS-based real-time tracking for deliveries so customers can see their order as it leaves the kitchen until it arrives at their door."
+      },
+      {
+        "id": 13,
+        "question": "Do you offer app maintenance and support post-deployment?",
+        "answer": "Yes, we do provide continued support packages and bug fixes, updates, etc.—the whole lot of performance improvement things as well."
+      },
+      {
+        "id": 14,
+        "question": "Can you connect to third-party delivery services, such as Uber Eats and DoorDash?",
+        "answer": "Yes, I can integrate your app with favorite delivery services."
+      },
+      {
+        "id": 15,
+        "question": "How much does a restaurant app cost to make?",
+        "answer": "Pricing is contingent on features, design complexity and integrations. A simple app would likely start at $10,000–$15,000 where custom apps can become cost anywhere from $30,000–$50,000+ and upward."
+      },
+      {
+        "id": 16,
+        "question": "Is it possible for this app to manage multiple restaurant franchises?",
+        "answer": "Yes, we build apps that can control more than one location with centralized menu updates, store-based promotions, and analytics."
+      },
+      {
+        "id": 17,
+        "question": "Do you support push notifications of promotions and updates?",
+        "answer": "Yes, push notifications can be used to notify users about offers, new menu items, events, and personalized promotions to increase engagement."
+      },
+      {
+        "id": 18,
+        "question": "Is it possible to brand and design the app on our own?",
+        "answer": "Yes, you can customize everything — from logo and color to font and layout — to align the app with your brand identity."
+      },
+      {
+        "id": 19,
+        "question": "How do you cold test the app for bugs and performance?",
+        "answer": "We conduct extensive QA testing post-launch across browsers, iOS, Android, and Windows platforms to ensure stability and performance."
+      },
+      {
+        "id": 20,
+        "question": "Do you deliver analytics that allow me to have a view on orders and customer behavior?",
+        "answer": "Yes, integrated analytics dashboards display order history, customer preferences, popular menu items, and revenue metrics to help you make informed business decisions."
+      },
+      {
+        "id": 21,
+        "question": "Is it possible to connect the app with social networking sites?",
+        "answer": "Yes, users can share their orders, reviews, and promotions, add social media usernames, and use integrated logins like Facebook and Google. The admin panel also shows how many times the app has been shared across social platforms. AdMob interstitial and banner ads are supported as well."
+      },
+      {
+        "id": 22,
+        "question": "Do you have a web-based version of the app?",
+        "answer": "Yes, we can build a cross-platform web app alongside your mobile app, so users can place orders from any device."
+      },
+      {
+        "id": 23,
+        "question": "How do you manage your app upgrades and versions?",
+        "answer": "We follow an agile-based development approach with a versioning system to simplify updates and feature upgrades while maintaining a smooth user experience."
+      },
+      {
+        "id": 24,
+        "question": "Is there an in-app inventory that is taken care of in real time?",
+        "answer": "Yes, it includes stock control features that allow managers to track inventory in real time, receive low-stock alerts, and sync orders to prevent overselling."
+      },
+      {
+        "id": 25,
+        "question": "How do you make sure that a restaurant app actually generates customer engagement and sales?",
+        "answer": "We focus on user-friendly design, personalized offers, loyalty programs, push notifications, seamless ordering, and real-time tracking — all supported by data-driven analytics to increase retention and revenue."
+      },
+      {
+        "id": 26,
+        "question": "Which payment options do you offer?",
+        "answer": "We integrate major gateways like Stripe, PayPal, Razorpay, and Square, as well as local payment methods relevant to your region."
+      },
+      {
+        "id": 27,
+        "question": "Is there a way for the app to support subscription or meal plan services?",
+        "answer": "Yes, customers can subscribe to weekly or monthly meal plans, pre-order meals, and manage their subscriptions directly within the app."
+      }
+    ]
+  },
+  "latestBlogs": {
+    "title": "Our Latest Restaurant & Food Blogs",
+    "subtitle": "Get the latest updates on restaurant insights, technologies and trends.",
+    "viewAllText": "View All Blogs",
+    "viewAllUrl": "#",
+    "blogs": [
+      {
+        "title": "What’s the Cost to Hire...",
+        "description": "Are you the one looking forward to hiring handyman app developers, but confused about their cost or the price? Well, it...",
+        "image": "/assets/application/restaurant/latestBlogs/blog1.png",
+        "maintag": "Restaurant",
+        "url": "#",
+        "readMoreText": "Explore More"
+      },
+      {
+        "title": "Use Cases of AI in Social...",
+        "description": "Key Takeaways AI is transforming social media by delivering personalized experiences, predictive insights, and...",
+        "image": "/assets/application/restaurant/latestBlogs/blog2.png",
+        "maintag": "Food",
+        "url": "#",
+        "readMoreText": "Explore More"
+      },
+      {
+        "title": "How to Create a Salon...",
+        "description": "Key Takeaways The global salon service market is projected to be USD 429.8 billion by 2035, with the rise in on-demand salon...",
+        "image": "/assets/application/restaurant/latestBlogs/blog3.png",
+        "maintag": "Delivery",
+        "url": "#",
+        "readMoreText": "Explore More"
+      }
+    ]
+  },
+  "discussProject": {
+    "title": "Let's Discuss Your Project!",
+    "description": "Share your project idea and we’ll provide a free consultation on how we will turn it into an amazing digital product.",
+    "buttonText": "Get A Free Quote Now",
+    "buttonUrl": "#",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3558.7378059542393!2d75.76635467442365!3d26.8800701614945!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396db5a5fb98562f%3A0x18d64b11f30e9600!2sMetaBlock%20Technologies%20%7C%20Web%203.0%20and%20Blockchain%20Development!5e0!3m2!1sen!2sin!4v1759814684995!5m2!1sen!2sin"
+  },
+  "restaurantData": {
+    "title": "Our Restaurant App Development Portfolio",
+    "subtitle": "We have delivered cutting-edge restaurant app solutions for businesses of all sizes.",
+    "tabs": [
+      {
+        "brandName": "Swiggy",
+        "brandImage": "/assets/application/restaurant/appPortfolio/swiggy.png",
+        "appScreens": [
+          "/assets/application/restaurant/mobileMockup/swiggy.png",
+          "/assets/application/restaurant/mobileMockup/easy.png",
+          "/assets/application/restaurant/mobileMockup/zomato.png",
+          "/assets/application/restaurant/mobileMockup/ubereats.png"
+        ]
+      },
+      {
+        "brandName": "Uber Eats",
+        "brandImage": "/assets/application/restaurant/appPortfolio/uber-eats.png",
+        "appScreens": [
+          "/assets/application/restaurant/mobileMockup/ubereats.png",
+          "/assets/application/restaurant/mobileMockup/zomato.png",
+          "/assets/application/restaurant/mobileMockup/easy.png",
+          "/assets/application/restaurant/mobileMockup/swiggy.png"
+        ]
+      },
+      {
+        "brandName": "Zomato",
+        "brandImage": "/assets/application/restaurant/appPortfolio/zomato.png",
+        "appScreens": [
+          "/assets/application/restaurant/mobileMockup/easy.png",
+          "/assets/application/restaurant/mobileMockup/swiggy.png",
+          "/assets/application/restaurant/mobileMockup/zomato.png",
+          "/assets/application/restaurant/mobileMockup/ubereats.png"
+        ]
+      },
+      {
+        "brandName": "Swiggy 2",
+        "brandImage": "/assets/application/restaurant/appPortfolio/swiggy.png",
+        "appScreens": [
+          "/assets/application/restaurant/mobileMockup/swiggy.png",
+          "/assets/application/restaurant/mobileMockup/easy.png",
+          "/assets/application/restaurant/mobileMockup/zomato.png",
+          "/assets/application/restaurant/mobileMockup/ubereats.png"
+        ]
+      },
+      {
+        "brandName": "Uber Eats 2",
+        "brandImage": "/assets/application/restaurant/appPortfolio/uber-eats.png",
+        "appScreens": [
+          "/assets/application/restaurant/mobileMockup/ubereats.png",
+          "/assets/application/restaurant/mobileMockup/zomato.png",
+          "/assets/application/restaurant/mobileMockup/easy.png",
+          "/assets/application/restaurant/mobileMockup/swiggy.png"
+        ]
+      },
+      {
+        "brandName": "Zomato 2",
+        "brandImage": "/assets/application/restaurant/appPortfolio/zomato.png",
+        "appScreens": [
+          "/assets/application/restaurant/mobileMockup/easy.png",
+          "/assets/application/restaurant/mobileMockup/swiggy.png",
+          "/assets/application/restaurant/mobileMockup/zomato.png",
+          "/assets/application/restaurant/mobileMockup/ubereats.png"
+        ]
+      }
+    ]
+  },
+  "videoTestimonials": {
+    "title": "Stories from Our Happy Clients",
+    "subtitle": "Discover the stories behind the success and the partnerships we cherish.",
+    "features": [
+      "Dedicated, accountable resources",
+      "Save up to 60% for your development cost",
+      "Quick team ramp-up & no contract lock-ins",
+      "Quickly increase or decrease your team size",
+      "Fixed cost, hourly or monthly engagements",
+      "97%+ client retention rate",
+      "Strict non-disclosure agreement",
+      "Clear, concise and consistent communication"
+    ],
+    "videos": [
+      {
+        "thumbnail": "/assets/application/restaurant/videoTestimonials/images/tay.webp",
+        "videoSrc": "/assets/application/restaurant/videoTestimonials/videos/Review for Jploft from Alex(480P).mp4"
+      },
+      {
+        "thumbnail": "/assets/application/restaurant/videoTestimonials/images/david-vid.webp",
+        "videoSrc": "/assets/application/restaurant/videoTestimonials/videos/Review for Jploft from Alex(480P).mp4"
+      }
+    ]
+  },
+  "ourServices": [
+    {
+      "id": "blockchain",
+      "title": "Blockchain Development Services for Your Innovative Business",
+      "image": "/assets/application/restaurant/ourServices/blockchain.png",
+      "items": [
+        "Enterprise Blockchain Solutions",
+        "Blockchain Crowdfunding Development",
+        "Smart Contract Development",
+        "Private/Public Blockchain Development",
+        "Blockchain P2P Lending Platform",
+        "Blockchain AI Development",
+        "DAO Blockchain Development",
+        "Blockchain Consulting",
+        "Enterprise Blockchain Solutions",
+        "Blockchain Crowdfunding Development",
+        "Smart Contract Development",
+        "Private/Public Blockchain Development",
+        "Blockchain P2P Lending Platform",
+        "Blockchain AI Development",
+        "DAO Blockchain Development",
+        "Blockchain Consulting"
+      ]
+    },
+    {
+      "id": "metaverse",
+      "title": "Metaverse – Enter the world beyond imagination with Metaverse",
+      "image": "/assets/application/restaurant/ourServices/blockchain.png",
+      "items": [
+        "Metaverse Development",
+        "Metaverse Token Development",
+        "Metaverse E-Commerce Platform Development",
+        "Metaverse Solutions for Industries",
+        "Metaverse Social Media Platform Development",
+        "Metaverse 3D Spaces Development",
+        "Metaverse Game Development",
+        "Metaverse NFT Marketplace Development",
+        "Metaverse Integration Services",
+        "Metaverse Event Platform Development"
+      ]
+    },
+    {
+      "id": "nft",
+      "title": "NFT – Digitalize and own one-of-a-kind assets, forever in your secure wallet.",
+      "image": "/assets/application/restaurant/ourServices/blockchain.png",
+      "items": [
+        "NFT Marketplace Development",
+        "NFT Gaming Platform Development",
+        "NFT Token Development",
+        "NFT Art Marketplace Development"
+      ]
+    }
+  ],
+  "softwarePreview": {
+    "tabs": [
+      "AI Powered Software",
+      "AI Powered Application",
+      "AI Powered Games",
+      "AI Powered Website"
+    ],
+    "tabData": {
+      "AI Powered Software": {
+        "heading": "Software Preview",
+        "sliderData": [
+          {
+            "img": "/assets/application/restaurant/softwarePreview/softwareslide2.webp",
+            "title": "Camel Racing Game",
+            "description": "An exciting desert racing experience where players compete in the ancient sport of camel racing."
+          },
+          {
+            "img": "/assets/application/restaurant/softwarePreview/softwareslide1.webp",
+            "title": "Dog Racing Game",
+            "description": "Test your reflexes and strategy in the thrilling world of dog racing."
+          },
+          {
+            "img": "/assets/application/restaurant/softwarePreview/softwareslide2.webp",
+            "title": "Arcade Gaming Zone",
+            "description": "Step into the world of neon-lit arcade games, where skill and excitement collide in a nostalgic gaming experience."
+          }
+        ]
+      },
+      "AI Powered Application": {
+        "heading": "Application Preview",
+        "sliderData": [
+          {
+            "img": "/assets/application/restaurant/softwarePreview/softwareslide1.webp",
+            "title": "Productivity Suite",
+            "description": "Boost efficiency with our AI-powered productivity tools."
+          },
+          {
+            "img": "/assets/application/restaurant/softwarePreview/softwareslide2.webp",
+            "title": "Health Tracker",
+            "description": "Monitor your well-being with AI insights and real-time health tracking."
+          },
+          {
+            "img": "/assets/application/restaurant/softwarePreview/softwareslide1.webp",
+            "title": "Productivity Suite",
+            "description": "Boost efficiency with our AI-powered productivity tools."
+          }
+        ]
+      },
+      "AI Powered Games": {
+        "heading": "AI Games Preview",
+        "sliderData": [
+          {
+            "img": "/assets/application/restaurant/softwarePreview/softwareslide2.webp",
+            "title": "Neon Drift",
+            "description": "Experience futuristic racing with adaptive AI opponents."
+          },
+          {
+            "img": "/assets/application/restaurant/softwarePreview/softwareslide1.webp",
+            "title": "Galaxy Defender",
+            "description": "Defend the universe with intelligent combat strategies powered by AI."
+          },
+          {
+            "img": "/assets/application/restaurant/softwarePreview/softwareslide2.webp",
+            "title": "Neon Drift",
+            "description": "Experience futuristic racing with adaptive AI opponents."
+          }
+        ]
+      },
+      "AI Powered Website": {
+        "heading": "Website Preview",
+        "sliderData": [
+          {
+            "img": "/assets/application/restaurant/softwarePreview/softwareslide1.webp",
+            "title": "Portfolio Site",
+            "description": "Sleek, intelligent portfolios that adapt to your user behavior."
+          },
+          {
+            "img": "/assets/application/restaurant/softwarePreview/softwareslide2.webp",
+            "title": "E-commerce Platform",
+            "description": "AI-powered e-commerce sites that recommend products dynamically."
+          },
+          {
+            "img": "/assets/application/restaurant/softwarePreview/softwareslide1.webp",
+            "title": "Portfolio Site",
+            "description": "Sleek, intelligent portfolios that adapt to your user behavior."
+          }
+        ]
+      }
+    }
+  },
+  "statsSection": {
+    "title": "Transforming Businesses with AI-Driven Technology That Transcends Geographies and Platforms",
+    "description": "Appinventiv is one of the world's largest AI-led IT service providers helping companies redefine their digital possibilities for nearly a decade now. With our team of 1600+ tech evangelists, we are building the digital infrastructure of our clients using intelligent, AI-native solutions, positioning them to be the market leaders of their respective industries.",
+    "stats": [
+      {
+        "count": "35+",
+        "title": "Industries Mastered",
+        "description": "With our agility & engineering expertise, we equip your critical business functions with customized tech, and expand digital capabilities."
+      },
+      {
+        "count": "1600+",
+        "title": "Tech Evangelists",
+        "description": "We are a dynamic team of certified cloud architects, data scientists, and AI/ML specialists passionately driven to achieve the best results for our clients."
+      },
+      {
+        "count": "150+",
+        "title": "AI Models Deployed",
+        "description": "From predictive analytics to generative AI, we've implemented intelligent models that drive measurable ROI."
+      },
+      {
+        "count": "3000+",
+        "title": "Solutions Designed And Delivered",
+        "description": "We have empowered businesses with thousands of successful futuristic and AI-augmented solutions that have helped them grow and scale."
+      },
+      {
+        "count": "500+",
+        "title": "Legacy Processes Transformed",
+        "description": "We help businesses achieve their digital transformation goals by seamlessly integrating advanced technologies into their legacy systems."
+      },
+      {
+        "count": "05+",
+        "title": "Strategic Federal Partnerships",
+        "description": "We drive collaborative initiatives that address critical challenges and deliver impactful solutions."
+      }
+    ]
+  },
+  "offices": {
+    "logo": "/assets/application/restaurant/globaloffices/app-wht-logo-new.svg",
+    "taglineLogo": "/assets/application/restaurant/globaloffices/Clutch-Badge-Blue.svg",
+    "tagline": "Most trusted Mobile App Consulting Company on Clutch",
+    "locations": [
+      {
+        "country": "INDIA",
+        "address": "B-25, Sector 58, Noida- 201301, Delhi - NCR, India",
+        "image": "/assets/application/restaurant/globaloffices/hq-india.svg"
+      },
+      {
+        "country": "USA",
+        "address": "79, Madison Ave, Manhattan, NY 10001, USA",
+        "image": "/assets/application/restaurant/globaloffices/hq-usa.svg"
+      },
+      {
+        "country": "Australia",
+        "address": "96 Cleveland Street, Stones Corner, QLD 4120",
+        "image": "/assets/application/restaurant/globaloffices/hq-aus-new.svg"
+      },
+      {
+        "country": "UK",
+        "address": "3rd Floor, 86-90 Paul Street EC2A 4NE, London, UK",
+        "image": "/assets/application/restaurant/globaloffices/hq-uk.svg"
+      },
+      {
+        "country": "UAE",
+        "address": "Tiger Al Yarmook Building, 13th floor B-block, Al Nahda St - Sharjah",
+        "image": "/assets/application/restaurant/globaloffices/hq-uae.svg"
+      },
+      {
+        "country": "CANADA",
+        "address": "Suite 3810, Bankers Hall West, 888 - 3rd Street Sw, Calgary Alberta",
+        "image": "/assets/application/restaurant/globaloffices/hq-canada.svg"
+      }
+    ]
+  },
+  "restaurantShowcase": {
+    "title": "Restaurant Clone App Development Solutions",
+    "subtitle": "We have delivered cutting-edge restaurant app solutions for businesses of all sizes.",
+    "description": "Launch your restaurant app faster with our online restaurant app development solutions inspired by top industry platforms. Get feature-rich, scalable, and high-performing apps tailored to your business needs.",
+    "tabs": [
+      {
+        "brandName": "Swiggy",
+        "brandImage": "/assets/application/restaurant/appPortfolio/swiggy.png",
+        "screens": [
+          {
+            "img": "/assets/application/restaurant/mobileMockup/swiggy.png",
+            "caption": "Swiggy Screen",
+            "description": "A smooth food ordering interface allowing users to browse restaurants, add items to cart, and track real-time deliveries."
+          },
+          {
+            "img": "/assets/application/restaurant/mobileMockup/easy.png",
+            "caption": "Easy Screen",
+            "description": "An intuitive layout showcasing quick access to favorite cuisines and top-rated dishes."
+          },
+          {
+            "img": "/assets/application/restaurant/mobileMockup/zomato.png",
+            "caption": "Zomato Screen",
+            "description": "A modern restaurant discovery view displaying trending places and ratings nearby."
+          },
+          {
+            "img": "/assets/application/restaurant/mobileMockup/ubereats.png",
+            "caption": "UberEats Screen",
+            "description": "A clean delivery tracking page showing estimated time and live driver updates."
+          }
+        ]
+      },
+      {
+        "brandName": "Uber Eats",
+        "brandImage": "/assets/application/restaurant/appPortfolio/uber-eats.png",
+        "screens": [
+          {
+            "img": "/assets/application/restaurant/mobileMockup/ubereats.png",
+            "caption": "UberEats Screen",
+            "description": "Modern UI focused on a seamless checkout and real-time delivery tracking."
+          },
+          {
+            "img": "/assets/application/restaurant/mobileMockup/zomato.png",
+            "caption": "Zomato Screen",
+            "description": "Attractive restaurant detail screen with reviews and menu highlights."
+          },
+          {
+            "img": "/assets/application/restaurant/mobileMockup/easy.png",
+            "caption": "Easy Screen",
+            "description": "Visually clean homepage that allows users to explore cuisines easily."
+          },
+          {
+            "img": "/assets/application/restaurant/mobileMockup/swiggy.png",
+            "caption": "Swiggy Screen",
+            "description": "Simple ordering flow optimized for faster checkout and fewer taps."
+          }
+        ]
+      },
+      {
+        "brandName": "Zomato",
+        "brandImage": "/assets/application/restaurant/appPortfolio/zomato.png",
+        "screens": [
+          {
+            "img": "/assets/application/restaurant/mobileMockup/easy.png",
+            "caption": "Easy Screen",
+            "description": "A clean and minimal interface highlighting top picks and trending meals."
+          },
+          {
+            "img": "/assets/application/restaurant/mobileMockup/swiggy.png",
+            "caption": "Swiggy Screen",
+            "description": "Showcases real-time delivery partner location and order tracking."
+          },
+          {
+            "img": "/assets/application/restaurant/mobileMockup/zomato.png",
+            "caption": "Zomato Screen",
+            "description": "Beautiful list layout showing nearby restaurants and deals."
+          },
+          {
+            "img": "/assets/application/restaurant/mobileMockup/ubereats.png",
+            "caption": "UberEats Screen",
+            "description": "Smooth browsing experience with search filters and favorites."
+          }
+        ]
+      }
+    ]
+  }
+}

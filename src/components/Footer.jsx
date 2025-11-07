@@ -770,10 +770,12 @@ export default function Footer() {
                             {/* Special layout for logo + QR column */}
                             {col.logo ? (
                                 <div className="flex flex-col items-start gap-4">
-                                    <img
+                                    <Image
                                         src={col.logo}
                                         alt="Company Logo"
-                                        className="w-32 h-auto object-contain"
+                                        width={200} // approximate 30 * 4px
+                                        height={120}
+                                        className=" object-contain"
                                     />
                                     {col.description && (
                                         <p className="text-sm text-gray-400">{col.description}</p>

@@ -1,0 +1,226 @@
+{
+  "columns": [
+    {
+      "title": "About",
+      "links": [
+        {
+          "label": "Our Company",
+          "url": "https://appinventiv.com/about/"
+        },
+        {
+          "label": "Core Team",
+          "url": "https://appinventiv.com/core-team/"
+        },
+        {
+          "label": "Career",
+          "url": "https://appinventiv.com/career/"
+        },
+        {
+          "label": "CSR",
+          "url": "https://appinventiv.com/corporate-social-responsibility/"
+        },
+        {
+          "label": "How We Work",
+          "url": "https://appinventiv.com/how-we-work/"
+        }
+      ]
+    },
+    {
+      "title": "Services",
+      "links": [
+        {
+          "label": "iOS App Development",
+          "url": "https://appinventiv.com/iphone-application-development/"
+        },
+        {
+          "label": "Android App Development",
+          "url": "https://appinventiv.com/android-application-development/"
+        },
+        {
+          "label": "Software Development",
+          "url": "https://appinventiv.com/software-development-service/"
+        },
+        {
+          "label": "Ideation & Design",
+          "url": "https://appinventiv.com/product-design-services/"
+        },
+        {
+          "label": "Mobile App Dev",
+          "url": "https://appinventiv.com/mobile-app-development-services/"
+        },
+        {
+          "label": "Research & Innovation",
+          "url": "https://appinventiv.com/blog/category/lab/"
+        },
+        {
+          "label": "Digital Transformation",
+          "url": "https://appinventiv.com/digital-transformation-services/"
+        },
+        {
+          "label": "More...",
+          "url": "https://appinventiv.com/service/"
+        }
+      ]
+    },
+    {
+      "title": "Technologies",
+      "links": [
+        {
+          "label": "Blockchain",
+          "url": "https://appinventiv.com/blockchain-application-development/"
+        },
+        {
+          "label": "Artificial Intelligence",
+          "url": "https://appinventiv.com/ai-development-services/"
+        },
+        {
+          "label": "AR and VR",
+          "url": "https://appinventiv.com/ar-vr-app-development/"
+        },
+        {
+          "label": "Cloud Computing",
+          "url": "https://appinventiv.com/cloud-services/"
+        },
+        {
+          "label": "Internet of Things",
+          "url": "https://appinventiv.com/iot-app-development/"
+        },
+        {
+          "label": "Metaverse Development",
+          "url": "https://appinventiv.com/metaverse-development-service/"
+        },
+        {
+          "label": "NFT Development",
+          "url": "https://appinventiv.com/nft-marketplace-development/"
+        },
+        {
+          "label": "More...",
+          "url": "https://appinventiv.com/technologies/"
+        }
+      ]
+    },
+    {
+      "title": "Industries",
+      "links": [
+        {
+          "label": "Healthcare",
+          "url": "https://appinventiv.com/healthcare-software-development/"
+        },
+        {
+          "label": "Education",
+          "url": "https://appinventiv.com/education-app-development/"
+        },
+        {
+          "label": "SaaS",
+          "url": "https://appinventiv.com/saas-development-services/"
+        },
+        {
+          "label": "Finance",
+          "url": "https://appinventiv.com/fintech-app-development-services/"
+        },
+        {
+          "label": "On-Demand",
+          "url": "https://appinventiv.com/on-demand-app-development/"
+        },
+        {
+          "label": "eCommerce",
+          "url": "https://appinventiv.com/ecommerce-app-development/"
+        },
+        {
+          "label": "Logistics",
+          "url": "https://appinventiv.com/logistics-software-development-services/"
+        },
+        {
+          "label": "More...",
+          "url": "https://appinventiv.com/industries/"
+        }
+      ]
+    },
+    {
+      "title": "Portfolio",
+      "links": [
+        {
+          "label": "KFC",
+          "url": "https://appinventiv.com/portfolio/kfc-food-delivery-app/"
+        },
+        {
+          "label": "Adidas",
+          "url": "https://appinventiv.com/portfolio/adidas-ecommerce-app/"
+        },
+        {
+          "label": "IKEA",
+          "url": "https://appinventiv.com/portfolio/ikea-shopping-app/"
+        },
+        {
+          "label": "Hukoomi",
+          "url": "https://appinventiv.com/portfolio/hukoomi-web-app-development/"
+        },
+        {
+          "label": "Domino's",
+          "url": "https://appinventiv.com/portfolio/dominos-pizza-delivery-app/"
+        },
+        {
+          "label": "Pizza Hut",
+          "url": "https://appinventiv.com/portfolio/pizza-hut-food-delivery-app/"
+        },
+        {
+          "label": "YouCOMM",
+          "url": "https://appinventiv.com/portfolio/youcomm-health-app/"
+        },
+        {
+          "label": "More...",
+          "url": "https://appinventiv.com/portfolio/"
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "links": [
+        {
+          "label": "Blog",
+          "url": "https://appinventiv.com/blog/"
+        },
+        {
+          "label": "Press Release",
+          "url": "https://appinventiv.com/press-release/"
+        },
+        {
+          "label": "Guides",
+          "url": "https://appinventiv.com/guides/"
+        },
+        {
+          "label": "Ebooks",
+          "url": "https://appinventiv.com/resource/e-book/escooters-impact-on-travel-economy/"
+        }
+      ]
+    }
+  ],
+  "socials": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/appinventiv",
+      "icon": "Instagram"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/appinventiv",
+      "icon": "Twitter"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/company/appinventiv",
+      "icon": "Linkedin"
+    }
+  ],
+  "copyright": "© 2025-2026 Appinventiv",
+  "links": [
+    {
+      "label": "SiteMap",
+      "url": "https://appinventiv.com/sitemap/"
+    },
+    {
+      "label": "Privacy Policy",
+      "url": "https://appinventiv.com/privacy-policy/"
+    }
+  ]
+}

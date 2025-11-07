@@ -5,7 +5,7 @@
     "__v": 0,
     "columns": [
         {
-            "logo": "/assets/footer/metablock_logo_small.webp",
+            "logo": "/assets/footer/meta.png",
             "qrCode": "/assets/footer/QRCode.jpg",
             "description": "Empowering innovation through cutting-edge blockchain solutions."
         },
@@ -383,7 +383,7 @@
             }
         }
     ],
-    "copyright": "© 2025-2026 Metablock",
+    "copyright": "All Copyright Reserved | © 2025-2026 Metablock",
     "dateCreated": {
         "$date": "2025-10-24T07:19:27.813Z"
     },
