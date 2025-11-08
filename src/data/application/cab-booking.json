@@ -71,37 +71,38 @@
         "heading": "Overview",
         "subheading": "Why Choose",
         "highlight": "MetaBlock Technologies",
-        "description": "6amMart comes with trendy and essential features for a greater business experience!",
+        "description": "MetaBlock Technologies empowers your restaurant delivery app with modern features tailored for business growth. Experience seamless management and enhanced efficiency for every order.",
+        "image": "/assets/application/restaurant/overviewSection/chooseUs.png",
         "features": [
             {
                 "title": "Admin Dashboard",
                 "icon": "LayoutDashboard",
-                "description": ""
+                "description": "Enjoy unprecedented control through a user-friendly admin dashboard. Monitor orders, control users, and run critical reports to make informed decisions."
             },
             {
                 "title": "Smart Features",
                 "icon": "Lightbulb",
-                "description": ""
+                "description": "Routines Automate routine tasks and customize the user experience with smart, forward-thinking app features. Discover greater productivity and more enjoyable restaurant deliveries."
             },
             {
                 "title": "Multi-language",
                 "icon": "Languages",
-                "description": ""
+                "description": "Expand your reach with multi-language features. Diners can order in the language of their choice, enabling your restaurant to serve all. customers better."
             },
             {
                 "title": "Product Management",
                 "icon": "PackageSearch",
-                "description": ""
+                "description": "Manage your restaurant’s menu, inventory, and prices all in one place. Delivery App Experience: Simplify your product management for the delivery app with a streamlined delivery app management system."
             },
             {
                 "title": "Delivery System",
                 "icon": "Truck",
-                "description": ""
+                "description": "Order Brews has speed and accuracy, delivery tracking, and management to help you fulfill your orders. Our sophisticated technology enhances customer delight with on-time delivery."
             },
             {
                 "title": "Multiple Location Support",
                 "icon": "MapPin",
-                "description": ""
+                "description": "Handle your multi-outlet effortlessly and take your restaurant to new heights. The app offers centralized management , allowing all locations/activity types to deliver a seamless experience."
             }
         ]
     },
@@ -348,6 +349,78 @@
         "buttonUrl": "#",
         "image": "/assets/application/carBooking/callToAction/cta.webp"
     },
+    "ctaSection": [
+        {
+            "title": "Let’s Discuss Your Project",
+            "highlight": "Your Project",
+            "description": "Get a free consultation to discuss how we will transform your idea into an amazing digital product.",
+            "buttonText": "GET FREE CONSULTATION",
+            "buttonLink": "#",
+            "bgGradient": "from-[#00A859] to-[#00C977]",
+            "leftImage": "/assets/application/restaurant/ctaSection/cta-left.svg",
+            "rightImage": "/assets/application/restaurant/ctaSection/cta-right.svg"
+        },
+        {
+            "title": "Ready to Get Started?",
+            "highlight": "Get Started Now",
+            "description": "Take the first step toward your success. Join us today and start achieving your goals faster than ever.",
+            "buttonText": "GET STARTED NOW",
+            "buttonLink": "#",
+            "bgGradient": "from-[#00A859] to-[#00C977]",
+            "leftImage": "/assets/application/restaurant/ctaSection/cta-left.svg",
+            "rightImage": "/assets/application/restaurant/ctaSection/cta-right.svg"
+        },
+        {
+            "title": "Book Your Free Demo",
+            "highlight": "Free Demo",
+            "description": "Experience our platform in action. Schedule a demo and see how we can help your business grow.",
+            "buttonText": "BOOK A FREE DEMO",
+            "buttonLink": "#",
+            "bgGradient": "from-[#00A859] to-[#00C977]",
+            "leftImage": "/assets/application/restaurant/ctaSection/cta-left.svg",
+            "rightImage": "/assets/application/restaurant/ctaSection/cta-right.svg"
+        },
+        {
+            "title": "Start Your Free Trial Today",
+            "highlight": "Free Trial",
+            "description": "Try all our premium features for free and discover why teams love working with us.",
+            "buttonText": "START FREE TRIAL",
+            "buttonLink": "#",
+            "bgGradient": "from-[#00A859] to-[#00C977]",
+            "leftImage": "/assets/application/restaurant/ctaSection/cta-left.svg",
+            "rightImage": "/assets/application/restaurant/ctaSection/cta-right.svg"
+        },
+        {
+            "title": "Let’s Build Something Great Together",
+            "highlight": "Build Together",
+            "description": "Partner with our expert team to bring your ideas to life with innovation, speed, and quality.",
+            "buttonText": "LET’S BUILD TOGETHER",
+            "buttonLink": "#",
+            "bgGradient": "from-[#00A859] to-[#00C977]",
+            "leftImage": "/assets/application/restaurant/ctaSection/cta-left.svg",
+            "rightImage": "/assets/application/restaurant/ctaSection/cta-right.svg"
+        },
+        {
+            "title": "Exclusive Deal Just for You",
+            "highlight": "Claim Your Offer",
+            "description": "Don’t miss this limited-time opportunity! Unlock special benefits and exclusive discounts today.",
+            "buttonText": "CLAIM YOUR OFFER",
+            "buttonLink": "#",
+            "bgGradient": "from-[#00C165] to-[#00E88D]",
+            "leftImage": "/assets/application/restaurant/ctaSection/cta-left.svg",
+            "rightImage": "/assets/application/restaurant/ctaSection/cta-right.svg"
+        },
+        {
+            "title": "Discover More About Us",
+            "highlight": "Download Brochure",
+            "description": "Get our detailed brochure and explore how our services can elevate your business to the next level.",
+            "buttonText": "DOWNLOAD BROCHURE",
+            "buttonLink": "/assets/application/restaurant/ctaSection/metablock-portfolio.pdf",
+            "bgGradient": "from-[#00C165] to-[#00E88D]",
+            "leftImage": "/assets/application/restaurant/ctaSection/cta-left.svg",
+            "rightImage": "/assets/application/restaurant/ctaSection/cta-right.svg"
+        }
+    ],
     "howItWorks": {
         "heading": "How does the restaurant delivery app work?",
         "description": "A restaurant delivery app simplifies the process of ordering food for restaurants and diners. Consumers place orders via the app, and everything from menu selection to delivery monitoring is carefully coordinated to ensure the service is fast and reliable.",
