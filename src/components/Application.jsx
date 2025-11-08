@@ -30,6 +30,9 @@ import AppPortfolio from './application/AppPortfolio'
 import LatestBlogs from './application/LatestBlogs'
 import GlobalOffices from './application/GlobalOffices'
 import Footer from './application/Footer'
+import CtaSection from './application/CtaSection'
+import OverviewSection2 from './application/OverviewSection2'
+import OverviewSection3 from './application/OverviewSection3'
 
 const Application = ({data}) => {
      const homedata = data; // 👈 this fixes undefined error
@@ -39,6 +42,8 @@ const Application = ({data}) => {
             <OfficialPartners data={homedata.officialPartners} />
             <Section3 data={homedata.section3} />
             <OverviewSection data={homedata.overviewSection} />
+            <OverviewSection2 data={homedata.overviewSection} />
+            <OverviewSection3 data={homedata.overviewSection} />
             <RestaurantAppFeatures data={homedata.restaurantAppFeaturesSection} />
             <IncludedWithSection data={homedata.includedSection} />
             <AppDevelopmentServices data={homedata.developmentServicesSection} />
@@ -46,6 +51,13 @@ const Application = ({data}) => {
             <HowItWorks data={homedata.howItWorks} />
             <MobileMockUp data={homedata.mobileMockupSection} />
             <FeatureSection data={homedata.featureSection} />
+            <CtaSection data={homedata.ctaSection[0]} />
+            <CtaSection data={homedata.ctaSection[1]} />
+            <CtaSection data={homedata.ctaSection[2]} />
+            <CtaSection data={homedata.ctaSection[3]} />
+            <CtaSection data={homedata.ctaSection[4]} />
+            <CtaSection data={homedata.ctaSection[5]} />
+            <CtaSection data={homedata.ctaSection[6]} />
             <DemoSection data={homedata.demoSection} colorTheme={homedata.demoSection.colorWhite} />
             <DontSettle data={homedata.dontSettle} />
             <Dashboard data={homedata.dashboardSection} />
@@ -72,8 +84,8 @@ const Application = ({data}) => {
             <AppPortfolio data={homedata.restaurantData} />
 
             <LatestBlogs data={homedata.latestBlogs} />
-            <GlobalOffices data={homedata.offices} />
-            <Footer />
+            {/* <GlobalOffices data={homedata.offices} /> */}
+            {/* <Footer /> */}
         </>
     )
 }

@@ -42,6 +42,18 @@ export default function Home() {
           >
             Our Team
           </Link>
+          <Link
+            href="/application/restaurant"
+            className="text-blue-600 hover:underline block"
+          >
+            Restaurant
+          </Link>
+          <Link
+            href="/application/cab-booking"
+            className="text-blue-600 hover:underline block"
+          >
+            Cab Booking
+          </Link>
         </div>
       </div>
     </div>
