@@ -30,10 +30,10 @@
         "description": "Our Company, we specialize in IT solutions, blockchain technology, and gaming innovations. Our mission is to drive the future of digital transformation by delivering: cutting-edge solutions that empower businesses and individuals worldwide. Our team of experts has a wide range of experience and skills, and we’re always exploring new technologies to stay at the forefront of the industry.",
         "linkedin": {
             "headerText": "Let’s Connect",
-            "followers": "19.7T+",
+            "followers": "5.2K+",
             "followersLabel": "followers",
             "buttonText": "Linkedin",
-            "buttonUrl": "#",
+            "buttonUrl": "https://in.linkedin.com/company/metablocktechnologies",
             "image": "/assets/about-us/companyOverview/calling.webp"
         }
     },
@@ -48,14 +48,22 @@
     "ourVisionMission": {
         "ourVision": {
             "title": "Our Vision",
-            "paragraphs": "Our vision is to serve our clients by offering them cutting-edge IT products & services that help them grow and dominate their industries with the help of the latest IT technologies."
+            "paragraphs": [
+                "To build a global ecosystem where technology awakens consciousness — empowering people and organizations to achieve limitless growth with purpose, prosperity, and peace.",
+                "We envision a future where innovation is not just intelligent but intentional — where every line of code, every idea, and every connection contributes to a more conscious, compassionate, and abundant world."
+            ],
+            "image": "/assets/about-us/ourVisionMission/our-vision.webp",
+            "imageAlt": "MetaBlock Vision"
         },
         "ourMission": {
             "title": "Our Mission",
-            "paragraphs": "The mission of the company is to serve the youth by empowering them with the most advanced blockchain technological training, with the vision of making them future corporate leaders."
-        },
-        "image": "/assets/about-us/ourVisionMission/about-who-we-are1.webp",
-        "imageAlt": "Our Vision and Mission"
+            "paragraphs": [
+                "To empower every individual, partner, and organization connected to MetaBlock to achieve extraordinary growth — spiritually and financially — through purposeful technology, ethical leadership, and conscious collaboration.",
+                "We create solutions, partnerships, and opportunities that uplift humanity. Every MetaBlock initiative combines intelligence with integrity, success with sincerity, and innovation with spiritual purpose, ensuring that growth is meaningful, sustainable, and transformative."
+            ],
+            "image": "/assets/about-us/ourVisionMission/our-mission.webp",
+            "imageAlt": "MetaBlock Mission"
+        }
     },
     "ourAchievements": {
         "title": "Our Achievements",
@@ -91,27 +99,27 @@
         "timeline": [
             {
                 "year": "2021",
-                "image": "/assets/about-us/ourStory/about-story-2021.webp",
-                "description": "Appinventiv commenced operations with less than 10 employees working passionately with a vision to grow. With utmost dedication, we bagged our first brand project within a month of our incorporation. We set the grounds for success and unprecedented opportunities."
+                "image": "/assets/about-us/ourStory/story-image-1.webp",
+                "description": "Metablock commenced operations with less than 10 employees working passionately with a vision to grow. With utmost dedication, we bagged our first brand project within a month of our incorporation. We set the grounds for success and unprecedented opportunities."
             },
             {
                 "year": "2022",
-                "image": "/assets/about-us/ourStory/about-story-2022.webp",
+                "image": "/assets/about-us/ourStory/story-image-2.webp",
                 "description": "Expanded our client base internationally and doubled our team size."
             },
             {
                 "year": "2023",
-                "image": "/assets/about-us/ourStory/about-story-2023.webp",
+                "image": "/assets/about-us/ourStory/story-image-3.webp",
                 "description": "Recognized among top app development companies worldwide."
             },
             {
                 "year": "2024",
-                "image": "/assets/about-us/ourStory/about-story-2021.webp",
-                "description": "Appinventiv commenced operations with less than 10 employees working passionately with a vision to grow. With utmost dedication, we bagged our first brand project within a month of our incorporation. We set the grounds for success and unprecedented opportunities."
+                "image": "/assets/about-us/ourStory/story-image-4.webp",
+                "description": "Metablock commenced operations with less than 10 employees working passionately with a vision to grow. With utmost dedication, we bagged our first brand project within a month of our incorporation. We set the grounds for success and unprecedented opportunities."
             },
             {
                 "year": "2025",
-                "image": "/assets/about-us/ourStory/about-story-2022.webp",
+                "image": "/assets/about-us/ourStory/strory-image-5.webp",
                 "description": "Expanded our client base internationally and doubled our team size."
             }
         ]
@@ -776,6 +784,158 @@
         "button": {
             "text": "Contact Us",
             "link": "#"
+        }
+    },
+    "includedSection": {
+        "title": "What's Included in Restaurant Delivery App?",
+        "subtitle": "Our restaurant delivery app provides everything you need to launch and manage a seamless food ordering business. Get comprehensive tools for order management, user engagement, and efficient restaurant operations.",
+        "items": [
+            {
+                "icon": "Monitor",
+                "title": "Admin Panel",
+                "description": "Monitor and control all aspects of your restaurant and deliveries with a centralized, user-friendly admin dashboard. Gain insights, manage users, and update menus efficiently.",
+                "bgColor": "#DBEAFE",
+                "showInUI": true
+            },
+            {
+                "icon": "Store",
+                "title": "Restaurant Panel",
+                "description": "Each partner restaurant receives its own dedicated panel for managing orders, menus, and staff. This ensures clear oversight and smooth operations at every outlet.",
+                "bgColor": "#DBEAFE",
+                "showInUI": true
+            },
+            {
+                "icon": "Smartphone",
+                "title": "Customer Mobile App",
+                "description": "Offer your customers a convenient way to browse menus, place orders, and track deliveries. The mobile app elevates user experience and encourages repeat business.",
+                "bgColor": "#DBEAFE",
+                "showInUI": true
+            },
+            {
+                "icon": "Globe",
+                "title": "Responsive Website",
+                "description": "A modern, fully responsive website lets customers order from any device. Boost your online presence and attract more customers with ease.",
+                "bgColor": "#DBEAFE",
+                "showInUI": true
+            }
+        ],
+        "addonsTitle": "Premium Add On: Delivery Partner App",
+        "addons": [
+            {
+                "tag": "Add On",
+                "icon": "Truck",
+                "title": "Delivery Partner App",
+                "price": "$39",
+                "description": "A dedicated app for delivery personnel enables seamless order pickup, real-time tracking, and smooth customer delivery experiences.",
+                "bgColor": "#E0F2FF",
+                "showInUI": true
+            },
+            {
+                "tag": "Add On",
+                "icon": "Package",
+                "title": "Store Mobile App",
+                "price": "$39",
+                "description": "Store managers and staff can handle orders and inventory right from their smartphones. This add-on improves speed, flexibility, and operational efficiency.",
+                "bgColor": "#E0F2FF",
+                "showInUI": true
+            },
+            {
+                "tag": "Add On",
+                "icon": "Atom",
+                "title": " Loyalty & Rewards Module",
+                "price": "$99",
+                "description": "Boost customer retention with a loyalty and rewards module. Automatically reward repeat customers with points, discounts, or special offers to encourage frequent orders and long-term engagement.",
+                "bgColor": "#E0F2FF",
+                "showInUI": true
+            },
+            {
+                "tag": "Add On",
+                "icon": "Atom",
+                "title": "Advanced Analytics Suite",
+                "price": "$99",
+                "description": "Receive deep insights into sales, customer behavior, and operational efficiency. This add-on equips you with comprehensive analytics and reporting to support data-driven business decisions.",
+                "bgColor": "#E0F2FF",
+                "showInUI": true
+            },
+            {
+                "tag": "Add On",
+                "icon": "Atom",
+                "title": "Scheduled Order Feature",
+                "price": "$99",
+                "description": "Allow customers to place orders in advance and select a delivery time that suits them. This feature enhances convenience and helps restaurants manage incoming orders more efficiently.",
+                "bgColor": "#E0F2FF",
+                "showInUI": true
+            },
+            {
+                "tag": "Add On",
+                "icon": "Atom",
+                "title": "Social Media Integration",
+                "price": "$99",
+                "description": "Enable easy sharing of deals, menus, or order experiences directly to social media. This add-on helps increase brand reach and attracts new customers through digital word-of-mouth.",
+                "bgColor": "#E0F2FF",
+                "showInUI": true
+            }
+        ]
+    },
+    "spiritualFoundationSection": {
+        "title": "🕉️ Our Spiritual Foundation — Technology with Consciousness",
+        "subtitle": [
+            "MetaBlock draws inspiration from the timeless teachings of His Divine Grace A.C. Bhaktivedanta Swami Srila Prabhupada, Founder-Acharya of ISKCON(International Society for Krishna Consciousness).",
+            "We believe that when technology is guided by spiritual consciousness, it becomes a force for global good.",
+            "Every MetaBlock office is designed as a sacred workspace — infused with spiritual vibration and peaceful energy. Here’s how we live that every day:"
+        ],
+        "array": "MetaBlock draws inspiration from the timeless teachings of His Divine Grace A.C. Bhaktivedanta Swami Srila Prabhupada, Founder-Acharya of ISKCON(International Society for Krishna Consciousness). We believe that when technology is guided by spiritual consciousness, it becomes a force for global good. Every MetaBlock office is designed as a sacred workspace — infused with spiritual vibration and peaceful energy. Here’s how we live that every day:",
+        "items": [
+            {
+                "icon": "Flower2",
+                "title": "Respectful Communication",
+                "description": "Every communication begins with “Hare Krishna” — a reminder to speak with respect, purity, and goodwill.",
+                "bgColor": "#DBEAFE"
+            },
+            {
+                "icon": "Candle",
+                "title": "Daily Japa Meditation",
+                "description": "Each team member chants one round of the Hare Krishna Mahamantra before lunch to cultivate mindfulness, focus, and peace.",
+                "bgColor": "#DBEAFE"
+            },
+            {
+                "icon": "Music2",
+                "title": "Weekly Kirtan & Learning",
+                "description": "Every Saturday (5 PM – 7 PM), we host Mahamantro Kirtan and Bhagavad Gita / Srimad Bhagavatam learning sessions led by ISKCON devotees.",
+                "bgColor": "#DBEAFE"
+            },
+            {
+                "icon": "Volume2",
+                "title": "24-Hour Kirtan Environment",
+                "description": "In every MetaBlock office, the divine voice of Srila Prabhupada chanting the Hare Krishna Mahamantra plays continuously — creating an atmosphere of purity, protection, and spiritual inspiration.",
+                "bgColor": "#DBEAFE"
+            }
+        ],
+        "description": "These practices nurture humility, integrity, and devotion, helping our team serve with clarity, compassion, and excellence. Every project thus becomes not just a service — but a seva (divine offering)."
+    },
+    "whyPeopleLoveMetaBlock": {
+        "image": "/assets/about-us/whyPeopleLoveMetaBlock/why-people-love metablock-together-we-grow.webp",
+        "loveSection": {
+            "title": "Why People Love MetaBlock",
+            "points": [
+                "Balanced culture — where technology meets spirituality.",
+                "Transparent and ethical leadership.",
+                "Purpose-driven innovation with global vision.",
+                "A workplace that nurtures peace, productivity, and personal growth.",
+                "A divine atmosphere powered by Srila Prabhupada’s 24-hour Kirtan."
+            ],
+            "description": [
+                "At MetaBlock, we work not just for success, but with consciousness.",
+                "We are not just transforming businesses — we are transforming lives."
+            ]
+        },
+        "growthSection": {
+            "title": "Together, We Grow",
+            "description": [
+                "“When one person connects with MetaBlock, everyone around them grows.”",
+                "This is not just our philosophy — it’s our promise.",
+                "At MetaBlock, spirituality and technology walk hand in hand, creating a balanced environment where innovation thrives, relationships deepen, and everyone benefits."
+            ]
         }
     }
 }

@@ -14,6 +14,8 @@ import WhyChooseUs from '@/components/aboutUs/WhyChooseUs'
 import PartnershipSection from '@/components/aboutUs/PartnershipSection'
 import DevelopmentProcess from '@/components/aboutUs/DevelopmentProcess'
 import AbouUsForm from '@/components/aboutUs/AbouUsForm'
+import SpiritualFoundation from '@/components/aboutUs/SpiritualFoundation'
+import WhyPeopleLoveMetaBlock from '@/components/aboutUs/WhyPeopleLoveMetaBlock'
 
 
 const AboutPage = () => {
@@ -23,6 +25,8 @@ const AboutPage = () => {
             <CompanyOverview data={aboutUsData.companyOverview} />
             {/* <WhoWeAre data={aboutUsData.whoWeAre} /> */}
             <OurVisionMission data={aboutUsData.ourVisionMission} />
+            <WhyPeopleLoveMetaBlock data={aboutUsData.whyPeopleLoveMetaBlock}/>
+            <SpiritualFoundation data={aboutUsData.spiritualFoundationSection}/>
             <OurAchievements data={aboutUsData.ourAchievements} />
             <LatestTechnologies data={aboutUsData.latestTechnologies} />
             <OurStory data={aboutUsData.ourStory} />

@@ -41,7 +41,7 @@ const Application = ({data}) => {
             <OfficialPartners data={homedata.officialPartners} />
             <Section3 data={homedata.section3} />
             <OverviewSection data={homedata.overviewSection} />
-            <OverviewSection3 data={homedata.overviewSection} />
+            {/* <OverviewSection3 data={homedata.overviewSection} /> */}
             <RestaurantAppFeatures data={homedata.restaurantAppFeaturesSection} />
             <IncludedWithSection data={homedata.includedSection} />
             <AppDevelopmentServices data={homedata.developmentServicesSection} />
