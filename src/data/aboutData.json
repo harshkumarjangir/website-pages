@@ -589,64 +589,80 @@
         "title": "Our Partnerships Have Transformed How You Experience These Global Leaders",
         "logos": [
             {
-                "name": "IKEA",
-                "src": "/assets/about-us/partnership/ikea-logo-color.svg"
+                "name": "Boatflex",
+                "src": "/assets/about-us/partnership/bootflex.png"
             },
             {
-                "name": "Google",
-                "src": "/assets/about-us/partnership/google-logo-color.svg"
+                "name": "Tscherning",
+                "src": "/assets/about-us/partnership/tscherning-logo.png"
             },
             {
-                "name": "BCG",
-                "src": "/assets/about-us/partnership/bcc-logo-color.svg"
+                "name": "Sprogkar",
+                "src": "/assets/about-us/partnership/sprogklar.png"
             },
             {
-                "name": "KFC",
-                "src": "/assets/about-us/partnership/ikea-logo-color.svg"
+                "name": "Zenegy",
+                "src": "/assets/about-us/partnership/zenegy.png"
             },
             {
-                "name": "TGI Fridays",
-                "src": "/assets/about-us/partnership/friday-logo-color.svg"
+                "name": "Vattenfall",
+                "src": "/assets/about-us/partnership/vattenfall_logo.png"
             },
             {
-                "name": "Moo",
-                "src": "/assets/about-us/partnership/ikea-logo-color.svg"
+                "name": "Robot AT Work",
+                "src": "/assets/about-us/partnership/robotatwork.png"
             },
             {
-                "name": "Krispy Kreme",
-                "src": "/assets/about-us/partnership/ikea-logo-color.svg"
+                "name": "Tropic Link",
+                "src": "/assets/about-us/partnership/tropicLink.png"
             },
             {
-                "name": "Hardee's",
-                "src": "/assets/about-us/partnership/ikea-logo-color.svg"
+                "name": "Actee",
+                "src": "/assets/about-us/partnership/actee.png"
             },
             {
-                "name": "Bajaj Allianz",
-                "src": "/assets/about-us/partnership/ikea-logo-color.svg"
+                "name": "Probus",
+                "src": "/assets/about-us/partnership/probus_logo.png"
             },
             {
-                "name": "Domino's",
-                "src": "/assets/about-us/partnership/domin-logo-color.svg"
+                "name": "Divyaayurveda",
+                "src": "/assets/about-us/partnership/divyaayurveda.png"
             },
             {
-                "name": "SuperShe",
-                "src": "/assets/about-us/partnership/ikea-logo-color.svg"
+                "name": "Induction Health Care",
+                "src": "/assets/about-us/partnership/inductionhealthcare.png"
             },
             {
-                "name": "Wimpy",
-                "src": "/assets/about-us/partnership/ikea-logo-color.svg"
+                "name": "AMS",
+                "src": "/assets/about-us/partnership/AMS_logo.png"
             },
             {
-                "name": "Empire Hotels",
-                "src": "/assets/about-us/partnership/ikea-logo-color.svg"
+                "name": "FairHope",
+                "src": "/assets/about-us/partnership/fairhope.png"
             },
             {
-                "name": "JobGet",
-                "src": "/assets/about-us/partnership/ikea-logo-color.svg"
+                "name": "FYE",
+                "src": "/assets/about-us/partnership/fye.png"
             },
             {
-                "name": "Asian Bank",
-                "src": "/assets/about-us/partnership/ikea-logo-color.svg"
+                "name": "NearBy",
+                "src": "/assets/about-us/partnership/nearby.png"
+            },
+            {
+                "name": "Evolution300",
+                "src": "/assets/about-us/partnership/evolution360.png"
+            },
+            {
+                "name": "DealIndia",
+                "src": "/assets/about-us/partnership/dealindia.png"
+            },
+            {
+                "name": "Naukri",
+                "src": "/assets/about-us/partnership/naukri.png"
+            },
+            {
+                "name": "Find IT EZ",
+                "src": "/assets/about-us/partnership/finditez.png"
             }
         ]
     },

@@ -31,7 +31,6 @@ import LatestBlogs from './application/LatestBlogs'
 import GlobalOffices from './application/GlobalOffices'
 import Footer from './application/Footer'
 import CtaSection from './application/CtaSection'
-import OverviewSection2 from './application/OverviewSection2'
 import OverviewSection3 from './application/OverviewSection3'
 
 const Application = ({data}) => {
@@ -42,7 +41,6 @@ const Application = ({data}) => {
             <OfficialPartners data={homedata.officialPartners} />
             <Section3 data={homedata.section3} />
             <OverviewSection data={homedata.overviewSection} />
-            <OverviewSection2 data={homedata.overviewSection} />
             <OverviewSection3 data={homedata.overviewSection} />
             <RestaurantAppFeatures data={homedata.restaurantAppFeaturesSection} />
             <IncludedWithSection data={homedata.includedSection} />

@@ -4,7 +4,7 @@ const PartnershipSection = ({ data }) => {
     const { title, logos } = data;
 
     return (
-        <section className="bg-white text-black py-16 px-6 md:px-16">
+        <section className="bg-black text-white py-16 px-6 md:px-16">
             <div className="mx-auto">
                 <h2 className="text-3xl md:text-4xl mb-12">
                     {title}
