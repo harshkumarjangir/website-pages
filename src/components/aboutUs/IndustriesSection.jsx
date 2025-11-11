@@ -185,7 +185,7 @@ const IndustriesSection = ({ data }) => {
                                             <h3 className="font-semibold text-lg mb-2 text-white">{item.title}</h3>
                                             <motion.p
                                                 variants={textVariants}
-                                                className="text-sm text-white text-center"
+                                                className="text-sm text-white text-center max-h-40 overflow-y-auto no-scrollbar"
                                                 initial={{ opacity: 1, y: 0 }}
                                                 animate={{ opacity: 1, y: 0 }}
                                             >

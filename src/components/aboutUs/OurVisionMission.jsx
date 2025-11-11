@@ -3,7 +3,7 @@
 import Image from "next/image";
 
 export default function OurVisionMission({ data }) {
-    const { ourVision, ourMission } = data;
+    const { ourVision, ourMission, ourValues } = data;
 
     const Section = ({ title, paragraphs, image, imageAlt, reverse }) => (
         <div
@@ -57,6 +57,15 @@ export default function OurVisionMission({ data }) {
                     image={ourMission.image}
                     imageAlt={ourMission.imageAlt}
                     reverse={true}
+                />
+
+                {/*  Our Core Value: image left, text right */}
+                <Section
+                    title={ourValues.title}
+                    paragraphs={ourValues.paragraphs}
+                    image={ourValues.image}
+                    imageAlt={ourValues.imageAlt}
+                    reverse={false}
                 />
             </div>
         </section>

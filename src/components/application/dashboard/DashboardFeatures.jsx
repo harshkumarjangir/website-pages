@@ -150,7 +150,7 @@ const DashboardFeatures = ({ data }) => {
     if (!features.length) return null;
 
     return (
-        <section className="w-full py-20">
+        <section className="w-full py-0 pt-10">
             {/* Section Heading */}
             <div className="text-center mb-16 px-6">
                 <h2 className="text-3xl md:text-4xl font-extrabold text-gray-900 mb-4">

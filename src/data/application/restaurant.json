@@ -343,10 +343,10 @@
   },
   "callToAction": {
     "icon": "Sparkles",
-    "title": "Want To Develop a Restaurant App?",
-    "description": "Ready to Revolutionize Your Restaurant with a Custom App? Let's Get Started!",
-    "buttonText": "Start Your Project Today",
-    "buttonUrl": "#",
+    "title": "Let’s Discuss Your Project",
+    "description": "Get a free consultation to discuss how we will transform your idea into an amazing digital product.",
+    "buttonText": "Get Free Consultation",
+    "buttonUrl": "https://calendly.com/contact-metablocktech/30min",
     "image": "/assets/application/restaurant/callToAction/cta.webp"
   },
   "ctaSection": [
@@ -355,7 +355,7 @@
       "highlight": "Your Project",
       "description": "Get a free consultation to discuss how we will transform your idea into an amazing digital product.",
       "buttonText": "GET FREE CONSULTATION",
-      "buttonLink": "#",
+      "buttonLink": "https://calendly.com/contact-metablocktech/30min",
       "bgGradient": "from-[#00A859] to-[#00C977]",
       "leftImage": "/assets/application/restaurant/ctaSection/cta-left.svg",
       "rightImage": "/assets/application/restaurant/ctaSection/cta-right.svg"
@@ -375,7 +375,7 @@
       "highlight": "Free Demo",
       "description": "Experience our platform in action. Schedule a demo and see how we can help your business grow.",
       "buttonText": "BOOK A FREE DEMO",
-      "buttonLink": "#",
+      "buttonLink": "https://calendly.com/contact-metablocktech/30min",
       "bgGradient": "from-[#00A859] to-[#00C977]",
       "leftImage": "/assets/application/restaurant/ctaSection/cta-left.svg",
       "rightImage": "/assets/application/restaurant/ctaSection/cta-right.svg"

@@ -49,17 +49,18 @@ const Application = ({data}) => {
             <HowItWorks data={homedata.howItWorks} />
             <MobileMockUp data={homedata.mobileMockupSection} />
             <FeatureSection data={homedata.featureSection} />
-            <CtaSection data={homedata.ctaSection[0]} />
-            <CtaSection data={homedata.ctaSection[1]} />
+            {/* <CtaSection data={homedata.ctaSection[0]} /> */}
+            {/* <CtaSection data={homedata.ctaSection[1]} /> */}
+            {/* <CtaSection data={homedata.ctaSection[3]} /> */}
+            {/* <CtaSection data={homedata.ctaSection[4]} /> */}
+            {/* <CtaSection data={homedata.ctaSection[5]} /> */}
             <CtaSection data={homedata.ctaSection[2]} />
-            <CtaSection data={homedata.ctaSection[3]} />
-            <CtaSection data={homedata.ctaSection[4]} />
-            <CtaSection data={homedata.ctaSection[5]} />
-            <CtaSection data={homedata.ctaSection[6]} />
-            <DemoSection data={homedata.demoSection} colorTheme={homedata.demoSection.colorWhite} />
+            {/* <CtaSection data={homedata.ctaSection[6]} /> */}
+            {/* <DemoSection data={homedata.demoSection} colorTheme={homedata.demoSection.colorWhite} /> */}
             <DontSettle data={homedata.dontSettle} />
             <Dashboard data={homedata.dashboardSection} />
-            <DemoSection data={homedata.demoSection} colorTheme={homedata.demoSection.colorGreen} />
+            {/* <DemoSection data={homedata.demoSection} colorTheme={homedata.demoSection.colorGreen} /> */}
+            <CtaSection data={homedata.ctaSection[6]} />
             {/* <BusinessInterfaces data={homedata.businessInterfaces} /> */}
             <AppOperations data={homedata.appOperations} />
             <MistakesToAvoid data={homedata.mistakesToAvoidSection} />

@@ -16,6 +16,7 @@ import DevelopmentProcess from '@/components/aboutUs/DevelopmentProcess'
 import AbouUsForm from '@/components/aboutUs/AbouUsForm'
 import SpiritualFoundation from '@/components/aboutUs/SpiritualFoundation'
 import WhyPeopleLoveMetaBlock from '@/components/aboutUs/WhyPeopleLoveMetaBlock'
+import CultureOfMetablock from '@/components/aboutUs/CultureOfMetablock'
 
 
 const AboutPage = () => {
@@ -25,17 +26,21 @@ const AboutPage = () => {
             <CompanyOverview data={aboutUsData.companyOverview} />
             {/* <WhoWeAre data={aboutUsData.whoWeAre} /> */}
             <OurVisionMission data={aboutUsData.ourVisionMission} />
-            <WhyPeopleLoveMetaBlock data={aboutUsData.whyPeopleLoveMetaBlock}/>
             <SpiritualFoundation data={aboutUsData.spiritualFoundationSection}/>
+            <WhyChooseUs data={aboutUsData.financialGrouth} />
+            <CultureOfMetablock data={aboutUsData.cultureOfMetablock} />
+            <WhyPeopleLoveMetaBlock data={aboutUsData.whyPeopleLoveMetaBlock}/>
             <OurAchievements data={aboutUsData.ourAchievements} />
+            <CtaSection data={aboutUsData.ctaSection[0]} />
             <LatestTechnologies data={aboutUsData.latestTechnologies} />
             <OurStory data={aboutUsData.ourStory} />
             <PartnershipSection data={aboutUsData.partnershipSection} />
+            <CtaSection data={aboutUsData.ctaSection[2]} />
             <IndustriesSection data={aboutUsData.industriesSection} />
-            <CtaSection data={aboutUsData.ctaSection} />
-            <DevelopmentProcess data={aboutUsData.developmentProcessSection} />
+            {/* <DevelopmentProcess data={aboutUsData.developmentProcessSection} /> */}
             <OurExpertise data={aboutUsData.ourExpertise} />
-            <WhyChooseUs data={aboutUsData.whyChooseUs} />
+            <CtaSection data={aboutUsData.ctaSection[6]} />
+            {/* <WhyChooseUs data={aboutUsData.whyChooseUs} /> */}
             <AbouUsForm data={aboutUsData.aboutUsForm} />
 
         </div>

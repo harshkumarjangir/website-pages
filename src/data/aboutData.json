@@ -1,7 +1,8 @@
 {
     "heroSection": {
         "backgroundVideo": "/assets/about-us/heroSection/herovideo.webm",
-        "heading": "A brief introduction to our team and expertise in Web & Blockchain Development",
+        "heading": "MetaBlock Technologies LLP",
+        "heading2": "A brief introduction to our team and expertise in Web & Blockchain Development",
         "description2": "Our Company, we specialize in IT solutions, blockchain technology, and gaming innovations. Our mission is to drive the future of digital transformation by delivering: cutting-edge solutions that empower businesses and individuals worldwide.",
         "description": "Unlike our competitors, our services are personalized, secure, and infinitely scalable web and blockchain solutions. We combine talent with quality and achieve results that provide a positive impact on your business. Our main value is the customer focus and guarantee that every job is done with the maximum professionally.",
         "buttonText": "Contact Us",
@@ -63,25 +64,35 @@
             ],
             "image": "/assets/about-us/ourVisionMission/our-mission.webp",
             "imageAlt": "MetaBlock Mission"
+        },
+        "ourValues": {
+            "title": "Our Core Value",
+            "paragraphs": [
+                "At MetaBlock Technologies LLP, our vision is simple yet transformative:\n\"Let Everyone Grow — Spiritually and Financially.\"",
+                "We believe that true growth is holistic — it happens when every person connected to MetaBlock, whether an employee, customer, or partner, experiences both material prosperity and spiritual upliftment.",
+                "We envision a future where innovation is not just intelligent but intentional — where every line of code, every idea, and every connection contributes to a more conscious, compassionate, and abundant world."
+            ],
+            "image": "/assets/about-us/ourVisionMission/our-values.webp",
+            "imageAlt": "MetaBlock Vision"
         }
     },
     "ourAchievements": {
         "title": "Our Achievements",
         "achievements": [
             {
-                "count": 350,
+                "count": 54,
                 "suffix": "+",
                 "label": "Experts of technology",
                 "icon": "Cpu"
             },
             {
-                "count": 1500,
+                "count": 250,
                 "suffix": "+",
                 "label": "Websites delivered to clients",
                 "icon": "Globe"
             },
             {
-                "count": 500,
+                "count": 350,
                 "suffix": "+",
                 "label": "Mobile Apps delivered",
                 "icon": "Smartphone"
@@ -124,7 +135,7 @@
             }
         ]
     },
-    "industriesSection": {
+    "industriesSection2": {
         "title": "A Unified Vision That Caters To | Diverse Industry Demands",
         "buttonText": "Explore More in Industries",
         "buttonUrl": "#",
@@ -227,11 +238,130 @@
             }
         ]
     },
+    "industriesSection": {
+        "title": "A Unified Vision That Caters To | Diverse Industry Demands",
+        "buttonText": "Explore More in Industries",
+        "buttonUrl": "#",
+        "industries": [
+            {
+                "id": 1,
+                "title": "Healthcare",
+                "description": "MetaBlock technologies provides high end custom software development for healthcare management and healthcare related diagnostics. Our products help medical organizations operate more efficiently and enable patients to receive more accurate care. Lean on us for powerful, secure software platforms adapted to the needs of hospitals, clinics, and wellness practitioners.",
+                "icon": "HeartPulse"
+            },
+            {
+                "id": 2,
+                "title": "Finance",
+                "description": "Get ahead with custom software for financial firms. Use AI analytics for better risk management, security and business intelligence. Our technology streamlines your financial processes, so you can move faster and smarter.",
+                "icon": "Wallet"
+            },
+            {
+                "id": 3,
+                "title": "Restaurant",
+                "description": "Revolutionize your restaurant operations with our custom delivery and automation services. Discover AI – powered menu management, intelligent ordering, integrated payments. Increase your service speed, customer satisfaction and operational control with our help.",
+                "icon": "UtensilsCrossed"
+            },
+            {
+                "id": 4,
+                "title": "eCommerce",
+                "description": "Develop high-quality eCommerce applications that scale effectively with MetaBlock. Enable AI-based product recommendations and secure payment vault. Our bespoke software gives you a seamless shopping experience to boost your sales.",
+                "icon": "ShoppingCart"
+            },
+            {
+                "id": 5,
+                "title": "Electric Vehicle (EV)",
+                "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+                "icon": "Car"
+            },
+            {
+                "id": 6,
+                "title": "SaaS",
+                "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+                "icon": "Cloud"
+            },
+            {
+                "id": 7,
+                "title": "Travel",
+                "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+                "icon": "Plane"
+            },
+            {
+                "id": 8,
+                "title": "Entertainment",
+                "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+                "icon": "Music"
+            },
+            {
+                "id": 9,
+                "title": "Education",
+                "description": "Enhance educational experience with AI and custom solutions for schools and universities. From student data visualization to online classrooms, our solutions make school management easier. Access comprehensive, interactive and secure education applications across all learning environments.",
+                "icon": "BookOpen"
+            },
+            {
+                "id": 10,
+                "title": "Logistics",
+                "description": "Streamline your logistics operations with predictive analytics and intelligent process automation. Our in-house software allows for real-time tracking, route optimization, and fleet management. Improve delivery speed and accuracy with cutting-edge logistics services?",
+                "icon": "Truck"
+            },
+            {
+                "id": 11,
+                "title": "Agriculture",
+                "description": "Transform your agriculture operations with AI powered analytics and resource utilization. Our bespoke platforms provide improvements to productivity,crop monitoring and informed decision making with reguards to data. Technology for your field and farm: increase yield, efficiencies, and profits for farms and agribusinesses.",
+                "icon": "Leaf"
+            },
+            {
+                "id": 12,
+                "title": "Sports",
+                "description": "Enable sports teams with intelligent analytics and powerful custom team management software. Track athlete performance, manage tournaments, and increase fan and community engagement.MetaBlock Technologies sports clubs and academies are also strengthened with powerful tools.",
+                "icon": "Dumbbell"
+            },
+            {
+                "id": 13,
+                "title": "Real Estate",
+                "description": "MetaBlock Technologies is a leading real estate software development company which offers AI-enabled real estate solutions for real estate companies, ensuring smart property analytics and efficient management. Streamline listings, client interactions and transaction management with your own secure, scalable platforms. Streamline your sales process and enjoy smoother sales operations with the modern real estate solution.",
+                "icon": "Building"
+            },
+            {
+                "id": 14,
+                "title": "Energy",
+                "description": "Redefine your energy company with AI-based tailored solutions for resource tracking, forecasting, and business automation. Our solutions enhance energy consumption, asset management and sustainability reporting. Innovate and deliver dependable power and renewable energy management with superior software solutions.",
+                "icon": "BatteryCharging"
+            },
+            {
+                "id": 15,
+                "title": "Telecom",
+                "description": "Enable telecom providers with powerful, scalable custom software for managing their networks and customers. Analytics driven by AI to encourage uptime maximization, trend discovery and user experience customization. Enhance efficiency with secured, real-time control and better service provisioning.",
+                "icon": "Signal"
+            },
+            {
+                "id": 16,
+                "title": "Retail",
+                "description": "Transform your retail world with custom software and AI for inventory, sales, and customer engagement. MetaBlock’s solutions also provide personalized shopping, smart recommendations and seamless multi-channel integration. Maximize productivity and drive sales in retail with specially designed platforms.​",
+                "icon": "Store"
+            }
+        ]
+    },
     "ourExpertise": {
         "title": "Our Area of Expertise in Development",
         "bgTitle": "Expertise",
         "description": "We specialise in assisting you in turning your ideas into winning plans with the aid of our incredible products.",
         "expertises": [
+            {
+                "name": "AI Development",
+                "name-prefix": "We deliver exceptional expertise in",
+                "name-suffix": "helping clients succeed with modern technology solutions.",
+                "icon": "Brain",
+                "image": "/assets/about-us/ourExpertise/expertise.png",
+                "description": "We integrate artificial intelligence into business operations with solutions for automation, data analytics, predictive modeling, and more."
+            },
+            {
+                "name": "Mobile App Development",
+                "name-prefix": "We deliver exceptional expertise in",
+                "name-suffix": "helping clients succeed with modern technology solutions.",
+                "icon": "Smartphone",
+                "image": "/assets/about-us/ourExpertise/expertise.png",
+                "description": "Our mobile development team crafts seamless, high-performance iOS and Android apps that enhance brand engagement and user satisfaction."
+            },
             {
                 "name": "Web3 Development",
                 "name-prefix": "We deliver exceptional expertise in",
@@ -321,28 +451,12 @@
                 "description": "We provide end-to-end solutions for ICO, STO, and IDO launches, from token creation to investor dashboard development and smart contract deployment."
             },
             {
-                "name": "Mobile App Development",
-                "name-prefix": "We deliver exceptional expertise in",
-                "name-suffix": "helping clients succeed with modern technology solutions.",
-                "icon": "Smartphone",
-                "image": "/assets/about-us/ourExpertise/expertise.png",
-                "description": "Our mobile development team crafts seamless, high-performance iOS and Android apps that enhance brand engagement and user satisfaction."
-            },
-            {
                 "name": "Web Design Services",
                 "name-prefix": "We deliver exceptional expertise in",
                 "name-suffix": "helping clients succeed with modern technology solutions.",
                 "icon": "Monitor",
                 "image": "/assets/about-us/ourExpertise/expertise.png",
                 "description": "We design visually appealing, responsive, and user-friendly websites that communicate brand value and drive conversions effectively."
-            },
-            {
-                "name": "AI Development",
-                "name-prefix": "We deliver exceptional expertise in",
-                "name-suffix": "helping clients succeed with modern technology solutions.",
-                "icon": "Brain",
-                "image": "/assets/about-us/ourExpertise/expertise.png",
-                "description": "We integrate artificial intelligence into business operations with solutions for automation, data analytics, predictive modeling, and more."
             },
             {
                 "name": "Enterprise Solutions",
@@ -536,16 +650,78 @@
             }
         ]
     },
-    "ctaSection": {
-        "title": "Let’s Discuss Your Project",
-        "highlight": "Your Project",
-        "description": "Get a free consultation to discuss how we will transform your idea into an amazing digital product.",
-        "buttonText": "GET FREE CONSULTATION",
-        "buttonLink": "#",
-        "bgGradient": "from-[#0047FF] to-[#0B75FF]",
-        "leftImage": "/assets/about-us/ctaSection/cta-left.svg",
-        "rightImage": "/assets/about-us/ctaSection/cta-right.svg"
-    },
+    "ctaSection": [
+        {
+            "title": "Let’s Discuss Your Project",
+            "highlight": "Your Project",
+            "description": "Get a free consultation to discuss how we will transform your idea into an amazing digital product.",
+            "buttonText": "GET FREE CONSULTATION",
+            "buttonLink": "https://calendly.com/contact-metablocktech/30min",
+            "bgGradient": "from-[#0047FF] to-[#0B75FF]",
+            "leftImage": "/assets/about-us/ctaSection/cta-left.svg",
+            "rightImage": "/assets/about-us/ctaSection/cta-right.svg"
+        },
+        {
+            "title": "Ready to Get Started?",
+            "highlight": "Get Started Now",
+            "description": "Take the first step toward your success. Join us today and start achieving your goals faster than ever.",
+            "buttonText": "GET STARTED NOW",
+            "buttonLink": "#",
+            "bgGradient": "from-[#0047FF] to-[#0B75FF]",
+            "leftImage": "/assets/about-us/ctaSection/cta-left.svg",
+            "rightImage": "/assets/about-us/ctaSection/cta-right.svg"
+        },
+        {
+            "title": "Book Your Free Demo",
+            "highlight": "Free Demo",
+            "description": "Experience our platform in action. Schedule a demo and see how we can help your business grow.",
+            "buttonText": "BOOK A FREE DEMO",
+            "buttonLink": "https://calendly.com/contact-metablocktech/30min",
+            "bgGradient": "from-[#0047FF] to-[#0B75FF]",
+            "leftImage": "/assets/about-us/ctaSection/cta-left.svg",
+            "rightImage": "/assets/about-us/ctaSection/cta-right.svg"
+        },
+        {
+            "title": "Start Your Free Trial Today",
+            "highlight": "Free Trial",
+            "description": "Try all our premium features for free and discover why teams love working with us.",
+            "buttonText": "START FREE TRIAL",
+            "buttonLink": "#",
+            "bgGradient": "from-[#0047FF] to-[#0B75FF]",
+            "leftImage": "/assets/about-us/ctaSection/cta-left.svg",
+            "rightImage": "/assets/about-us/ctaSection/cta-right.svg"
+        },
+        {
+            "title": "Let’s Build Something Great Together",
+            "highlight": "Build Together",
+            "description": "Partner with our expert team to bring your ideas to life with innovation, speed, and quality.",
+            "buttonText": "LET’S BUILD TOGETHER",
+            "buttonLink": "#",
+            "bgGradient": "from-[#0047FF] to-[#0B75FF]",
+            "leftImage": "/assets/about-us/ctaSection/cta-left.svg",
+            "rightImage": "/assets/about-us/ctaSection/cta-right.svg"
+        },
+        {
+            "title": "Exclusive Deal Just for You",
+            "highlight": "Claim Your Offer",
+            "description": "Don’t miss this limited-time opportunity! Unlock special benefits and exclusive discounts today.",
+            "buttonText": "CLAIM YOUR OFFER",
+            "buttonLink": "#",
+            "bgGradient": "from-[#0047FF] to-[#0B75FF]",
+            "leftImage": "/assets/about-us/ctaSection/cta-left.svg",
+            "rightImage": "/assets/about-us/ctaSection/cta-right.svg"
+        },
+        {
+            "title": "Discover More About Us",
+            "highlight": "Download Brochure",
+            "description": "Get our detailed brochure and explore how our services can elevate your business to the next level.",
+            "buttonText": "DOWNLOAD BROCHURE",
+            "buttonLink": "/assets/about-us/ctaSection/metablock-portfolio.pdf",
+            "bgGradient": "from-[#0047FF] to-[#0B75FF]",
+            "leftImage": "/assets/about-us/ctaSection/cta-left.svg",
+            "rightImage": "/assets/about-us/ctaSection/cta-right.svg"
+        }
+    ],
     "whyChooseUs": {
         "heading": "Why choose us in software development?",
         "description": "Partner with us for innovative software development, as we customize scalable solutions from scratch according to your needs. Through our expert team, quality work, seamless communication, and timely delivery ensure success and growth for you.",
@@ -937,5 +1113,57 @@
                 "At MetaBlock, spirituality and technology walk hand in hand, creating a balanced environment where innovation thrives, relationships deepen, and everyone benefits."
             ]
         }
+    },
+    "financialGrouth": {
+        "heading": "Financial Growth with Purpose",
+        "description": "While spirituality forms our foundation, financial and professional growth drive our mission.",
+        "description2": "At MetaBlock, we want everyone connected with us — employees, clients, and partners — to experience 5–10X growth in business or income within 2–3 years through:",
+        "processImage": "/assets/about-us/whyChooseUs/chooseUs.png",
+        "steps": [
+            {
+                "number": "01",
+                "title": "Advanced Technology & Automation",
+                "description": " We use cutting-edge tools, AI, and blockchain to build scalable, impactful solutions."
+            },
+            {
+                "number": "02",
+                "title": "Ethical & Transparent Partnerships",
+                "description": "Trust, honesty, and long-term relationships are the heart of our business."
+            },
+            {
+                "number": "03",
+                "title": "Result-Driven Execution",
+                "description": "Every project is delivered with clarity, accountability, and measurable outcomes."
+            },
+            {
+                "number": "04",
+                "title": "Continuous Learning & Self-Development",
+                "description": "We invest in skill growth, leadership training, and personal evolution."
+            }
+        ],
+        "descriptionEnd": "We don’t just build software — we build people.",
+        "descriptionLast": " Every success story at MetaBlock is a collective victory — a blend of smart innovation and divine intention."
+    },
+    "cultureOfMetablock": {
+        "heading": "The Culture of MetaBlock",
+        "description": "MetaBlock’s culture is built on four pillars that define who we are and how we work. This culture turns every employee into a co-creator, every client into a partner, and every project into a contribution to the greater good.",
+        "pillars": [
+            {
+                "title": "Devotion in Work",
+                "text": "Every project is an offering of service."
+            },
+            {
+                "title": "Purpose in Innovation",
+                "text": "Technology must uplift lives."
+            },
+            {
+                "title": "Unity in Growth",
+                "text": "Success is shared; no one is left behind."
+            },
+            {
+                "title": "Humility in Leadership",
+                "text": "The more we grow, the more grounded we stay."
+            }
+        ]
     }
 }
