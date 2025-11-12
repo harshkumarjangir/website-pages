@@ -12,10 +12,10 @@
     },
     "leaders": [
         {
-            "name": "Lalit Gupta",
-            "designation": "Founder & CEO of MetaBlock",
+            "name": "Lalit Kumar Gupta",
+            "designation": "Founder & Designated Partner, MetaBlock Technologies LLP",
             "image": "/assets/our-team/leaders/lalitsir.webp",
-            "bio": "My journey has been a combination of technological innovation and spiritual enlightenment, having started from modest beginnings in Hindaun City, Rajasthan. I developed a strong affinity for mathematics while growing up in a tiny town, which ultimately inspired me to pursue higher education in Jaipur. Even though I was never much of an academic, spirituality provided me with a place to quench my curiosity.",
+            "bio": "MetaBlock isn’t just a company — it’s a living community built on values, vision, and vibration. Every person who joins MetaBlock — as a client, team member, or partner — becomes part of a movement where technology serves humanity, and spirituality strengthens purpose. We don’t compete — we contribute. We don’t chase success — we create harmony. Because when consciousness drives creation, everyone grows — spiritually and financially.\n\n— Lalit Kumar Gupta\n\nFounder & Designated Partner\nMetaBlock Technologies LLP",
             "buttonText": "Read More...",
             "buttonUrl": "https://www.linkedin.com/in/lalitgupta108/",
             "socials": [
@@ -35,9 +35,9 @@
         },
         {
             "name": "Harsh Gupta",
-            "designation": "Co-Founder & CTO",
+            "designation": "Co-Founder & Chief Technology Officer, MetaBlock Technologies LLP",
             "image": "/assets/our-team/leaders/harsh-sir-copy.jpg",
-            "bio": "Blockchain Development || MERN Development || React Development || React Native Development || Website Development || Software Development",
+            "bio": "At MetaBlock Technologies, technology is more than code—it’s a catalyst for meaningful impact. We embrace innovation with a heart-centered approach where every solution is designed to uplift communities and empower individuals.  Our strength lies in collaboration, integrity, and a shared vision of growth that transcends profit. Here, technology and purpose unite to create lasting value, where every team member, client, and partner flourishes together. Together, we are crafting not only smarter systems but a brighter, more harmonious future.\n\n— Harsh Gupta\n\nChief Technology Officer\nMetaBlock Technologies LLP",
             "buttonText": "Read More...",
             "buttonUrl": "https://www.linkedin.com/in/harsh-gupta-a9257b28b/",
             "socials": [
@@ -61,16 +61,6 @@
         "description": "Meet the leaders who started it all. Their vision and passion are the cornerstones of our success.",
         "members": [
             {
-                "name": "Lalit Gupta",
-                "designation": "Founder & CEO of MetaBlock",
-                "image": "/assets/our-team/visionaries/lalitsir.webp"
-            },
-            {
-                "name": "Harsh Gupta",
-                "designation": "Co-Founder & CTO",
-                "image": "/assets/our-team/visionaries/harsh-sir-copy.jpg"
-            },
-            {
                 "name": "Akshita Agrawal",
                 "designation": "Chief Digital Marketing Officer",
                 "image": "/assets/our-team/visionaries/akshita-croped.jpg"
@@ -84,6 +74,11 @@
                 "name": "Nagendra",
                 "designation": "Head Of Metablock-Business Program",
                 "image": "/assets/our-team/visionaries/nagendra.jpg"
+            },
+            {
+                "name": "Samar Katara",
+                "designation": "Head Of Metablock-Business Program",
+                "image": "/assets/our-team/visionaries/nagendra.jpg"
             }
         ]
     },
@@ -92,84 +87,104 @@
         "description": "Our talented team members work passionately to bring innovative solutions, impactful ideas, and transformative technologies to life.",
         "members": [
             {
-                "name": "Lalit Gupta",
-                "designation": "Founder & CEO of MetaBlock",
-                "image": "/assets/our-team/team/saurabh-singh-ceo.webp"
+                "name": "Yogesh Sharma",
+                "designation": "Sales Manager & HR",
+                "image": "/assets/our-team/team/yogesh-sharma-hr.jpg"
             },
             {
-                "name": "Harsh Gupta",
-                "designation": "Co-Founder & CTO",
-                "image": "/assets/our-team/team/saurabh-singh-ceo.webp"
+                "name": "Prashant Kumar Verma",
+                "designation": "Sales Executive",
+                "image": "/assets/our-team/team/prashant-kumar-verma.jpg"
             },
             {
-                "name": "Akshita Agrawal",
-                "designation": "Chief Digital Marketing Officer",
-                "image": "/assets/our-team/team/saurabh-singh-ceo.webp"
+                "name": "Harsh Sharma",
+                "designation": "SEO",
+                "image": "/assets/our-team/team/harsh-sharma-copy.jpg"
             },
             {
-                "name": "Ajay Yogi",
-                "designation": "Chief Marketing Officer",
-                "image": "/assets/our-team/team/saurabh-singh-ceo.webp"
+                "name": "Kiran Panchal",
+                "designation": "Graphic Designer",
+                "image": "/assets/our-team/team/kiran-panchal.jpg"
             },
             {
-                "name": "Nagendra",
-                "designation": "Head Of Metablock-Business Program",
-                "image": "/assets/our-team/team/saurabh-singh-ceo.webp"
+                "name": "Yuraj Singh Bisht",
+                "designation": "SEO",
+                "image": "/assets/our-team/team/yuraj-singh-bisht.jpg"
             },
             {
-                "name": "Sanjay",
-                "designation": "Head Of Metablock-Partner Program",
-                "image": "/assets/our-team/team/saurabh-singh-ceo.webp"
+                "name": "Aakarsh Rajawat",
+                "designation": "Sales Manager",
+                "image": "/assets/our-team/team/aakarsh-rajawat.jpg"
             },
             {
-                "name": "Lalit Gupta",
-                "designation": "Founder & CEO of MetaBlock",
-                "image": "/assets/our-team/team/saurabh-singh-ceo.webp"
+                "name": "Harman Arora",
+                "designation": "Social Media Executive",
+                "image": "/assets/our-team/team/harman-arora.jpg"
             },
             {
-                "name": "Harsh Gupta",
-                "designation": "Co-Founder & CTO",
-                "image": "/assets/our-team/team/saurabh-singh-ceo.webp"
+                "name": "Sonu Rav",
+                "designation": "Project Manager",
+                "image": "/assets/our-team/team/user-image.png"
             },
             {
-                "name": "Akshita Agrawal",
-                "designation": "Chief Digital Marketing Officer",
-                "image": "/assets/our-team/team/saurabh-singh-ceo.webp"
+                "name": "Abhishek Paras",
+                "designation": "TaleSales",
+                "image": "/assets/our-team/team/user-image.png"
             },
             {
-                "name": "Ajay Yogi",
-                "designation": "Chief Marketing Officer",
-                "image": "/assets/our-team/team/saurabh-singh-ceo.webp"
+                "name": "Kuldeep Singh",
+                "designation": "Sales Executive",
+                "image": "/assets/our-team/team/user-image.png"
             },
             {
-                "name": "Nagendra",
-                "designation": "Head Of Metablock-Business Program",
-                "image": "/assets/our-team/team/saurabh-singh-ceo.webp"
+                "name": "Neelesh Saini",
+                "designation": "Sr. Project Manager",
+                "image": "/assets/our-team/team/user-image.png"
             },
             {
-                "name": "Sanjay",
-                "designation": "Head Of Metablock-Partner Program",
-                "image": "/assets/our-team/team/saurabh-singh-ceo.webp"
+                "name": "Nitesh Pandey",
+                "designation": "Sales Executive",
+                "image": "/assets/our-team/team/user-image.png"
             },
             {
-                "name": "Lalit Gupta",
-                "designation": "Founder & CEO of MetaBlock",
-                "image": "/assets/our-team/team/saurabh-singh-ceo.webp"
+                "name": "Priyansh Maheshwari",
+                "designation": "Sales Executive",
+                "image": "/assets/our-team/team/user-image.png"
             },
             {
-                "name": "Harsh Gupta",
-                "designation": "Co-Founder & CTO",
-                "image": "/assets/our-team/team/saurabh-singh-ceo.webp"
+                "name": "Ritik Saini",
+                "designation": "TeleCaller",
+                "image": "/assets/our-team/team/user-image.png"
             },
             {
-                "name": "Akshita Agrawal",
-                "designation": "Chief Digital Marketing Officer",
-                "image": "/assets/our-team/team/saurabh-singh-ceo.webp"
+                "name": "Vinay Gaur",
+                "designation": "TeleCaller",
+                "image": "/assets/our-team/team/user-image.png"
             },
             {
-                "name": "Ajay Yogi",
-                "designation": "Chief Marketing Officer",
-                "image": "/assets/our-team/team/saurabh-singh-ceo.webp"
+                "name": "Virendra Kumar",
+                "designation": "Sales Executive",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Punyakrat",
+                "designation": "TaleSales",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Prabhakar Chaudhary",
+                "designation": "TaleSales",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Vijay Singh",
+                "designation": "Sales Manager",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Rakesh Sharma",
+                "designation": "Digital Marketing Executive",
+                "image": "/assets/our-team/team/user-image.png"
             }
         ]
     }

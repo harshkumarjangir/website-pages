@@ -205,7 +205,7 @@ export default function IncludedWithSection({ data }) {
                                         <h4 className="text-lg font-semibold text-green-700 mb-1">
                                             {addon.title}
                                         </h4>
-                                        <p className="text-green-700 font-bold mb-2">{addon.price}</p>
+                                        {/* <p className="text-green-700 font-bold mb-2">{addon.price}</p> */}
                                         <p className="text-gray-600 text-sm">{addon.description}</p>
                                     </motion.div>
                                 ))}

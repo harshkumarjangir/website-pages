@@ -1231,26 +1231,32 @@
     "reviewsHeader": {
       "title": "MetaBlock Technologies Reviews",
       "rating": 5.0,
-      "reviewsCount": 1,
+      "reviewsCount": 4,
       "poweredBy": "Clutch"
     },
     "reviews": [
       {
         "rating": 5.0,
-        "text": "They have delivered everything I asked of them and more.",
-        "author": "Project Manager, Apelo Panel",
+        "text": "The HomeOptima app delivered personalized real estate insights and live market data, helping thousands make smarter buying and selling decisions in Toronto.",
+        "author": "VP and CEO, Toronto Real Estate HomeOptima",
         "verified": true
       },
       {
-        "rating": 5.0,
-        "text": "We will surely recommend JPLoft to everyone in need of a company having full...",
-        "author": "Sole Trader, Food Company",
+        "rating": 4.5,
+        "text": "MetaBlock development of an automotive parts e-commerce platform simplified our supply chain and boosted sales through smart categorization and reliable logistics support.",
+        "author": "CTO, Garaaz",
         "verified": true
       },
       {
-        "rating": 5.0,
-        "text": "JPLoft produced good quality work, making for a successful engagement.",
-        "author": "GM, Quality Flavours Export",
+        "rating": 4.6,
+        "text": "Their intuitive boat rental app streamlined booking and expanded our reach across Europe, driving higher customer satisfaction and operational efficiency.",
+        "author": "CTO, Boatflex - Boat rental Europe",
+        "verified": true
+      },
+      {
+        "rating": 4.1,
+        "text": "MetaBlock Technologies developed a secure, user-friendly streaming app that connects experts across industries. The platform has enhanced user engagement and knowledge sharing globally.",
+        "author": "CEO, Jeff Shine",
         "verified": true
       }
     ]
