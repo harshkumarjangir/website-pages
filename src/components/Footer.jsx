@@ -693,6 +693,7 @@ import {
     Instagram,
     Globe,
 } from "lucide-react";
+import { IconBrandX } from "@tabler/icons-react";
 import { FaPinterest, FaGoogle } from "react-icons/fa";
 import { motion, AnimatePresence } from "framer-motion";
 import Image from "next/image";
@@ -706,7 +707,7 @@ const addressIconMap = {
 
 const socialIconMap = {
     Facebook,
-    Twitter,
+    IconBrandX,
     Linkedin,
     Youtube,
     Instagram,
@@ -762,9 +763,9 @@ export default function Footer() {
     return (
         <footer className="bg-[#1D1D25] text-gray-300">
             {/* Footer Top */}
-            <div className="container mx-auto px-10 py-10">
+            <div className="mx-auto px-10 py-10">
                 {/* Desktop Grid */}
-                <div className="hidden md:grid md:grid-cols-6 gap-3">
+                <div className="hidden md:grid md:grid-cols-3 xl:grid-cols-6 gap-3">
                     {data.columns?.map((col, idx) => (
                         <div key={idx}>
                             {/* Special layout for logo + QR column */}
@@ -773,7 +774,7 @@ export default function Footer() {
                                     <Image
                                         src={col.logo}
                                         alt="Company Logo"
-                                        width={200} // approximate 30 * 4px
+                                        width={200}
                                         height={120}
                                         className=" object-contain"
                                     />
@@ -804,15 +805,19 @@ export default function Footer() {
                                                 key={i}
                                                 className="flex items-center first:items-start gap-2"
                                             >
-                                                {col.title === "Address" && link.icon && (() => {
-                                                    const AddressIcon = addressIconMap[link.icon];
-                                                    return AddressIcon ? (
-                                                        <AddressIcon className="w-4 h-4 flex-shrink-0" />
-                                                    ) : null;
-                                                })()}
+                                                {col.title === "Address" &&
+                                                    link.icon &&
+                                                    (() => {
+                                                        const AddressIcon = addressIconMap[link.icon];
+                                                        return AddressIcon ? (
+                                                            <AddressIcon className="w-4 h-4 flex-shrink-0" />
+                                                        ) : null;
+                                                    })()}
                                                 <a
                                                     href={
-                                                        col.title === "Address" ? link.url : `/${link.url}`
+                                                        col.title === "Address"
+                                                            ? link.url
+                                                            : `/${link.url}`
                                                     }
                                                     className="hover:underline inline-flex items-center"
                                                 >
@@ -898,16 +903,19 @@ export default function Footer() {
 
             {/* Footer Bottom */}
             <div className="bg-[#15151F] py-8">
-                <div className="container mx-auto px-6 flex flex-col gap-6">
+                <div className="mx-auto px-6 flex flex-col gap-6">
                     <motion.div
-                        className="flex flex-col md:flex-row items-start md:items-center justify-between gap-6"
+                        className="flex flex-col lg:flex-row items-center md:items-center justify-between gap-6"
                         initial={{ opacity: 0, y: 30 }}
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ duration: 0.6 }}
                     >
-                        <p className="max-w-md text-sm text-gray-400">{data.description}</p>
+                        {/* max-w-md */}
+                        <p className="max-lg:w-fit lg:max-w-md text-sm text-gray-400">
+                            {data.description}
+                        </p>
 
-                        <p className="text-sm text-gray-400 max-md:order-3">
+                        <p className="text-sm text-gray-400 max-lg:order-3">
                             {data.copyright}
                         </p>
 

@@ -2,9 +2,7 @@
     "heroSection": {
         "backgroundVideo": "/assets/about-us/heroSection/herovideo.webm",
         "heading": "MetaBlock Technologies LLP",
-        "heading2": "A brief introduction to our team and expertise in Web & Blockchain Development",
-        "description2": "Our Company, we specialize in IT solutions, blockchain technology, and gaming innovations. Our mission is to drive the future of digital transformation by delivering: cutting-edge solutions that empower businesses and individuals worldwide.",
-        "description": "Unlike our competitors, our services are personalized, secure, and infinitely scalable web and blockchain solutions. We combine talent with quality and achieve results that provide a positive impact on your business. Our main value is the customer focus and guarantee that every job is done with the maximum professionally.",
+        "description": "Unlike our competitors, our services are personalized, secure, and infinitely scalable Custom Software Development, Artificial Intelligence (AI), Blockchain, and App Development solutions. We combine talent with quality and achieve results that provide a positive impact on your business. Our main value is the customer focus and guarantee that every job is done with the maximum professionally.",
         "buttonText": "Contact Us",
         "buttonLink": "#",
         "heroStats": [
@@ -28,7 +26,7 @@
     },
     "companyOverview": {
         "title": "Company Overview",
-        "description": "Our Company, we specialize in IT solutions, blockchain technology, and gaming innovations. Our mission is to drive the future of digital transformation by delivering: cutting-edge solutions that empower businesses and individuals worldwide. Our team of experts has a wide range of experience and skills, and we’re always exploring new technologies to stay at the forefront of the industry.",
+        "description": "MetaBlock Technologies is a Jaipur-based software company specializing in Web, Blockchain, Artificial Intelligence (AI), Software, App, and Game Development for startups and enterprises. The team delivers scalable, personalized digital solutions including AI, Blockchain, Apps, Websites, and Metaverse platforms. The company prides itself on innovation, customer-centric approaches, and expert technical talent. Core services include Blockchain (Crypto, Smart Contracts, NFT), AI/ML software, and immersive gaming solutions. MetaBlock empowers clients to transform ideas into impactful products, supported by consultancy and future-ready technology.",
         "linkedin": {
             "headerText": "Let’s Connect",
             "followers": "5.2K+",

@@ -410,8 +410,8 @@
         },
         {
             "name": "Twitter",
-            "url": "",
-            "icon": "Twitter",
+            "url": "https://x.com/metablocktech1",
+            "icon": "IconBrandX",
             "index": 1,
             "status": true,
             "deletedAt": null,
@@ -485,7 +485,8 @@
         },
         {
             "name": "GoogleMyBusiness",
-            "url": "https://g.page/metablocktech",
+            "url2": "https://g.page/metablocktech",
+            "url": "https://www.google.com/search?q=MetaBlock+Technologies:+A+Web,+Blockchain+%26+AI+Development+Company&stick=H4sIAAAAAAAA_-NgU1I1qDC2NEtJMk00TUuytDA1M0qzMqgwtEgxM0kyNEwzNki1NDMwWMTq5JtakuiUk5-crRCSmpyRl5-Tn56ZWmyl4KgQnpqkowCWSs5IzMxTUFNw9FRwSS1LzckvyE3NK1Fwzs8tSMyrBAC4nGq3bgAAAA&hl=en-GB&mat=CVOBO4E4EjPvElcBTVDHnjy0rpXSGK-SvQCjrCkXlfO9M0oYpgmirpLp56TCK7Q8kVpSFlEduwfTyY9Km7UyLvnEEXu9bXZ-mtlvrBNezbUsgoWoxb-NEV_wOHHeXMUW5uI&authuser=0",
             "icon": "GoogleMyBusiness",
             "index": 6,
             "status": true,

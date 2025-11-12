@@ -34,7 +34,7 @@ import CtaSection from './application/CtaSection'
 import OverviewSection3 from './application/OverviewSection3'
 
 const Application = ({data}) => {
-     const homedata = data; // 👈 this fixes undefined error
+     const homedata = data; // this fixes undefined error
     return (
         <>
             <HeroSection data={homedata.heroSection} />
