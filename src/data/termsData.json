@@ -10,7 +10,7 @@
         "title": "About MetaBlock Technologies LLP",
         "content": "MetaBlock Technologies LLP is a leading software development company specializing in creating innovative and customized solutions for clients worldwide. With a team of experienced professionals, we are committed to delivering high-quality products that meet the unique needs of each client. Our expertise spans various industries, including gaming, finance, healthcare, and e-commerce. We pride ourselves on our customer-centric approach, ensuring that we work closely with our clients to understand their goals and deliver solutions that drive success. At MetaBlock Technologies LLP, we believe in leveraging the latest technologies and best practices to create scalable and efficient software that empowers businesses to thrive in the digital age."
     },
-    "sections": [
+    "sections2": [
         {
             "id": "agreement",
             "heading": "Software Development Agreement",
@@ -33,7 +33,8 @@
             "heading": "Legal Compliance and Responsibilities",
             "content": [
                 "The Company shall have no involvement in, nor responsibility for, any operational, financial, legal, or regulatory aspects of the website’s use or management after delivery. It is expressly understood that the Company does not assume any responsibility to ensure that the games or the game website comply with any local, state, national, or international laws or regulations.",
-                "1. Local, National, and International Laws:\nThe Company is not responsible for ensuring the game website complies with any legal requirements related to gambling, betting, or gaming in any jurisdiction. This includes, but is not limited to: The Public Gambling Act, 1867; The Rajasthan Public Gaming Ordinance, 1949; The Information Technology (IT) Act, 2000; The Rajasthan Prevention of Gambling Ordinance, 1949; Internet and Online Gaming Regulations; Intellectual Property Laws (e.g., Copyright Act, 1957 and Patents Act, 1970); Consumer Protection Act, 2019; RBI Guidelines for Online Payments; Children's Online Privacy Protection Act; Law For Online Transaction; Guidelines from Ministry of Information and Broadcasting and MeitY; International Licensing Requirements such as UK Gambling Commission, Curacao eGaming, and Malta Gaming Authority (MGA)."
+                "1. Local, National, and International Laws:\nThe Company is not responsible for ensuring the game website complies with any legal requirements related to gambling, betting, or gaming in any jurisdiction. This includes, but is not limited to:",
+                "The Public Gambling Act, 1867; The Rajasthan Public Gaming Ordinance, 1949; The Information Technology (IT) Act, 2000; The Rajasthan Prevention of Gambling Ordinance, 1949; Internet and Online Gaming Regulations; Intellectual Property Laws (e.g., Copyright Act, 1957 and Patents Act, 1970); Consumer Protection Act, 2019; RBI Guidelines for Online Payments; Children's Online Privacy Protection Act; Law For Online Transaction; Guidelines from Ministry of Information and Broadcasting and MeitY; International Licensing Requirements such as UK Gambling Commission, Curacao eGaming, and Malta Gaming Authority (MGA)."
             ]
         },
         {
@@ -41,7 +42,7 @@
             "heading": "Licensing and Compliance",
             "content": [
                 "It is the Client’s sole responsibility to obtain and maintain all necessary licenses, permits, and approvals required for operating the website and its games in any jurisdiction where they intend to operate. The Company will not be responsible for verifying the legality of the website's operations or the validity of any licenses or permits obtained by the Client.",
-                "If the Client acquires certification or licensing for a specific region but does not have the requisite permissions for other regions, it is the Client’s responsibility to restrict access to the website accordingly, ensuring it is only available in regions where they hold valid certifications or licenses. The Client must take all necessary measures, such as geoblocking or IP restrictions, to ensure that users from regions where they do not hold valid licenses cannot access or use the website. Failure to restrict access to regions where the Client does not have legal approval could result in legal consequences. The Company bears no responsibility for monitoring or implementing these restrictions."
+                "If the Client acquires certification or licensing for a specific region but does not have the requisite permissions for other regions, it is the Client’s responsibility to restrict access to the website accordingly, ensuring it is only available in regions where they hold valid certifications or licenses. The Client must take all necessary measures, such as geoblocking or IP restrictions, to ensure that users from regions where they do not hold valid licenses cannot access or use the website. Failure to restrict access to regions where the Client does not have legal approval could result in legal consequences. The Company bears no responsibility for monitoring or implementing these restrictions. It is entirely the Client's duty to ensure compliance with local and international gaming laws in the jurisdictions where their website is made available."
             ]
         },
         {
@@ -70,13 +71,16 @@
             "heading": "Indemnification and Liability",
             "content": [
                 "The Client agrees to indemnify, defend, and hold harmless MetaBlock Technologies LLP (the \"Company\") from any and all claims, damages, losses, liabilities, and expenses, including reasonable attorney fees, arising out of or in connection with the operation or use of the game website. This includes but is not limited to any illegal activities, non-compliance with applicable laws, fraud, or any disputes with users, government authorities, or third parties.",
-                "The Client acknowledges that it is fully and solely responsible for ensuring the legal compliance of the game website and its operations. The Client further agrees that the Company will not be held accountable for any illegal activity, regulatory violations, or legal disputes conducted through or related to the game website."
+                "The Client acknowledges that it is fully and solely responsible for ensuring the legal compliance of the game website and its operations. The Client further agrees that the Company will not be held accountable for any illegal activity, regulatory violations, or legal disputes conducted through or related to the game website. Any legal consequences arising from the operation of the website, including fines, claims, or lawsuits from users or government authorities, are the complete responsibility of the Client.",
+                "Note -If it comes to the Company’s attention, either through a third party or a government entity, that the Client is operating the website or game in violation of government laws or regulations, the Company reserves the right to immediately suspend or terminate the operation. It is not the Company’s responsibility to monitor or track the Client’s activities, but upon receiving such information, the Company will take appropriate action.",
+                "Government laws or Regulations, the Company reserves the right to immediately suspend or terminate the operation. It is not the Company’s responsibility to monitor or track the Client’s activities, but upon receiving such information, the Company will take appropriate action."
             ]
         },
         {
             "id": "roles",
             "heading": "Definition of Roles",
             "content": [
+                "This section outlines the specific roles and responsibilities of MetaBlock Technologies LLP (hereinafter referred to as the \"Company\") and the Client (hereinafter referred to as the \"Client\") in relation to the development of a game website.",
                 "Role of the Company: The Company, MetaBlock Technologies LLP, is engaged solely to provide technical development services as per the Client’s specifications. These services include the design, coding, integration and delivery of the game website. The Company is not involved in the operational, financial, regulatory, or managerial aspects of the game website.",
                 "Role of the Client: The Client, HYBRID WEBTECH, is solely responsible for providing the Company with complete, accurate, and lawful specifications and requirements for the development of the game website. The Client must ensure that all content, features, and functionalities in the website are in compliance with all applicable laws and regulations in the jurisdictions where the client wants to operate the website."
             ]
@@ -96,6 +100,131 @@
                 "Exclusion of Claims: Users and government authorities acknowledge that they have no claim against the Company for issues arising from the website’s operation. All responsibilities and liabilities remain with the Client.",
                 "Duty to Address Legal Issues: The Client agrees to handle all legal issues related to the website, including legal representation and associated costs. The Company shall not be responsible for managing or participating in legal matters.",
                 "If it comes to the Company’s attention that the Client is operating the website or game in violation of government laws or regulations, the Company reserves the right to immediately suspend or terminate the operation."
+            ]
+        }
+    ],
+    "sections": [
+        {
+            "id": "agreement-parties",
+            "heading": "Agreement Parties",
+            "content": [
+                "Software Development Agreement (\"Agreement\") is made and entered into on Final Date by and between:",
+                "",
+                "**First Party: MetaBlock Technologies LLP (\"Company\")**",
+                "A company incorporated under the laws of government laws or regulations, with its registered office at 36/12, Kiran Path, Mansarovar, Jaipur, Rajasthan, 302020, India. The Company reserves the right to immediately suspend or terminate the operation. It is not the Company's responsibility to monitor or track the Client's activities, but upon receiving such information, the Company will take appropriate action.",
+                "",
+                "**Second Party: Customer Name (\"Client\")**",
+                "With its principal place of business."
+            ]
+        },
+        {
+            "id": "purpose-of-agreement",
+            "heading": "Purpose of the Agreement",
+            "content": [
+                "The purpose of this Agreement is to establish the terms and conditions under which MetaBlock Technologies LLP (the \"Company\") will provide development services to the Client for the creation of a game website. This website may include, but is not limited to, games involving elements of skill, chance, betting, slot games, and style games, as specified by the Client. The Company's role is strictly confined to the technical development and delivery of the game website in accordance with the Client's specifications.",
+                "",
+                "The Company shall have no involvement in, nor responsibility for, any operational, financial, legal, or regulatory aspects of the website's use or management after delivery. It is expressly understood that the Company does not assume any responsibility to ensure that the games or the game website comply with any local, state, national, or international laws or regulations, including but not limited to gambling laws, betting laws, gaming regulations, and other applicable legal requirements."
+            ]
+        },
+        {
+            "id": "legal-compliance-responsibilities",
+            "heading": "Legal Compliance and Responsibilities",
+            "content": [
+                "**1. Local, National, and International Laws:**",
+                "The Company is not responsible for ensuring the game website complies with any legal requirements related to gambling, betting, or gaming in any jurisdiction. This includes, but is not limited to:",
+                "- The Public Gambling Act, 1867",
+                "- The Rajasthan Public Gaming Ordinance, 1949",
+                "- The Information Technology (IT) Act, 2000",
+                "- The Rajasthan Prevention of Gambling Ordinance, 1949",
+                "- Internet and Online Gaming Regulations",
+                "- Intellectual Property Laws (e.g., Copyright Act, 1957 and Patents Act, 1970)",
+                "- Consumer Protection Act, 2019",
+                "- RBI Guidelines for Online Payments",
+                "- Children's Online Privacy Protection Act",
+                "- Law For Online Transaction",
+                "- Guidelines from Ministry of Information and Broadcasting and Ministry of Electronics and Information Technology (MeitY)",
+                "- International Licensing Requirements such as those set by the UK Gambling Commission, Curacao eGaming, and Malta Gaming Authority (MGA)",
+                "",
+                "**2. Licensing and Compliance:**",
+                "It is the Client's sole responsibility to obtain and maintain all necessary licenses, permits, and approvals required for operating the website and its games in any jurisdiction where they intend to operate. The Company will not be responsible for verifying the legality of the website's operations or the validity of any licenses or permits obtained by the Client.",
+                "",
+                "If the Client acquires certification or licensing for a specific region but does not have the requisite permissions for other regions, it is the Client's responsibility to restrict access to the website accordingly, ensuring it is only available in regions where they hold valid certifications or licenses.",
+                "",
+                "**Example:** If the Client acquires certification or licensing to operate their game website in a specific region, such as New Jersey, USA, Sweden, United Kingdom, Singapore, but does not have the required permissions or licenses to operate in other regions like Telangana and Andhra Pradesh, India etc., it is solely the Client's responsibility to ensure that access to the website is restricted accordingly. This means that the Client must take all necessary measures, such as geoblocking or IP restrictions, to ensure that users from regions where they do not hold valid licenses cannot access or use the website.",
+                "",
+                "Failure to restrict access to regions where the Client does not have legal approval could result in legal consequences. However, the Company bears no responsibility for monitoring or implementing these restrictions. It is entirely the Client's duty to ensure compliance with local and international gaming laws in the jurisdictions where their website is made available.",
+                "",
+                "**3. Legal and Regulatory Advice:**",
+                "The Company does not provide any legal, regulatory, or compliance advice regarding the development or operation of the game website. The Client is advised to seek independent legal counsel or a regulatory expert to ensure that their website complies with all relevant laws and regulations, including but not limited to gaming, gambling, and betting laws, as well as data protection and privacy laws, tax laws (such as GST certification and TDS laws), and other applicable regulations.",
+                "",
+                "**4. Client's Full Responsibility:**",
+                "The Client acknowledges and agrees that they are fully responsible for the legal compliance, management, and operation of the game website once development is complete. This includes all aspects related to regulatory compliance, user safety, financial transactions, and dispute resolution with users or government authorities. The Company will not be liable for any claims, damages, losses, or legal actions arising from the use or misuse of the game website by the Client or its users.",
+                "",
+                "**5. Non-Involvement in Operations and Legal Compliance:**",
+                "The Company is not a partner, co-owner, or stakeholder in the game website or its operations. The Company's responsibilities are strictly limited to the technical aspects of development as per the Client's instructions. All operational decisions, including those related to legal compliance, user engagement, financial management, and dispute handling, are solely the Client's responsibility."
+            ]
+        },
+        {
+            "id": "indemnification-liability",
+            "heading": "Indemnification and Liability",
+            "content": [
+                "**1. Indemnification:**",
+                "The Client agrees to indemnify, defend, and hold harmless MetaBlock Technologies LLP (the \"Company\") from any and all claims, damages, losses, liabilities, and expenses, including reasonable attorney fees, arising out of or in connection with the operation or use of the game website. This includes but is not limited to any illegal activities, non-compliance with applicable local, national, or international laws, fraud, or any disputes with users, government authorities, or third parties.",
+                "",
+                "The Client acknowledges that it is fully and solely responsible for ensuring the legal compliance of the game website and its operations. The Client further agrees that the Company will not be held accountable for any illegal activity, regulatory violations, or legal disputes conducted through or related to the game website. Any legal consequences arising from the operation of the website, including fines, claims, or lawsuits from users or government authorities, are the complete responsibility of the Client.",
+                "",
+                "**2. Suspension and Termination Rights:**",
+                "If it comes to the Company's attention, either through a third party or a government entity, that the Client is operating the website or game in violation of government laws or regulations, the Company reserves the right to immediately suspend or terminate the operation. It is not the Company's responsibility to monitor or track the Client's activities, but upon receiving such information, the Company will take appropriate action.",
+                "",
+                "**3. GGR Payment and Liability:**",
+                "- The Client is responsible for paying the Gross Gaming Revenue (GGR) either directly to the game provider or through the Company, as per the agreed terms with the game provider.",
+                "- The Company may apply on behalf of the Client to the game provider for GGR payments. However, if any legal action is taken against the Company by the game provider due to the Client's failure to pay GGR or other related issues, the Client will bear full responsibility.",
+                "- The Client agrees to indemnify and hold the Company harmless from any legal claims, penalties, or consequences arising from the Client's failure to pay GGR or any related disputes, including any potential legal actions taken against the Company.",
+                "- The Company is not a partner in the game and is only facilitating the application process for the Client. The Client remains solely responsible for all GGR payments and associated liabilities."
+            ]
+        },
+        {
+            "id": "definition-of-roles",
+            "heading": "Definition of Roles",
+            "content": [
+                "**1. Role of the Company:**",
+                "- MetaBlock Technologies LLP is engaged solely to provide technical development services as per the Client's specifications. These services include the design, coding, integration and delivery of the game website.",
+                "- The Company is not involved in the operational, financial, regulatory, or managerial aspects of the game website. Its sole responsibility is to deliver a technically functional website that meets the Client's development specifications.",
+                "- The Company does not provide any warranty, guarantee, or assurance regarding the legal compliance, financial viability, or market success of the game website or any of its components.",
+                "- The Company is not a partner, co-owner, or stakeholder in the game website or any business operations related to the website. It holds no interest, financial or otherwise, in the game website beyond the scope of development services provided under this Agreement.",
+                "- The Company does not assume any responsibility for obtaining licenses, permits, certifications, or regulatory approvals required for the operation of the game website.",
+                "- The Company's role does not include any legal or regulatory advisory services, and it does not provide guidance or advice on compliance with gaming, betting, or gambling laws, nor with other local, state, national, or international regulations.",
+                "",
+                "**2. Role of the Client:**",
+                "- The Client is solely responsible for providing the Company with complete, accurate, and lawful specifications and requirements for the development of the game website.",
+                "- The Client must ensure that all content, features, and functionalities in the website are in compliance with all applicable laws and regulations in the jurisdictions where client want to operate the website.",
+                "- **Game Legality:** The Client is solely responsible for verifying the legality of any games they wish to develop and deploy on the website. This includes ensuring that all games, whether skill-based, chance-based, betting, slot, or style, comply with applicable local, national, and international gaming laws and regulations.",
+                "- **Necessary Documentation:** The Client is responsible for acquiring and maintaining all necessary licenses, permits, and legal documentation required for operating the website and its games in their jurisdiction. This includes but is not limited to, gaming licenses, gambling permits, GST certifications and any other regulatory certifications.",
+                "- **Legal Certifications:** It is the Client's duty to secure any legal certifications or approvals needed for the website's operation and to ensure that these documents are valid and up-to-date."
+            ]
+        },
+        {
+            "id": "operation-management",
+            "heading": "Operation and Management",
+            "content": [
+                "**1. Operational Compliance:**",
+                "The Client is responsible for the operational aspects of the website, including ongoing management, updates, and adherence to legal standards. The Company's involvement is limited to the development of the website as per the agreed specifications and does not extend to operational oversight or legal compliance post-delivery.",
+                "",
+                "**2. User Management Responsibilities:**",
+                "- **User Complaints:** The Client is responsible for addressing and resolving all user complaints related to the website. The Company shall not be involved in or responsible for handling any user issues or disputes.",
+                "- **Fraud and Scams:** The Client assumes full responsibility for any fraudulent activities or scams occurring on the website. The Company shall not be liable for any losses or damages resulting from such activities.",
+                "- **Payment Disputes:** The Client is responsible for managing and resolving any financial disputes between users and the website. The Company will not handle or be liable for financial transactions or payment issues.",
+                "- **Consumer Protection:** The Client agrees to adhere to all applicable consumer protection laws and ensure that their website complies with relevant regulations regarding user interactions and financial transactions.",
+                "- **User Data and Privacy Issues:** The Client is responsible for complying with data protection laws and ensuring the security of user data. The Company shall not be liable for any data breaches or privacy issues related to the website.",
+                "- **User Authentication and Security:** The Client must implement and manage secure user authentication procedures. The Company is not responsible for security vulnerabilities or user authentication issues after the website is delivered.",
+                "- **Age Restriction:** The Client agrees to ensure that the game website is only accessible to individuals who are considered adults according to the legal age of adulthood in their respective jurisdiction. It is the Client's sole responsibility to implement and enforce age verification measures on the website to restrict access to minors.",
+                "- **User Interaction and Content Management:** The Client is responsible for moderating user-generated content and managing user interactions on the website. The Company shall not be involved in content moderation or user conduct enforcement.",
+                "",
+                "**3. Legal Matters:**",
+                "- **Legal Recourse:** The Client agrees to handle any legal claims or disputes arising from user complaints. The Company shall be indemnified against any legal actions or penalties resulting from such claims.",
+                "- **Regulatory Compliance:** The Client is responsible for ensuring that the website meets all relevant gaming regulations and reporting requirements.",
+                "- **Exclusion of Claims:** Users and government authorities acknowledge that they have no claim against the Company for issues arising from the website's operation. All responsibilities and liabilities remain with the Client.",
+                "- **Duty to Address Legal Issues:** The Client agrees to handle all legal issues related to the website, including legal representation and associated costs. The Company shall not be responsible for managing or participating in legal matters."
             ]
         }
     ]

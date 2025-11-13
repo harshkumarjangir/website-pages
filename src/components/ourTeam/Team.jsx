@@ -15,7 +15,7 @@ export default function Team({ data }) {
                 </div>
 
                 {/* ===== Team Grid ===== */}
-                <div className="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+                <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
                     {team.members.map((member, index) => (
                         <div key={index} className="text-center">
                             <div className="relative w-full h-32 md:h-36 lg:h-40 aspect-[4/5] rounded-xl overflow-hidden mb-4">
@@ -28,6 +28,7 @@ export default function Team({ data }) {
                             </div>
                             <h3 className="text-base font-semibold">{member.name}</h3>
                             <p className="text-gray-400 text-sm">{member.designation}</p>
+                            <p className="text-gray-400 text-sm">{member.experience}</p>
                         </div>
                     ))}
                 </div>

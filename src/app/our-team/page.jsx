@@ -6,14 +6,15 @@ import OurVisionaries from "@/components/ourTeam/OurVisionaries";
 import Team from "@/components/ourTeam/Team";
 
 export default function OurTeam() {
-    const { teamHero, leaders, visionaries, team } = ourTeamData;
+    const { teamHero, leaders, visionaries, teamDev ,teamSales } = ourTeamData;
 
     return (
         <>
             <OurTeamHero data={teamHero} />
             <OurLeaders data={leaders} />
             <OurVisionaries data={visionaries} />
-            <Team data={team} />
+            <Team data={teamDev} />
+            <Team data={teamSales} />
         </>
 
 

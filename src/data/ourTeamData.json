@@ -79,11 +79,430 @@
                 "name": "Samar Katara",
                 "designation": "Operational Manager",
                 "image": "/assets/our-team/visionaries/samar-katara.jpg"
+            },
+            {
+                "name": "Rakesh Sharma",
+                "designation": "Digital Marketing Executive",
+                "image": "/assets/our-team/team/user-image-p.png"
             }
         ]
     },
-    "team": {
-        "title": "Meet Our Team Members",
+    "teamDev": {
+        "title": "Meet Our Development Team Members",
+        "description": "Our talented team members work passionately to bring innovative solutions, impactful ideas, and transformative technologies to life.",
+        "members": [
+            {
+                "name": "Aman Sharma",
+                "designation": "Full Stack Developer",
+                "experience": "7+ Year Exp.",
+                "image": "/assets/our-team/team/dev-team/aman-sharma.png"
+            },
+            {
+                "name": "Shivam Swami",
+                "designation": "Full Stack Developer",
+                "experience": "5+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Harshvardhan Swami",
+                "designation": "MERN Stack Developer",
+                "experience": "4.5+ Year Exp.",
+                "image": "/assets/our-team/team/dev-team/harshvardhan-swami.png"
+            },
+            {
+                "name": "Siddharth Goyal",
+                "designation": "Full Stack Developer",
+                "experience": "4+ Year Exp.",
+                "image": "/assets/our-team/team/dev-team/siddharth-copy-removebg.png"
+            },
+            {
+                "name": "Gaurav Tiwari",
+                "designation": "Full Stack Developer",
+                "experience": "3+ Year Exp.",
+                "image": "/assets/our-team/team/dev-team/gaurav-tiwari.jpg"
+            },
+            {
+                "name": "Harsh Kumar Jangir",
+                "designation": "Full Stack Developer",
+                "experience": "3+ Year Exp.",
+                "image": "/assets/our-team/team/dev-team/harshkumarjangir.png"
+            },
+            {
+                "name": "Sudha Mishra",
+                "designation": "Php Developer",
+                "experience": "5+ Year Exp.",
+                "image": "/assets/our-team/team/dev-team/sudha-mishra.jpg"
+            },
+            {
+                "name": "Seema Kanwar",
+                "designation": "Backend Developer",
+                "experience": "6+ Year Exp.",
+                "image": "/assets/our-team/team/dev-team/seema-kanwar.png"
+            },
+            {
+                "name": "Aarav Patel",
+                "designation": "Web Designer",
+                "experience": "2+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Sneha Sharma",
+                "designation": "Web Designer",
+                "experience": "3+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Rohit Mehta",
+                "designation": ".NET Developer",
+                "experience": "4+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Anjali Verma",
+                "designation": ".NET Developer",
+                "experience": "3+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Kunal Singh",
+                "designation": ".NET Developer",
+                "experience": "5+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Pooja Nair",
+                "designation": ".NET Developer",
+                "experience": "2+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Vikram Joshi",
+                "designation": ".NET Developer",
+                "experience": "4+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Neha Gupta",
+                "designation": "React.js Developer",
+                "experience": "3+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Aditya Jain",
+                "designation": "React.js Developer",
+                "experience": "2+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Kritika Yadav",
+                "designation": "React.js Developer",
+                "experience": "4+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Ritesh Kumar",
+                "designation": "React.js Developer",
+                "experience": "5+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Sahil Bansal",
+                "designation": "React.js Developer",
+                "experience": "2+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Divya Raj",
+                "designation": "React.js Developer",
+                "experience": "3+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Manish Tiwari",
+                "designation": "React.js Developer",
+                "experience": "4+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Gaurav Tiwari",
+                "designation": "Full Stack Developer",
+                "experience": "3+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Rina Das",
+                "designation": "Full Stack Developer",
+                "experience": "4+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Amit Chauhan",
+                "designation": "Full Stack Developer",
+                "experience": "5+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Meena Reddy",
+                "designation": "Full Stack Developer",
+                "experience": "2+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Tanishq Agarwal",
+                "designation": "Full Stack Developer",
+                "experience": "4+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Rohini Iyer",
+                "designation": "Full Stack Developer",
+                "experience": "3+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Vivek Malhotra",
+                "designation": "Full Stack Developer",
+                "experience": "6+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Priya Nambiar",
+                "designation": "Full Stack Developer",
+                "experience": "4+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Rahul Sethi",
+                "designation": "Angular.js Developer",
+                "experience": "3+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Tanvi Kapoor",
+                "designation": "Angular.js Developer",
+                "experience": "2+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Nitin Paul",
+                "designation": "Angular.js Developer",
+                "experience": "4+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Kiran Shetty",
+                "designation": "PHP Developer",
+                "experience": "3+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Sanjay Rao",
+                "designation": "PHP Developer",
+                "experience": "2+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Ayesha Khan",
+                "designation": "PHP Developer",
+                "experience": "4+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Deepak Yadav",
+                "designation": "PHP Developer",
+                "experience": "3+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Pallavi Joshi",
+                "designation": "PHP Developer",
+                "experience": "5+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Ravindra Kumar",
+                "designation": "PHP Developer",
+                "experience": "4+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Shruti Mishra",
+                "designation": "Mobile Application Developer",
+                "experience": "3+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Harsh Rajput",
+                "designation": "Mobile Application Developer",
+                "experience": "4+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Ankita Singh",
+                "designation": "Mobile Application Developer",
+                "experience": "2+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Rajesh Chauhan",
+                "designation": "Mobile Application Developer",
+                "experience": "3+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Puneet Khanna",
+                "designation": "Quality Analyst Developer",
+                "experience": "4+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Neelam Bhatia",
+                "designation": "Quality Analyst Developer",
+                "experience": "3+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Ajay Deshmukh",
+                "designation": "Quality Analyst Developer",
+                "experience": "5+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Rohit Vora",
+                "designation": "Project Manager Developer",
+                "experience": "6+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Kavita Pillai",
+                "designation": "Project Manager Developer",
+                "experience": "5+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Anurag Sen",
+                "designation": "Project Manager Developer",
+                "experience": "4+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Payal Sharma",
+                "designation": "Project Manager Developer",
+                "experience": "6+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Ishaan Kapoor",
+                "designation": "Cyber Security Developer",
+                "experience": "4+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Ritika Sinha",
+                "designation": "Cyber Security Developer",
+                "experience": "3+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Devansh Pandey",
+                "designation": "Cyber Security Developer",
+                "experience": "5+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Snehal More",
+                "designation": "Cyber Security Developer",
+                "experience": "2+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Aakash Bhatt",
+                "designation": "Cyber Security Developer",
+                "experience": "4+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Priyanka Thakur",
+                "designation": "Cyber Security Developer",
+                "experience": "3+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Sameer Chauhan",
+                "designation": "Database Management Developer",
+                "experience": "4+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Mitali Joshi",
+                "designation": "Database Management Developer",
+                "experience": "3+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Vikas Patel",
+                "designation": "Database Management Developer",
+                "experience": "5+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Yash Goel",
+                "designation": "Blockchain Developer",
+                "experience": "3+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Simran Kaur",
+                "designation": "Blockchain Developer",
+                "experience": "4+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Karthik Menon",
+                "designation": "Blockchain Developer",
+                "experience": "5+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Ruchi Bansal",
+                "designation": "Blockchain Developer",
+                "experience": "3+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Mohit Arora",
+                "designation": "Blockchain Developer",
+                "experience": "4+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Shravani Patil",
+                "designation": "Blockchain Developer",
+                "experience": "3+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Ravi Desai",
+                "designation": "Unity Developer",
+                "experience": "4+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Isha Rawat",
+                "designation": "Unity Developer",
+                "experience": "3+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Nirav Shah",
+                "designation": "Unity Developer",
+                "experience": "5+ Year Exp.",
+                "image": "/assets/our-team/team/user-image.png"
+            }
+        ]
+    },
+    "teamSales": {
+        "title": "Meet Our Sales Team Members",
         "description": "Our talented team members work passionately to bring innovative solutions, impactful ideas, and transformative technologies to life.",
         "members": [
             {
@@ -122,6 +541,11 @@
                 "image": "/assets/our-team/team/harman-arora.jpg"
             },
             {
+                "name": "Vinay Gaur",
+                "designation": "Sales Executive",
+                "image": "/assets/our-team/team/vinay-gaur.jpg"
+            },
+            {
                 "name": "Sonu Rav",
                 "designation": "Project Manager",
                 "image": "/assets/our-team/team/user-image.png"
@@ -157,11 +581,6 @@
                 "image": "/assets/our-team/team/user-image.png"
             },
             {
-                "name": "Vinay Gaur",
-                "designation": "TeleCaller",
-                "image": "/assets/our-team/team/user-image.png"
-            },
-            {
                 "name": "Virendra Kumar",
                 "designation": "Sales Executive",
                 "image": "/assets/our-team/team/user-image.png"
@@ -182,8 +601,78 @@
                 "image": "/assets/our-team/team/user-image.png"
             },
             {
-                "name": "Rakesh Sharma",
-                "designation": "Digital Marketing Executive",
+                "name": "Ravi Sharma",
+                "designation": "Sales Executive",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Priya Patel",
+                "designation": "Sales Executive",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Vikas Mehra",
+                "designation": "Senior Sales Executive",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Ananya Gupta",
+                "designation": "Senior Sales Executive",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Kunal Tiwari",
+                "designation": "Sales Manager",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Neha Sinha",
+                "designation": "Business Development Executive",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Rohit Yadav",
+                "designation": "Business Development Executive",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Sneha Reddy",
+                "designation": "Email Marketing Person",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Amit Verma",
+                "designation": "LinkedIn Expert",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Nidhi Chauhan",
+                "designation": "Freelancer Portal Expert (Upwork/Fiverr)",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Harsh Raj",
+                "designation": "Freelancer Portal Expert (Upwork/Fiverr)",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Simran Kaur",
+                "designation": "Lead Manager",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Rajeev Joshi",
+                "designation": "Sales Performance Manager",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Ankita Deshmukh",
+                "designation": "Revenue Manager",
+                "image": "/assets/our-team/team/user-image.png"
+            },
+            {
+                "name": "Manoj Kumar",
+                "designation": "Tender Expert / GeM Expert",
                 "image": "/assets/our-team/team/user-image.png"
             }
         ]

@@ -19,7 +19,7 @@ export default function OurVisionaries({ data }) {
                     </div>
 
                     {/* Right Section - Grid of Leaders */}
-                    <div className="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+                    <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-8">
                         {visionaries.members.map((person) => (
                             <div key={person.name} className="text-left">
                                 <div className="relative w-full aspect-square rounded-2xl overflow-hidden mb-4 shadow-md">
