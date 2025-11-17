@@ -838,17 +838,28 @@ export default function Footer() {
                         <div key={idx} className="border-b border-gray-700 pb-2">
                             {col.logo ? (
                                 <div className="flex flex-col items-center gap-3 py-4">
-                                    <img
+                                    <Image
                                         src={col.logo}
                                         alt="Company Logo"
-                                        className="w-28 h-auto"
+                                        width={112}      // w-28 → 112px
+                                        height={100}
+                                        className="h-auto"
                                     />
+
                                     {col.qrCode && (
-                                        <img
-                                            src={col.qrCode}
-                                            alt="Company QR Code"
-                                            className="w-20 h-20 object-contain border border-gray-700 rounded-lg p-1"
-                                        />
+                                        // <img
+                                        //     src={col.qrCode}
+                                        //     alt="Company QR Code"
+                                        //     className="w-20 h-20 object-contain border border-gray-700 rounded-lg p-1"
+                                        // />
+                                        <div className="w-20 h-20 border border-gray-700 rounded-lg p-1 relative">
+                                            <Image
+                                                src={col.qrCode}
+                                                alt="Company QR Code"
+                                                fill
+                                                className="object-contain"
+                                            />
+                                        </div>
                                     )}
                                     {col.description && (
                                         <p className="text-center text-sm text-gray-400">
